@@ -104,7 +104,7 @@ if video_data:
 
             if transcript:
                 # *** MELHORIA 1.1: Uso do modelo 'pro' para maior qualidade de análise ***
-                model = genai.GenerativeModel('gemini-2.5-flash')
+                model = genai.GenerativeModel('gemini-2.5-pro')
 
                 # *** MELHORIA 1.2: Configuração de geração para maior consistência ***
                 generation_config = genai.types.GenerationConfig(
