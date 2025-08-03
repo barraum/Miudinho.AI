@@ -1,0 +1,26 @@
+# Arquivos de ambiente virtual do Python (essencial)
+env/
+.venv/
+venv/
+
+# Arquivo de segredos (essencial)
+.env
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+
+# Pasta de legendas que você baixa localmente (não precisa estar no repo)
+legendas/
+ferramentas/
+
+# Arquivos de configuração de IDE/Editor
+.vscode/
+.idea/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração local do Streamlit
+.streamlit/

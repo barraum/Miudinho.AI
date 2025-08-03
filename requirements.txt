@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+faiss-cpu # Importante usar a versão para CPU, pois a nuvem não oferece GPU grátis
+numpy
+youtube-transcript-api
