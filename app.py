@@ -191,27 +191,24 @@ with tab2:
                 horizontal=True
             )
 
-            if st.button("Analisar com Gemini", type="primary", use_container_width=True):
+            if st.button("Analisar com Gemini", key="analyze_button", use_container_width=True):
                 with st.spinner("Buscando legendas do vídeo... 📜"):
                     transcript = get_video_transcript(selected_video['url'])
 
                 # A MÁGICA ACONTECE AQUI:
                 # Toda a lógica a seguir só é executada SE a transcrição for obtida com sucesso.
                 if transcript:
-                    model = genai.GenerativeModel('gemini-2.5-flash')
+                    prompt_base = ""
                     generation_config = genai.types.GenerationConfig(
                         temperature=0.2 
                     )
-                    prompt_base = None
-                    
+
                     # 1. Define o prompt base de acordo com a ação escolhida
                     if action == "Análise de Expressões e Referências":
                         prompt_base = f"""
                         Você é um assistente de pesquisa acadêmica especializado em estudos bíblicos com base na Doutrina Espírita.
                         Sua tarefa é analisar a transcrição de um vídeo e o versículo-chave fornecidos para extrair informações específicas.
-
                         FORMATE SUA RESPOSTA USANDO MARKDOWN.
-
                         Com base em AMBOS (a transcrição e o versículo), extraia e liste APENAS o seguinte:
                         
                         ### Palavras e Expressões em Análise
@@ -219,34 +216,30 @@ with tab2:
 
                         ### Referências Bibliográficas
                         Liste todos os livros, autores e capítulos que são explicitamente mencionados no vídeo como fonte de consulta. Use o formato: `Livro (Autor) - Capítulo/Referência`.
-                        
-                        Se nenhuma referência bibliográfica for mencionada no vídeo, escreva "Nenhuma referência bibliográfica explícita foi mencionada.".
-                        Não adicione conclusões, resumos ou qualquer outra informação além do que foi solicitado.
+                        Se nenhuma referência bibliográfica for mencionada, escreva "Nenhuma referência bibliográfica explícita foi mencionada.".
+                        Não adicione conclusões ou qualquer outra informação além do que foi solicitado.
                         """
                     
                     elif action == "Resumo Inteligente do Vídeo":
                         prompt_base = f"""
-                        Você é um especialista em síntese de conteúdo. Sua tarefa é criar um resumo claro e informativo que conecte o conteúdo da transcrição de um vídeo ao seu versículo-chave.
-
+                        Você é um especialista em síntese de conteúdo. Sua tarefa é criar um resumo claro e informativo que conecte a transcrição de um vídeo ao seu versículo-chave.
                         FORMATE SUA RESPOSTA USANDO MARKDOWN.
-
                         Siga estas instruções:
                         
                         ### Resumo da Análise
-                        Em 2 a 3 parágrafos, explique como a pregação no vídeo aprofunda e interpreta o tema central apresentado no versículo-chave. O resumo deve ser conciso e fiel ao conteúdo da transcrição.
+                        Em 2 a 3 parágrafos, explique como a pregação no vídeo aprofunda e interpreta o tema central apresentado no versículo-chave. O resumo deve ser conciso e fiel ao conteúdo.
 
                         ### Tópicos Principais
                         Liste de 3 a 5 pontos ou argumentos centrais apresentados no vídeo que explicam o versículo.
                         """
 
                     # 2. Constrói o prompt final com todo o contexto
-                    versiculo = selected_video['descricao']
+                    versiculo = selected_video.get('descricao', 'Nenhum versículo fornecido.')
                     
                     prompt_final = f"""
                     {prompt_base}
 
                     --- CONTEXTO PARA ANÁLISE ---
-
                     **VERSÍCULO-CHAVE:**
                     {versiculo}
 
@@ -257,8 +250,7 @@ with tab2:
                     # 3. Chama a API e mostra o resultado
                     with st.spinner("O MiudinhoAI está analisando o conteúdo... 🧠✍️"):
                         try:
-                            # *** MELHORIA: Passando a generation_config na chamada ***
-                            response = model.generate_content(
+                            response = GENERATIVE_MODEL.generate_content(
                                 prompt_final,
                                 generation_config=generation_config
                             )
@@ -267,4 +259,4 @@ with tab2:
 
                         except Exception as e:
                             st.error(f"Ocorreu um erro ao chamar a API do Gemini: {e}")
-                            st.info("Isso pode ocorrer por diversos motivos, como conteúdo bloqueado por políticas de segurança ou um problema temporário na API. Tente novamente mais tarde.")
+                            st.info("Isso pode ocorrer por diversos motivos, como conteúdo bloqueado por políticas de segurança ou um problema temporário na API.")
