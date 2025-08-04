@@ -156,16 +156,19 @@ with tab1:
             else:
                 st.warning("Por favor, digite uma pergunta.")
 
-# --- ABA 2: ANÁLISE DE VÍDEO INDIVIDUAL ---
+# --- ABA 2: ANÁLISE DE VÍDEO INDIVIDUAL (VERSÃO CORRIGIDA E COMPLETA) ---
 with tab2:
     st.header("Analise um vídeo específico")
     st.info("Escolha um vídeo da lista para obter um resumo inteligente ou uma análise de expressões e referências.")
 
+    # Carrega os dados dos vídeos para esta aba
     video_data = load_video_data(VIDEO_JSON_FILE)
 
     if video_data:
         video_titles = [video['titulo'] for video in video_data]
-        selected_title = st.selectbox("Escolha um dos vídeos para analisar:", options=video_titles)
+        selected_title = st.selectbox("Escolha um dos vídeos para analisar:", options=video_titles, key="video_selector")
+        
+        # Encontra o dicionário completo do vídeo selecionado
         selected_video = next((video for video in video_data if video['titulo'] == selected_title), None)
 
         if selected_video:
@@ -173,8 +176,9 @@ with tab2:
             with col1:
                 st.video(selected_video['url'])
             with col2:
-                st.subheader("Informações")
+                st.subheader("Informações do Vídeo")
                 st.write(f"**Título:** {selected_video['titulo']}")
+                # Garante que a descrição (versículo) existe e não está vazia antes de mostrar
                 if 'descricao' in selected_video and selected_video['descricao']:
                     st.write(f"**📜 Versículo-chave:** *{selected_video['descricao']}*")
             
@@ -191,15 +195,68 @@ with tab2:
                 with st.spinner("Buscando legendas do vídeo... 📜"):
                     transcript = get_video_transcript(selected_video['url'])
 
+                # A MÁGICA ACONTECE AQUI:
+                # Toda a lógica a seguir só é executada SE a transcrição for obtida com sucesso.
                 if transcript:
                     prompt_base = ""
+                    generation_config = genai.types.GenerationConfig(
+                        temperature=0.2 
+                    )
+
+                    # 1. Define o prompt base de acordo com a ação escolhida
                     if action == "Análise de Expressões e Referências":
-                        prompt_base = "..." # (O prompt longo vai aqui)
-                    elif action == "Resumo Inteligente do Vídeo":
-                        prompt_base = "..." # (O outro prompt longo vai aqui)
+                        prompt_base = f"""
+                        Você é um assistente de pesquisa acadêmica especializado em estudos bíblicos com base na Doutrina Espírita.
+                        Sua tarefa é analisar a transcrição de um vídeo e o versículo-chave fornecidos para extrair informações específicas.
+                        FORMATE SUA RESPOSTA USANDO MARKDOWN.
+                        Com base em AMBOS (a transcrição e o versículo), extraia e liste APENAS o seguinte:
+                        
+                        ### Palavras e Expressões em Análise
+                        Liste a(s) palavra(s) ou expressão(ões) do versículo que são o foco principal da análise no vídeo. Geralmente, o palestrante menciona explicitamente qual termo está "estudando miudinho".
+
+                        ### Referências Bibliográficas
+                        Liste todos os livros, autores e capítulos que são explicitamente mencionados no vídeo como fonte de consulta. Use o formato: `Livro (Autor) - Capítulo/Referência`.
+                        Se nenhuma referência bibliográfica for mencionada, escreva "Nenhuma referência bibliográfica explícita foi mencionada.".
+                        Não adicione conclusões ou qualquer outra informação além do que foi solicitado.
+                        """
                     
-                    # (Restante da lógica de geração do prompt e chamada da API da aba 2)
-                    # Para economizar espaço, o restante da lógica (que você já tem) iria aqui.
-                    # Apenas copie e cole a partir do `if action == ...` do seu script original.
-                    # ...
-                    st.success("Análise concluída!") # Exemplo
+                    elif action == "Resumo Inteligente do Vídeo":
+                        prompt_base = f"""
+                        Você é um especialista em síntese de conteúdo. Sua tarefa é criar um resumo claro e informativo que conecte a transcrição de um vídeo ao seu versículo-chave.
+                        FORMATE SUA RESPOSTA USANDO MARKDOWN.
+                        Siga estas instruções:
+                        
+                        ### Resumo da Análise
+                        Em 2 a 3 parágrafos, explique como a pregação no vídeo aprofunda e interpreta o tema central apresentado no versículo-chave. O resumo deve ser conciso e fiel ao conteúdo.
+
+                        ### Tópicos Principais
+                        Liste de 3 a 5 pontos ou argumentos centrais apresentados no vídeo que explicam o versículo.
+                        """
+
+                    # 2. Constrói o prompt final com todo o contexto
+                    versiculo = selected_video.get('descricao', 'Nenhum versículo fornecido.')
+                    
+                    prompt_final = f"""
+                    {prompt_base}
+
+                    --- CONTEXTO PARA ANÁLISE ---
+                    **VERSÍCULO-CHAVE:**
+                    {versiculo}
+
+                    **TRANSCRIÇÃO COMPLETA DO VÍDEO:**
+                    {transcript}
+                    """
+                    
+                    # 3. Chama a API e mostra o resultado
+                    with st.spinner("O MiudinhoAI está analisando o conteúdo... 🧠✍️"):
+                        try:
+                            response = GENERATIVE_MODEL.generate_content(
+                                prompt_final,
+                                generation_config=generation_config
+                            )
+                            st.header("Resultado da Análise")
+                            st.markdown(response.text)
+
+                        except Exception as e:
+                            st.error(f"Ocorreu um erro ao chamar a API do Gemini: {e}")
+                            st.info("Isso pode ocorrer por diversos motivos, como conteúdo bloqueado por políticas de segurança ou um problema temporário na API.")
