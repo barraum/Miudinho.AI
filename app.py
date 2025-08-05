@@ -6,7 +6,8 @@ import faiss
 import pickle
 import numpy as np
 import json
-from youtube_transcript_api import YouTubeTranscriptApi, NoTranscriptFound, TranscriptsDisabled
+from pytubefix import YouTube
+import xml.etree.ElementTree as ET
 
 # --- CONFIGURAÇÃO INICIAL DA PÁGINA ---
 st.set_page_config(
@@ -111,19 +112,46 @@ def load_video_data(filepath):
         return None
 
 def get_video_transcript(url):
-    """Extrai a transcrição de um vídeo do YouTube."""
+    """
+    Extrai a transcrição de um vídeo do YouTube usando pytubefix para evitar bloqueios de IP.
+    """
     try:
-        video_id = url.split('v=')[-1].split('&')[0]
-        if '/' in video_id:
-             video_id = video_id.split('/')[-1]
+        yt = YouTube(url)
+        
+        # Prioriza a busca por legendas em português: manual, brasileira, depois automática
+        caption = None
+        if 'pt' in yt.captions:
+            caption = yt.captions['pt']
+        elif 'pt-BR' in yt.captions:
+            caption = yt.captions['pt-BR']
+        elif 'a.pt' in yt.captions:
+            caption = yt.captions['a.pt']
+        
+        # Se nenhuma legenda em português for encontrada
+        if not caption:
+            st.error("ERRO: Não foi possível encontrar legendas em português (manuais ou automáticas) para este vídeo.")
+            st.warning("Verifique se o vídeo possui legendas em português no YouTube.")
+            return None
 
-        transcript_list = YouTubeTranscriptApi.get_transcript(video_id, languages=['pt', 'pt-BR'])
-        return " ".join([item['text'] for item in transcript_list])
-    except (NoTranscriptFound, TranscriptsDisabled):
-        st.error("ERRO: Não foi possível encontrar legendas em português para este vídeo.")
-        return None
+        # As legendas vêm em formato XML, então precisamos processá-las
+        xml_captions = caption.xml_captions
+        
+        # Usa o ElementTree para extrair o texto de dentro das tags XML
+        root = ET.fromstring(xml_captions)
+        transcript_lines = []
+        for elem in root.iter('text'):
+            if elem.text:
+                transcript_lines.append(elem.text)
+        
+        if not transcript_lines:
+            st.error("ERRO: A trilha de legenda foi encontrada, mas está vazia.")
+            return None
+
+        return " ".join(transcript_lines)
+
     except Exception as e:
-        st.error(f"Ocorreu um erro inesperado ao buscar as legendas: {e}")
+        st.error(f"Ocorreu um erro inesperado ao tentar buscar as legendas com pytubefix: {e}")
+        st.info("Isso pode ser um problema com a biblioteca, a URL do vídeo ou uma restrição de acesso.")
         return None
 
 # --- INTERFACE PRINCIPAL COM ABAS ---
