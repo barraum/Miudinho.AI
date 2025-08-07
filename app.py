@@ -1,5 +1,4 @@
 # app.py (versão final unificada)
-import ast
 import streamlit as st
 import google.generativeai as genai
 import faiss
