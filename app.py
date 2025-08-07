@@ -1,5 +1,5 @@
 # app.py (versão final unificada)
-
+import ast
 import streamlit as st
 import google.generativeai as genai
 import faiss
@@ -33,8 +33,8 @@ GENERATIVE_MODEL = genai.GenerativeModel('gemini-2.5-flash')
 EMBEDDING_MODEL = 'models/embedding-001'
 
 # --- ARQUIVOS E CONSTANTES (centralizado) ---
-FAISS_INDEX_FILE = 'banco_vetorial_gemini_txt_1500.index'
-CHUNKS_MAPPING_FILE = 'chunks_mapeamento_gemini_txt_1500.pkl'
+FAISS_INDEX_FILE = 'banco_vetorial_gemini_txt_900.index'
+CHUNKS_MAPPING_FILE = 'chunks_mapeamento_gemini_txt_900.pkl'
 VIDEO_JSON_FILE = 'videos_miudinho_uberaba.json'
 
 # --- FUNÇÕES AUXILIARES DA ABA DE BUSCA (RAG) ---
@@ -53,16 +53,33 @@ def load_faiss_index():
         st.warning("Verifique se os arquivos estão no repositório e se o Git LFS foi usado corretamente.")
         return None, None
 
-def buscar_chunks_relevantes(query, index, metadata, k=20):
-    """Busca os k chunks mais relevantes e retorna seus metadados."""
+def buscar_chunks_relevantes(queries: list, index, metadata, k=10):
+    """
+    Busca os k chunks mais relevantes para uma LISTA de perguntas e retorna
+    os metadados únicos dos chunks encontrados.
+    """
+    # 1. Transforma a lista de perguntas em uma lista de vetores
     result = genai.embed_content(
         model=EMBEDDING_MODEL,
-        content=query,
+        content=queries,
         task_type="RETRIEVAL_QUERY"
     )
-    query_vector = np.array([result['embedding']])
-    distances, indices = index.search(query_vector, k)
-    return [metadata[idx] for idx in indices[0]]
+    query_vectors = np.array(result['embedding'])
+
+    # 2. Busca no FAISS por todos os vetores de uma vez
+    # O resultado 'indices' será uma lista de listas (uma para cada pergunta)
+    distances, indices = index.search(query_vectors, k)
+    
+    # 3. Junta todos os índices encontrados em um conjunto para remover duplicatas
+    unique_indices = set()
+    for indice_list in indices:
+        for idx in indice_list:
+            # -1 é um valor que o FAISS pode retornar se não encontrar vizinhos suficientes
+            if idx != -1:
+                unique_indices.add(idx)
+
+    # 4. Retorna os metadados dos chunks únicos encontrados
+    return [metadata[idx] for idx in unique_indices]
 
 def gerar_resposta_com_busca(query, chunks_relevantes):
     """Gera uma resposta com base na busca, incluindo citações."""
@@ -153,6 +170,39 @@ def get_video_transcript(url):
         st.error(f"Ocorreu um erro inesperado ao tentar buscar as legendas com pytubefix: {e}")
         st.info("Isso pode ser um problema com a biblioteca, a URL do vídeo ou uma restrição de acesso.")
         return None
+    
+def expand_query_with_gemini(user_query):
+    """
+    Usa o Gemini para gerar variações de uma pergunta de forma robusta.
+    Retorna uma lista de perguntas, incluindo a original.
+    """
+    try:
+        # PROMPT SIMPLIFICADO: Pede uma lista separada por quebras de linha.
+        prompt = f"""
+        Você é um assistente de busca especialista em teologia e estudos bíblicos.
+        Gere 4 variações da pergunta do usuário para melhorar a busca em uma base de dados de transcrições de vídeos.
+        Concentre-se em sinônimos, conceitos relacionados e formas alternativas de expressar o mesmo significado.
+        
+        Pergunta Original: "{user_query}"
+
+        Retorne APENAS as perguntas geradas. Liste cada pergunta em uma nova linha. NÃO use marcadores, números ou qualquer outra formatação.
+        """
+        
+        response = GENERATIVE_MODEL.generate_content(prompt)
+        
+        # PARSING ROBUSTO: Divide a resposta por quebras de linha.
+        # Usa uma list comprehension para limpar espaços em branco e remover linhas vazias.
+        expanded_queries = [line.strip() for line in response.text.strip().split('\n') if line.strip()]
+        
+        # Garante que a pergunta original esteja no início da lista
+        expanded_queries.insert(0, user_query)
+            
+        return expanded_queries
+    
+    except Exception as e:
+        # Se qualquer coisa der errado, retorna a pergunta original em uma lista.
+        print(f"Erro ao expandir a pergunta: {e}. Usando a pergunta original.")
+        return [user_query]    
 
 # --- INTERFACE PRINCIPAL COM ABAS ---
 tab1, tab2 = st.tabs(["**🔍 Busca em Todo o Acervo**", "**🎬 Análise de Vídeo Individual**"])
@@ -168,19 +218,47 @@ with tab1:
     if index is not None:
         user_query = st.text_input("Digite sua pergunta:", key="search_query")
 
+        # No seu app.py, ajuste o valor de K aqui. Comece com 10 ou 15.
+        K_VALUE = 15 
+
         if st.button("Buscar Resposta", type="primary", use_container_width=True):
             if user_query:
+                # 1. Expande a pergunta
+                with st.spinner("Refinando e expandindo a pergunta..."):
+                    expanded_queries = expand_query_with_gemini(user_query)
+
+                # (Opcional, mas ótimo para depuração) Mostra as perguntas usadas
+                with st.expander("Ver variações de busca utilizadas"):
+                    st.write(expanded_queries)
+
+                # 2. Busca usando a lista de perguntas
                 with st.spinner("Buscando trechos relevantes no acervo..."):
-                    chunks_relevantes = buscar_chunks_relevantes(user_query, index, metadata)
+                    chunks_relevantes = buscar_chunks_relevantes(expanded_queries, index, metadata, k=K_VALUE)
                 
                 if not chunks_relevantes:
                     st.warning("Não foram encontrados trechos relevantes para a sua pergunta.")
                 else:
+                    # O resto do código permanece igual
                     with st.spinner("O MiudinhoAI está sintetizando a resposta... 🧠✍️"):
                         resposta_final = gerar_resposta_com_busca(user_query, chunks_relevantes)
                     
                     st.subheader("Resposta Gerada")
                     st.markdown(resposta_final)
+
+                    # NOVO: Adiciona um expansor para mostrar os chunks de contexto
+                    with st.expander("📚 Ver os trechos exatos enviados ao Gemini como contexto"):
+                        st.markdown("A resposta acima foi gerada com base nos seguintes trechos de texto recuperados do seu acervo:")
+                        
+                        # Itera sobre cada chunk relevante e o exibe de forma organizada
+                        for i, chunk in enumerate(chunks_relevantes):
+                            st.markdown("---") # Adiciona uma linha divisória
+                            
+                            # Mostra a origem do chunk
+                            st.markdown(f"**Chunk {i+1} | Fonte:** `{chunk['source_file']}`")
+                            
+                            # Usa st.info para dar um destaque visual ao texto do chunk
+                            st.info(chunk['text'])
+
             else:
                 st.warning("Por favor, digite uma pergunta.")
 
