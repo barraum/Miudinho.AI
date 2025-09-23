@@ -29,7 +29,7 @@ except (KeyError, FileNotFoundError):
 
 # --- MODELOS GEMINI (centralizado) ---
 GENERATIVE_MODEL = genai.GenerativeModel('gemini-2.5-flash')
-EMBEDDING_MODEL = 'models/embedding-001'
+EMBEDDING_MODEL = 'models/text-embedding-004'
 
 # --- ARQUIVOS E CONSTANTES (centralizado) ---
 FAISS_INDEX_FILE = 'banco_vetorial_gemini_txt_900.index'
