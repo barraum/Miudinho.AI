@@ -56,18 +56,26 @@ def buscar_chunks_relevantes(queries: list, index, metadata, k=10):
     """
     Busca os k chunks mais relevantes para uma LISTA de perguntas e retorna
     os metadados únicos dos chunks encontrados.
+
+    CORREÇÃO: Gera embeddings individualmente para evitar erros de 'ResourceExhausted'.
     """
-    # 1. Transforma a lista de perguntas em uma lista de vetores
-    result = genai.embed_content(
-        model=EMBEDDING_MODEL,
-        content=queries,
-        task_type="RETRIEVAL_QUERY"
-    )
-    query_vectors = np.array(result['embedding'])
+    # 1. Cria uma lista para armazenar todos os vetores gerados
+    query_vectors = []
+    for query in queries:
+        # Gera o embedding para CADA pergunta, uma por vez
+        result = genai.embed_content(
+            model=EMBEDDING_MODEL,
+            content=query,  # Envia apenas uma string por vez
+            task_type="RETRIEVAL_QUERY"
+        )
+        query_vectors.append(result['embedding'])
+    
+    # Converte a lista de vetores em um array numpy
+    query_vectors_np = np.array(query_vectors, dtype=np.float32).reshape(len(query_vectors), -1)
 
     # 2. Busca no FAISS por todos os vetores de uma vez
     # O resultado 'indices' será uma lista de listas (uma para cada pergunta)
-    distances, indices = index.search(query_vectors, k)
+    distances, indices = index.search(query_vectors_np, k)
     
     # 3. Junta todos os índices encontrados em um conjunto para remover duplicatas
     unique_indices = set()
