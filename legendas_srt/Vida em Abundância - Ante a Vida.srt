@@ -1,0 +1,1804 @@
+1
+00:07:08,360 --> 00:07:12,280
+Pronto, retornamos.
+
+2
+00:07:10,599 --> 00:07:14,960
+Tivemos um problema com o microfone, foi
+
+3
+00:07:12,280 --> 00:07:17,199
+preciso retirar o microfone. Nós vamos
+
+4
+00:07:14,960 --> 00:07:20,000
+então num áudio aberto do computador, um
+
+5
+00:07:17,199 --> 00:07:22,720
+problema técnico. A gente não esperava.
+
+6
+00:07:20,000 --> 00:07:24,960
+Espero que todos possam compir, né?
+
+7
+00:07:22,720 --> 00:07:30,000
+Espero que estejam nos escutando bem.
+
+8
+00:07:24,960 --> 00:07:33,319
+Agora vamos pedir a se a a audição tiver
+
+9
+00:07:30,000 --> 00:07:34,759
+ruim, vocês nos avisem então no chat. A
+
+10
+00:07:33,319 --> 00:07:36,960
+a Juliana, minha esposa, tá aqui
+
+11
+00:07:34,759 --> 00:07:38,560
+assessorando e ela vai tentar resolver o
+
+12
+00:07:36,960 --> 00:07:41,639
+problema
+
+13
+00:07:38,560 --> 00:07:44,360
+não estejam ouvindo bem, né? Então, hoje
+
+14
+00:07:41,639 --> 00:07:46,440
+nós vamos realizar mais uma live
+
+15
+00:07:44,360 --> 00:07:51,800
+tradicional que nós realizamos todo
+
+16
+00:07:46,440 --> 00:07:55,440
+domingo hoje com o tema com a mensagem
+
+17
+00:07:51,800 --> 00:07:58,560
+Ante a vida que está no livro Seguindo
+
+18
+00:07:55,440 --> 00:08:02,440
+Juntos. uma mensagem assinada por
+
+19
+00:07:58,560 --> 00:08:05,039
+Rodrigues de Abril, um livro que é
+
+20
+00:08:02,440 --> 00:08:09,440
+composto por autores diversos, né, lá no
+
+21
+00:08:05,039 --> 00:08:14,599
+capítulo 4, Ante a vida,
+
+22
+00:08:09,440 --> 00:08:18,000
+um texto que diz o seguinte:
+
+23
+00:08:14,599 --> 00:08:22,199
+Converte os teus momentos marchando cada
+
+24
+00:08:18,000 --> 00:08:24,800
+dia em bênçãos de esperança e em
+
+25
+00:08:22,199 --> 00:08:27,720
+migalhas de amor.
+
+26
+00:08:24,800 --> 00:08:32,080
+Não te esqueças que o corpo é a lira
+
+27
+00:08:27,720 --> 00:08:35,880
+milagrosa em que deve ester cordas da
+
+28
+00:08:32,080 --> 00:08:40,519
+bondade, a fim de que teu canto,
+
+29
+00:08:35,880 --> 00:08:44,839
+precedendo-te os passos, fale por ti
+
+30
+00:08:40,519 --> 00:08:47,680
+mais alto na eterna plenitude.
+
+31
+00:08:44,839 --> 00:08:51,000
+Somos nós, em verdade, os escravos do
+
+32
+00:08:47,680 --> 00:08:53,600
+tempo, mas felizes, senhores, do minuto
+
+33
+00:08:51,000 --> 00:08:57,560
+que passa.
+
+34
+00:08:53,600 --> 00:09:02,600
+Gastemos, pois, um instante que Célere
+
+35
+00:08:57,560 --> 00:09:05,800
+nos beija, avançando a servir nas cendas
+
+36
+00:09:02,600 --> 00:09:08,640
+de ascensão.
+
+37
+00:09:05,800 --> 00:09:11,920
+Um gesto de ternura,
+
+38
+00:09:08,640 --> 00:09:15,880
+um sorriso mais doce,
+
+39
+00:09:11,920 --> 00:09:17,920
+uma frase em que brilha o grande
+
+40
+00:09:15,880 --> 00:09:20,519
+entendimento,
+
+41
+00:09:17,920 --> 00:09:22,440
+uma flor que transborde o perfume da
+
+42
+00:09:20,519 --> 00:09:26,480
+paz.
+
+43
+00:09:22,440 --> 00:09:31,399
+Um aperto de mão que diga sem palavras a
+
+44
+00:09:26,480 --> 00:09:33,519
+grande compreensão e o carinho fraterno.
+
+45
+00:09:31,399 --> 00:09:35,079
+Um pequeno serviço e a simples
+
+46
+00:09:33,519 --> 00:09:38,120
+gentileza,
+
+47
+00:09:35,079 --> 00:09:43,320
+o estímulo ao trabalho e o generoso
+
+48
+00:09:38,120 --> 00:09:45,000
+auxílio são moedas de amor que tesouras
+
+49
+00:09:43,320 --> 00:09:48,959
+além.
+
+50
+00:09:45,000 --> 00:09:52,160
+Segue assim deslumbrado ante o sol que
+
+51
+00:09:48,959 --> 00:09:57,000
+fugura nos caminhos do agora.
+
+52
+00:09:52,160 --> 00:10:00,200
+e distribui cantando o bem e a simpatia,
+
+53
+00:09:57,000 --> 00:10:04,240
+a virtude e a beleza, a fim de que
+
+54
+00:10:00,200 --> 00:10:08,440
+amanhã subas feliz ao céu no carro da
+
+55
+00:10:04,240 --> 00:10:13,760
+alegria, recebendo afinal a riqueza da
+
+56
+00:10:08,440 --> 00:10:13,760
+luz na vida imperecida.
+
+57
+00:10:15,200 --> 00:10:21,399
+Essa é uma mensagem que nos propõe uma
+
+58
+00:10:17,680 --> 00:10:24,200
+reflexão sobre a vida em si, né?
+
+59
+00:10:21,399 --> 00:10:26,920
+nos referimos à vida física,
+
+60
+00:10:24,200 --> 00:10:28,480
+que a gente poderia definir como aquele
+
+61
+00:10:26,920 --> 00:10:33,839
+intervalo
+
+62
+00:10:28,480 --> 00:10:37,560
+de tempo entre o berço e o tomo.
+
+63
+00:10:33,839 --> 00:10:41,120
+A vida com letra maiúscula, né, com V
+
+64
+00:10:37,560 --> 00:10:44,040
+maiúsculo, a vida enquanto obra divina,
+
+65
+00:10:41,120 --> 00:10:46,880
+obra de Deus, ela transcende o túmulo,
+
+66
+00:10:44,040 --> 00:10:50,560
+ela precede o berço. Mas hoje nós nos
+
+67
+00:10:46,880 --> 00:10:52,600
+deteremos a falar sobre a concessão de
+
+68
+00:10:50,560 --> 00:10:55,920
+vida física, né?
+
+69
+00:10:52,600 --> 00:10:58,639
+o período de tempo que nós passamos no
+
+70
+00:10:55,920 --> 00:11:00,880
+plano físico,
+
+71
+00:10:58,639 --> 00:11:04,639
+ocupando um corpo físico, uma
+
+72
+00:11:00,880 --> 00:11:08,600
+instrumentação material corpórea, né,
+
+73
+00:11:04,639 --> 00:11:11,360
+que está compreendida entre o beijo do e
+
+74
+00:11:08,600 --> 00:11:14,160
+porque existe um intervalo de tempo, o
+
+75
+00:11:11,360 --> 00:11:16,040
+período de tempo contabilizado,
+
+76
+00:11:14,160 --> 00:11:19,120
+cronometrado
+
+77
+00:11:16,040 --> 00:11:21,839
+entre o berço e o túmulo, é inevitável
+
+78
+00:11:19,120 --> 00:11:26,600
+que a gente venha falar sobre dois dois
+
+79
+00:11:21,839 --> 00:11:29,760
+assuntos sobre o tempo em si e sobre a
+
+80
+00:11:26,600 --> 00:11:33,639
+morte, que é o componente que limita
+
+81
+00:11:29,760 --> 00:11:35,920
+esse tempo. Então, ninguém reencarna e
+
+82
+00:11:33,639 --> 00:11:38,440
+vive eternamente
+
+83
+00:11:35,920 --> 00:11:41,600
+no corpo físico.
+
+84
+00:11:38,440 --> 00:11:44,760
+Nós somos imortais enquanto espíritos,
+
+85
+00:11:41,600 --> 00:11:46,519
+mas somos mortais enquanto espíritos
+
+86
+00:11:44,760 --> 00:11:49,760
+encarnados.
+
+87
+00:11:46,519 --> 00:11:53,240
+E porque a mortalidade do corpo é uma
+
+88
+00:11:49,760 --> 00:11:59,079
+realidade incontestável, innegável, a
+
+89
+00:11:53,240 --> 00:12:02,200
+morte acaba limitando a vida física, né,
+
+90
+00:11:59,079 --> 00:12:06,760
+e consequentemente
+
+91
+00:12:02,200 --> 00:12:09,200
+dando grandeza, valor ao tempo. O tempo
+
+92
+00:12:06,760 --> 00:12:12,720
+se torna alguma coisa preciosa,
+
+93
+00:12:09,200 --> 00:12:16,639
+justamente porque ele é f no plano
+
+94
+00:12:12,720 --> 00:12:20,199
+físico, né? Existe uma limitação desse
+
+95
+00:12:16,639 --> 00:12:23,680
+tempo que nós permanecemos na carne
+
+96
+00:12:20,199 --> 00:12:25,360
+imposta pela morte, pela morte do corpo
+
+97
+00:12:23,680 --> 00:12:28,519
+físico.
+
+98
+00:12:25,360 --> 00:12:30,920
+Então o nosso tempo, cada minuto que
+
+99
+00:12:28,519 --> 00:12:34,040
+passa, cada hora que passa no plano
+
+100
+00:12:30,920 --> 00:12:38,079
+físico, nessa experiência entre o berço
+
+101
+00:12:34,040 --> 00:12:41,680
+e o túmulo, é precioso demais, porque
+
+102
+00:12:38,079 --> 00:12:44,199
+nós não sabemos quando encarnados quando
+
+103
+00:12:41,680 --> 00:12:46,839
+é que a morte virá.
+
+104
+00:12:44,199 --> 00:12:49,839
+interromper essa jornada,
+
+105
+00:12:46,839 --> 00:12:53,600
+por fim a essa trajetória. Então, cada
+
+106
+00:12:49,839 --> 00:12:55,720
+minuto, cada hora que passa é precioso.
+
+107
+00:12:53,600 --> 00:12:59,320
+É por essa razão que numa mensagem
+
+108
+00:12:55,720 --> 00:13:01,959
+intitulada Ante a vida, perante a vida,
+
+109
+00:12:59,320 --> 00:13:04,920
+perante a vida física,
+
+110
+00:13:01,959 --> 00:13:06,680
+o autor, né, que nós trouxemos hoje, o
+
+111
+00:13:04,920 --> 00:13:09,680
+autor que escreveu pouco através do
+
+112
+00:13:06,680 --> 00:13:14,160
+Chico, que é o Rodrigues de Abreu, vem
+
+113
+00:13:09,680 --> 00:13:18,160
+falar tanto da temática tempo.
+
+114
+00:13:14,160 --> 00:13:22,959
+E ele começa dizendo que o corpo é uma
+
+115
+00:13:18,160 --> 00:13:26,760
+lira, um instrumento musical milagrosa.
+
+116
+00:13:22,959 --> 00:13:31,240
+Então, é através do corpo que nós
+
+117
+00:13:26,760 --> 00:13:33,680
+convertemos o momento, o instante
+
+118
+00:13:31,240 --> 00:13:38,160
+em ventura,
+
+119
+00:13:33,680 --> 00:13:43,000
+em bonança, em alegria, em benefício,
+
+120
+00:13:38,160 --> 00:13:44,800
+em bem-estar físico, espiritual,
+
+121
+00:13:43,000 --> 00:13:47,639
+em harmonia
+
+122
+00:13:44,800 --> 00:13:51,160
+psicoemocional com os nossos pares, com
+
+123
+00:13:47,639 --> 00:13:53,240
+os nossos irmãos de jornada, no ambiente
+
+124
+00:13:51,160 --> 00:13:55,839
+familiar, no ambiente profissional.
+
+125
+00:13:53,240 --> 00:13:58,160
+no ambiente social.
+
+126
+00:13:55,839 --> 00:14:01,040
+Então, o corpo é um instrumento, uma
+
+127
+00:13:58,160 --> 00:14:06,680
+ferramenta preciosa
+
+128
+00:14:01,040 --> 00:14:06,680
+que converte o momento em realização.
+
+129
+00:14:06,959 --> 00:14:13,440
+E por que nós temos esse poder? Porque
+
+130
+00:14:09,680 --> 00:14:16,759
+nós somos capazes de converter através
+
+131
+00:14:13,440 --> 00:14:18,920
+daquilo que fazemos quando encarnados ou
+
+132
+00:14:16,759 --> 00:14:22,680
+enquanto encarnados
+
+133
+00:14:18,920 --> 00:14:26,079
+em coisas positivas.
+
+134
+00:14:22,680 --> 00:14:28,959
+em coisas que nos confira saúde, que nos
+
+135
+00:14:26,079 --> 00:14:32,199
+confira equilíbrio,
+
+136
+00:14:28,959 --> 00:14:34,720
+é que nos nós nos tornamos aquilo que o
+
+137
+00:14:32,199 --> 00:14:38,399
+Rodrigues
+
+138
+00:14:34,720 --> 00:14:40,120
+denominou como senhores do minuto que
+
+139
+00:14:38,399 --> 00:14:44,920
+passa.
+
+140
+00:14:40,120 --> 00:14:49,360
+Somos os senhores, temos o controle
+
+141
+00:14:44,920 --> 00:14:53,920
+completo daquilo que se será realizado
+
+142
+00:14:49,360 --> 00:14:57,399
+ao longo do minuto que passa.
+
+143
+00:14:53,920 --> 00:15:01,000
+Então, o nosso instante, o nosso momento
+
+144
+00:14:57,399 --> 00:15:04,279
+deve ser gasto, deve ser consumido
+
+145
+00:15:01,000 --> 00:15:08,000
+enquanto avançamos
+
+146
+00:15:04,279 --> 00:15:09,480
+no que o autor chamou de os caminhos do
+
+147
+00:15:08,000 --> 00:15:13,560
+agora.
+
+148
+00:15:09,480 --> 00:15:16,360
+Então existe no agora um uma trajetória,
+
+149
+00:15:13,560 --> 00:15:20,639
+um transcorrer do agora, do momento do
+
+150
+00:15:16,360 --> 00:15:23,160
+instante, uma trajetória, uma jornada
+
+151
+00:15:20,639 --> 00:15:25,440
+que ao ser percorrida
+
+152
+00:15:23,160 --> 00:15:29,519
+positivamente,
+
+153
+00:15:25,440 --> 00:15:29,519
+com equilíbrio e harmonia,
+
+154
+00:15:30,040 --> 00:15:38,560
+nós acabamos convertendo esse agora,
+
+155
+00:15:32,800 --> 00:15:38,560
+esse momento em luz, em luz espiritual.
+
+156
+00:15:39,040 --> 00:15:46,880
+Porém, só toma consciência disso,
+
+157
+00:15:43,959 --> 00:15:49,040
+só acorda ou desperta para essa
+
+158
+00:15:46,880 --> 00:15:51,680
+realidade
+
+159
+00:15:49,040 --> 00:15:53,639
+de que o tempo na existência física é
+
+160
+00:15:51,680 --> 00:15:57,199
+finito.
+
+161
+00:15:53,639 --> 00:15:59,800
+Ele é contado e tem um fim
+
+162
+00:15:57,199 --> 00:16:03,720
+aquele que
+
+163
+00:15:59,800 --> 00:16:06,600
+está sensível para afirmativas
+
+164
+00:16:03,720 --> 00:16:09,319
+assertivas
+
+165
+00:16:06,600 --> 00:16:11,040
+do evangelho, dos evangelhos e de alguns
+
+166
+00:16:09,319 --> 00:16:12,880
+livros sagrados, como por exemplo
+
+167
+00:16:11,040 --> 00:16:16,079
+Apocalipse,
+
+168
+00:16:12,880 --> 00:16:17,839
+que lá em capítulo 22, no capítulo 22,
+
+169
+00:16:16,079 --> 00:16:21,199
+versículo 20, no final, né, nos
+
+170
+00:16:17,839 --> 00:16:23,279
+versículos finais do livro,
+
+171
+00:16:21,199 --> 00:16:29,440
+vem a a frase
+
+172
+00:16:23,279 --> 00:16:33,000
+célebre, né? Certamente cedo vem.
+
+173
+00:16:29,440 --> 00:16:37,600
+Então, se nós pensarmos na contabilidade
+
+174
+00:16:33,000 --> 00:16:40,319
+do tempo, numa perspectiva de milênios,
+
+175
+00:16:37,600 --> 00:16:44,600
+nós faremos referências,
+
+176
+00:16:40,319 --> 00:16:49,360
+referência ao período de transição
+
+177
+00:16:44,600 --> 00:16:49,360
+evolutiva em que nós já nos encontramos.
+
+178
+00:16:50,560 --> 00:16:57,040
+Quando um ciclo evolutivo
+
+179
+00:16:54,720 --> 00:17:01,440
+ele se funda para que outro seja
+
+180
+00:16:57,040 --> 00:17:04,039
+inaugurado numa perspectiva planetária,
+
+181
+00:17:01,440 --> 00:17:07,799
+mas numa perspectiva
+
+182
+00:17:04,039 --> 00:17:11,280
+individual do ser na sua jornada entre o
+
+183
+00:17:07,799 --> 00:17:15,640
+berço e o túmulo, essa afirmativa, esse
+
+184
+00:17:11,280 --> 00:17:18,600
+versículo vale também, cabe muito bem.
+
+185
+00:17:15,640 --> 00:17:20,760
+Certamente cedo vem.
+
+186
+00:17:18,600 --> 00:17:24,880
+Certamente
+
+187
+00:17:20,760 --> 00:17:28,760
+em um momento que é mais breve do que
+
+188
+00:17:24,880 --> 00:17:31,760
+nós podemos supor, muitas vezes
+
+189
+00:17:28,760 --> 00:17:35,080
+seremos surpreendidos
+
+190
+00:17:31,760 --> 00:17:38,880
+pelo instante da desencarnação,
+
+191
+00:17:35,080 --> 00:17:38,880
+pelo instante da morte.
+
+192
+00:17:39,240 --> 00:17:47,160
+Cedo vem, porque logo, se nós pensarmos
+
+193
+00:17:43,080 --> 00:17:48,840
+uma perspectiva da imortalidade da alma,
+
+194
+00:17:47,160 --> 00:17:52,160
+nós estamos falando, estaremos falando
+
+195
+00:17:48,840 --> 00:17:55,480
+de milênios. Mas [música] se pensarmos
+
+196
+00:17:52,160 --> 00:17:57,360
+na perspectiva da vida física,
+
+197
+00:17:55,480 --> 00:17:59,240
+alguém que tenha [música] 60 anos,
+
+198
+00:17:57,360 --> 00:18:01,480
+alguém que tenha 40 anos, tem mais
+
+199
+00:17:59,240 --> 00:18:06,080
+algumas décadas de existência material
+
+200
+00:18:01,480 --> 00:18:08,559
+apenas. Isso é pouco, isso é logo, isso
+
+201
+00:18:06,080 --> 00:18:11,159
+é cedo.
+
+202
+00:18:08,559 --> 00:18:14,880
+Quem está sensível para essa realidade
+
+203
+00:18:11,159 --> 00:18:18,080
+não perde tempo. Não perde tempo com
+
+204
+00:18:14,880 --> 00:18:21,520
+discussões, com contendas.
+
+205
+00:18:18,080 --> 00:18:24,120
+Não gasta os seus minutos
+
+206
+00:18:21,520 --> 00:18:26,039
+com
+
+207
+00:18:24,120 --> 00:18:30,360
+o ciúme.
+
+208
+00:18:26,039 --> 00:18:34,120
+Não gasta o seu instante com a inveja,
+
+209
+00:18:30,360 --> 00:18:38,120
+com a cólera. com o orgulho, com a
+
+210
+00:18:34,120 --> 00:18:38,120
+vaidade, com egoísmo.
+
+211
+00:18:38,200 --> 00:18:44,960
+Porque segundo Paulo na carta aos aos
+
+212
+00:18:41,480 --> 00:18:49,280
+Romanos, no capítulo 14, versículo 16,
+
+213
+00:18:44,960 --> 00:18:53,520
+aquele que faz caso do dia para o Senhor
+
+214
+00:18:49,280 --> 00:18:57,480
+o faz. fazer caso do dia, dizer
+
+215
+00:18:53,520 --> 00:19:00,360
+desaforos para o tempo, desperdiçar o
+
+216
+00:18:57,480 --> 00:19:05,039
+tempo, gastar o tempo com
+
+217
+00:19:00,360 --> 00:19:07,159
+superficialidades, com futilidades,
+
+218
+00:19:05,039 --> 00:19:10,480
+com negatividades.
+
+219
+00:19:07,159 --> 00:19:14,120
+Isso é fazer caso do dia. E quem
+
+220
+00:19:10,480 --> 00:19:16,559
+desperdiça o tempo, quem desperdiça um
+
+221
+00:19:14,120 --> 00:19:19,280
+dia na vida,
+
+222
+00:19:16,559 --> 00:19:20,960
+ofende a Deus.
+
+223
+00:19:19,280 --> 00:19:22,880
+Ofende a Deus, porque o tempo é uma
+
+224
+00:19:20,960 --> 00:19:25,919
+dádiva,
+
+225
+00:19:22,880 --> 00:19:29,000
+o tempo é uma graça, é uma concessão
+
+226
+00:19:25,919 --> 00:19:32,120
+divina, é um dom. O tempo é um dom que
+
+227
+00:19:29,000 --> 00:19:35,000
+Deus nos concede.
+
+228
+00:19:32,120 --> 00:19:36,679
+Quando a gente desrespeita o tempo que
+
+229
+00:19:35,000 --> 00:19:39,240
+nos é concedido, nós estamos
+
+230
+00:19:36,679 --> 00:19:42,240
+desrespeitando a Deus.
+
+231
+00:19:39,240 --> 00:19:47,400
+Tá aí o apóstolo dizer: "Aquele que faz
+
+232
+00:19:42,240 --> 00:19:50,000
+caso do dia para o Senhor o faz".
+
+233
+00:19:47,400 --> 00:19:52,440
+E o autor Emanuel, o autor que a gente
+
+234
+00:19:50,000 --> 00:19:56,240
+sempre traz aqui no Vido em Abundância,
+
+235
+00:19:52,440 --> 00:19:59,600
+né? Já lemos vários textos dele.
+
+236
+00:19:56,240 --> 00:20:02,880
+Ele é um autor atento para essa questão
+
+237
+00:19:59,600 --> 00:20:05,240
+que traz ela paraa sua literatura
+
+238
+00:20:02,880 --> 00:20:07,679
+com certa frequência.
+
+239
+00:20:05,240 --> 00:20:12,400
+lá num livro de respostas, por exemplo,
+
+240
+00:20:07,679 --> 00:20:14,320
+uma coletânia, de mensagens curtas e ele
+
+241
+00:20:12,400 --> 00:20:17,280
+nos oferece através da mediunidade de
+
+242
+00:20:14,320 --> 00:20:20,278
+Chico Xavier. No capítulo 15, nós temos
+
+243
+00:20:17,280 --> 00:20:23,280
+uma mensagem intitulada aviso do tempo.
+
+244
+00:20:20,278 --> 00:20:25,240
+[música] Olha o título, aviso do tempo.
+
+245
+00:20:23,280 --> 00:20:28,520
+Um alerta,
+
+246
+00:20:25,240 --> 00:20:32,000
+um sinal de urgência, né?
+
+247
+00:20:28,520 --> 00:20:35,880
+E nessa mensagem, Emmanuel diz: "O tempo
+
+248
+00:20:32,000 --> 00:20:37,679
+endereça às criaturas o seguinte aviso:
+
+249
+00:20:35,880 --> 00:20:41,960
+em cadacer,
+
+250
+00:20:37,679 --> 00:20:45,320
+em cada manhã, né? Certamente
+
+251
+00:20:41,960 --> 00:20:49,720
+Deus te concederá outros dias e outras
+
+252
+00:20:45,320 --> 00:20:53,200
+oportunidades de trabalho, mas faz agora
+
+253
+00:20:49,720 --> 00:20:57,400
+todo o bem que puderes, porque dia igual
+
+254
+00:20:53,200 --> 00:21:01,760
+ao de hoje só terás uma vez.
+
+255
+00:20:57,400 --> 00:21:05,080
+Esse é um aviso grave que nos traz,
+
+256
+00:21:01,760 --> 00:21:09,400
+porque eu terei outras existências,
+
+257
+00:21:05,080 --> 00:21:13,200
+terei outras encarnações vindouras
+
+258
+00:21:09,400 --> 00:21:16,799
+no por vir. Mas a encarnação chamando
+
+259
+00:21:13,200 --> 00:21:20,200
+Luís Elias e vem no Oberaba,
+
+260
+00:21:16,799 --> 00:21:22,159
+esposo da Juliana.
+
+261
+00:21:20,200 --> 00:21:24,120
+Essa encarnação
+
+262
+00:21:22,159 --> 00:21:28,720
+é única.
+
+263
+00:21:24,120 --> 00:21:31,279
+É única. Só essa, essa oportunidade é
+
+264
+00:21:28,720 --> 00:21:33,960
+única.
+
+265
+00:21:31,279 --> 00:21:36,880
+Se nós pensarmos disso a cada amanhecer,
+
+266
+00:21:33,960 --> 00:21:41,039
+a cada avorecer, acordarmos e pensarmos:
+
+267
+00:21:36,880 --> 00:21:43,640
+"O dia de hoje é único, não haverá outro
+
+268
+00:21:41,039 --> 00:21:47,240
+dia primeiro de fevereiro de 2026, esse
+
+269
+00:21:43,640 --> 00:21:50,279
+é o único, não voltará."
+
+270
+00:21:47,240 --> 00:21:52,159
+Nós olharemos para esse dia com uma
+
+271
+00:21:50,279 --> 00:21:55,760
+reverência,
+
+272
+00:21:52,159 --> 00:21:55,760
+com um respeito,
+
+273
+00:21:56,440 --> 00:22:03,640
+entendendo ele como coisa sagrada que
+
+274
+00:22:00,679 --> 00:22:05,880
+não pode ser profanada
+
+275
+00:22:03,640 --> 00:22:07,440
+com desperdício, com a
+
+276
+00:22:05,880 --> 00:22:10,320
+irresponsabilidade
+
+277
+00:22:07,440 --> 00:22:12,799
+no uso das horas, dos minutos, dos
+
+278
+00:22:10,320 --> 00:22:14,919
+segundos.
+
+279
+00:22:12,799 --> 00:22:17,039
+E essa não é a única mensagem que Emanu
+
+280
+00:22:14,919 --> 00:22:19,600
+explora sobre o tempo. Tem inúmeras
+
+281
+00:22:17,039 --> 00:22:22,080
+outras. Eu poderia citar aqui ainda uma
+
+282
+00:22:19,600 --> 00:22:25,080
+mensagem que tá no livro Instrumentos do
+
+283
+00:22:22,080 --> 00:22:28,679
+Tempo. Olha o título do livro,
+
+284
+00:22:25,080 --> 00:22:32,440
+Instrumentos do Tempo. E lá no capítulo
+
+285
+00:22:28,679 --> 00:22:38,159
+5 desse dessa mensagem intitulado O
+
+286
+00:22:32,440 --> 00:22:40,840
+minuto, Emmanuel afirma: "Dádiva divina
+
+287
+00:22:38,159 --> 00:22:42,919
+repete-se infinitamente em nossa
+
+288
+00:22:40,840 --> 00:22:46,279
+estrada.
+
+289
+00:22:42,919 --> 00:22:49,600
+Usando-a é possível
+
+290
+00:22:46,279 --> 00:22:51,720
+a realização de surpreendentes milagres
+
+291
+00:22:49,600 --> 00:22:56,039
+em nossa vida.
+
+292
+00:22:51,720 --> 00:22:59,600
+O minuto é uma dádiva divina,
+
+293
+00:22:56,039 --> 00:23:03,440
+um dom divino, um minuto.
+
+294
+00:22:59,600 --> 00:23:07,440
+Usando esse dom, usando essa dádiva, nós
+
+295
+00:23:03,440 --> 00:23:10,000
+realizaremos coisas fabulosas.
+
+296
+00:23:07,440 --> 00:23:12,760
+Não é à toa, não é por acaso que em
+
+297
+00:23:10,000 --> 00:23:14,559
+certa ocasião em Pedro Leopoldo, os
+
+298
+00:23:12,760 --> 00:23:17,279
+companheiros
+
+299
+00:23:14,559 --> 00:23:20,960
+do movimento espírita a do interior aqui
+
+300
+00:23:17,279 --> 00:23:23,039
+de Minas perguntaram a Emanuel
+
+301
+00:23:20,960 --> 00:23:25,720
+como é que, [música] né, perguntaram
+
+302
+00:23:23,039 --> 00:23:27,799
+isso através do Chico, como é que ele
+
+303
+00:23:25,720 --> 00:23:30,080
+havia chegado a um conhecimento tão
+
+304
+00:23:27,799 --> 00:23:33,200
+profundo de evangelho, como é que ele
+
+305
+00:23:30,080 --> 00:23:35,799
+conhecia tanto sobre o evangelho.
+
+306
+00:23:33,200 --> 00:23:40,640
+Ele não negou o conhecimento,
+
+307
+00:23:35,799 --> 00:23:45,440
+mas respondeu dizendo através do Chico:
+
+308
+00:23:40,640 --> 00:23:45,440
+"Eu aproveito os minutos".
+
+309
+00:23:46,159 --> 00:23:49,840
+O conhecimento é fruto de um
+
+310
+00:23:48,200 --> 00:23:52,919
+aproveitamento
+
+311
+00:23:49,840 --> 00:23:54,360
+dos minutos. O conhecimento de Emanuel.
+
+312
+00:23:52,919 --> 00:23:56,360
+Então, olha só, a sabedoria de um
+
+313
+00:23:54,360 --> 00:23:59,080
+espírito desse é fruto da
+
+314
+00:23:56,360 --> 00:24:03,279
+responsabilidade que ele tem para com o
+
+315
+00:23:59,080 --> 00:24:09,120
+tempo, para com o minuto que passa.
+
+316
+00:24:03,279 --> 00:24:12,640
+Porque esse minuto é uma dádiva divina.
+
+317
+00:24:09,120 --> 00:24:14,480
+Lá no livro Jesus no lar, autoria de Nel
+
+318
+00:24:12,640 --> 00:24:16,880
+Lúcio, sua filha do Chico, também no
+
+319
+00:24:14,480 --> 00:24:19,000
+capítulo 22, a gente tem uma lição em
+
+320
+00:24:16,880 --> 00:24:21,880
+que Jesus dá uma resposta parecida para
+
+321
+00:24:19,000 --> 00:24:23,520
+os seus discípulos, né? A lição talismã
+
+322
+00:24:21,880 --> 00:24:25,559
+divino.
+
+323
+00:24:23,520 --> 00:24:28,279
+Isso porque os discípulos vinham Jesus
+
+324
+00:24:25,559 --> 00:24:32,440
+realizando grandes coisas, coisas
+
+325
+00:24:28,279 --> 00:24:36,159
+fabulosas, coisas extraordinárias, né?
+
+326
+00:24:32,440 --> 00:24:40,640
+curando os leprosos, os cegos,
+
+327
+00:24:36,159 --> 00:24:43,279
+confortando as viúvas, os órfãos,
+
+328
+00:24:40,640 --> 00:24:46,279
+equilibrando os obsidiados, os
+
+329
+00:24:43,279 --> 00:24:46,279
+endemoniados.
+
+330
+00:24:47,080 --> 00:24:51,240
+E aí os discípulos começaram a discutir
+
+331
+00:24:49,360 --> 00:24:55,399
+entre si
+
+332
+00:24:51,240 --> 00:24:56,960
+qual seria o segredo de Jesus, o que lhe
+
+333
+00:24:55,399 --> 00:24:59,880
+conferia
+
+334
+00:24:56,960 --> 00:25:02,000
+tamanho poder.
+
+335
+00:24:59,880 --> 00:25:04,440
+Então eles se aproximaram de Jesus,
+
+336
+00:25:02,000 --> 00:25:07,720
+certos de que Jesus revelaria alguma
+
+337
+00:25:04,440 --> 00:25:09,600
+coisa a respeito disso. E perguntaram:
+
+338
+00:25:07,720 --> 00:25:11,559
+"Mestre,
+
+339
+00:25:09,600 --> 00:25:15,480
+como é que o senhor consegue realizar
+
+340
+00:25:11,559 --> 00:25:15,480
+tantas coisas extraordinárias?
+
+341
+00:25:15,520 --> 00:25:23,679
+Daí Jesus disse: "Olha, eu tenho
+
+342
+00:25:20,640 --> 00:25:26,840
+um bem precioso." E os discípulos
+
+343
+00:25:23,679 --> 00:25:29,679
+questionaram: "O amuleto, mestre, uma
+
+344
+00:25:26,840 --> 00:25:32,240
+pedra mágica, o talismã,
+
+345
+00:25:29,679 --> 00:25:34,679
+um medalhão?"
+
+346
+00:25:32,240 --> 00:25:36,440
+E Jesus disse:
+
+347
+00:25:34,679 --> 00:25:40,080
+"Sim,
+
+348
+00:25:36,440 --> 00:25:45,120
+um talismã importantíssimo
+
+349
+00:25:40,080 --> 00:25:49,279
+e cada um de vocês pode tê-lo também.
+
+350
+00:25:45,120 --> 00:25:51,679
+Cada um de vocês o tem, aliás.
+
+351
+00:25:49,279 --> 00:25:55,240
+E aí os discípulos questionam:
+
+352
+00:25:51,679 --> 00:25:56,799
+que talismã divino é esse que te
+
+353
+00:25:55,240 --> 00:25:59,039
+possibilita realizar coisas tão
+
+354
+00:25:56,799 --> 00:26:03,679
+extraordinárias?
+
+355
+00:25:59,039 --> 00:26:06,600
+E o mestre responde: "O talismã divino
+
+356
+00:26:03,679 --> 00:26:09,960
+é o templo".
+
+357
+00:26:06,600 --> 00:26:13,159
+Deus entregou esse talismã mágico,
+
+358
+00:26:09,960 --> 00:26:16,520
+realizador de grandes maravilhas
+
+359
+00:26:13,159 --> 00:26:19,360
+a cada um de nós.
+
+360
+00:26:16,520 --> 00:26:22,840
+Basta utilizá-lo.
+
+361
+00:26:19,360 --> 00:26:26,440
+Quem utiliza esse talismã divino realiza
+
+362
+00:26:22,840 --> 00:26:29,240
+coisas maravilhosas.
+
+363
+00:26:26,440 --> 00:26:31,399
+E a nossa tendência quando adoecemos,
+
+364
+00:26:29,240 --> 00:26:34,880
+né? Vocês devem estar se perguntando a
+
+365
+00:26:31,399 --> 00:26:38,720
+vinculação da da mensagem de hoje com o
+
+366
+00:26:34,880 --> 00:26:40,559
+tópico constante aqui das nossas lives.
+
+367
+00:26:38,720 --> 00:26:42,399
+Mas a nossa tendência quando a gente
+
+368
+00:26:40,559 --> 00:26:45,559
+adoece
+
+369
+00:26:42,399 --> 00:26:48,919
+primeiro é acreditar que o tempo
+
+370
+00:26:45,559 --> 00:26:51,760
+congela, o tempo paralisa, esperando a
+
+371
+00:26:48,919 --> 00:26:54,159
+gente ficar doente. Que enquanto a gente
+
+372
+00:26:51,760 --> 00:26:56,679
+tivesse tratando, enquanto a gente
+
+373
+00:26:54,159 --> 00:27:01,240
+tivesse recuperando de uma enfermidade,
+
+374
+00:26:56,679 --> 00:27:03,320
+o tempo congelou pra gente. Não,
+
+375
+00:27:01,240 --> 00:27:08,840
+se eu ficar
+
+376
+00:27:03,320 --> 00:27:13,600
+doente durante 2 meses, 5 meses, 1 ano,
+
+377
+00:27:08,840 --> 00:27:15,559
+10 anos, esse tempo tá correndo.
+
+378
+00:27:13,600 --> 00:27:18,240
+Porque a doença
+
+379
+00:27:15,559 --> 00:27:21,279
+pode às vezes me impedir de desempenhar
+
+380
+00:27:18,240 --> 00:27:23,240
+atividade profissional. O adoecimento
+
+381
+00:27:21,279 --> 00:27:25,960
+pode me impedir de realizar uma
+
+382
+00:27:23,240 --> 00:27:29,440
+determinada atividade doméstica, mas não
+
+383
+00:27:25,960 --> 00:27:32,919
+me impede de realizar outras atividades,
+
+384
+00:27:29,440 --> 00:27:36,120
+outras realizações, não me impede.
+
+385
+00:27:32,919 --> 00:27:38,600
+Então, tenho que aproveitar este tempo
+
+386
+00:27:36,120 --> 00:27:41,440
+realizando coisas positivas que sejam
+
+387
+00:27:38,600 --> 00:27:44,519
+extraordinárias.
+
+388
+00:27:41,440 --> 00:27:47,440
+A enfermidade não me impede a oração. A
+
+389
+00:27:44,519 --> 00:27:50,320
+enfermidade não me impede o trato gentil
+
+390
+00:27:47,440 --> 00:27:53,440
+na convivência com os outros.
+
+391
+00:27:50,320 --> 00:27:55,880
+A enfermidade não impede a generosidade
+
+392
+00:27:53,440 --> 00:27:59,120
+da boa palavra,
+
+393
+00:27:55,880 --> 00:28:02,039
+não impede a generosidade do abraço, do
+
+394
+00:27:59,120 --> 00:28:04,440
+carinho.
+
+395
+00:28:02,039 --> 00:28:08,679
+Então é necessário aproveitar o tempo,
+
+396
+00:28:04,440 --> 00:28:10,679
+ainda que enfermos, com um agravante.
+
+397
+00:28:08,679 --> 00:28:13,799
+É justamente a enfermidade, o
+
+398
+00:28:10,679 --> 00:28:16,720
+adoecimento, aliás, que muitas vezes me
+
+399
+00:28:13,799 --> 00:28:20,200
+faz recordar de que a vida no plano
+
+400
+00:28:16,720 --> 00:28:22,720
+físico ela tem um fim.
+
+401
+00:28:20,200 --> 00:28:26,200
+de que a minha existência iniciada no
+
+402
+00:28:22,720 --> 00:28:29,360
+berço vai findar no túmulo.
+
+403
+00:28:26,200 --> 00:28:31,919
+E a gente adoece muitas vezes para isso,
+
+404
+00:28:29,360 --> 00:28:34,960
+para nos lembrarmos dessa realidade. E
+
+405
+00:28:31,919 --> 00:28:37,320
+ao nos lembrarmos de que a morte é uma
+
+406
+00:28:34,960 --> 00:28:41,679
+realidade inevitável no horizonte de
+
+407
+00:28:37,320 --> 00:28:44,880
+todos nós, é que o tempo adquirirá para
+
+408
+00:28:41,679 --> 00:28:47,399
+nós, aos nossos olhos, um valor
+
+409
+00:28:44,880 --> 00:28:50,440
+inestimável.
+
+410
+00:28:47,399 --> 00:28:53,200
+Só quando a gente desperta pra realidade
+
+411
+00:28:50,440 --> 00:28:56,120
+incontornável da morte, é que a gente
+
+412
+00:28:53,200 --> 00:28:58,559
+acorda também para a preciosidade do
+
+413
+00:28:56,120 --> 00:29:01,720
+tempo que passa.
+
+414
+00:28:58,559 --> 00:29:06,320
+Então, nós vamos rogar a Jesus
+
+415
+00:29:01,720 --> 00:29:09,480
+através da prece que nos inspire no
+
+416
+00:29:06,320 --> 00:29:13,640
+aproveitamento do nosso tempo,
+
+417
+00:29:09,480 --> 00:29:16,279
+que não o desperdicemos, Senhor,
+
+418
+00:29:13,640 --> 00:29:18,960
+entrando em atrito e contenda com os
+
+419
+00:29:16,279 --> 00:29:24,000
+nossos semelhantes,
+
+420
+00:29:18,960 --> 00:29:24,000
+respondendo às ofensas, às agressões,
+
+421
+00:29:24,279 --> 00:29:30,159
+gastando os nossos minutos com
+
+422
+00:29:26,799 --> 00:29:33,480
+superficial. idades, com futilidades,
+
+423
+00:29:30,159 --> 00:29:33,480
+com levianidades,
+
+424
+00:29:33,720 --> 00:29:39,519
+consagrando a hora que [música] passa
+
+425
+00:29:36,760 --> 00:29:42,320
+ao serviço em favor da felicidade de
+
+426
+00:29:39,519 --> 00:29:45,200
+nossos semelhantes.
+
+427
+00:29:42,320 --> 00:29:49,760
+Sua visão do sofrimento daqueles que nos
+
+428
+00:29:45,200 --> 00:29:52,640
+foram confiados, Senhor, no caminho.
+
+429
+00:29:49,760 --> 00:29:56,279
+Abençoa, Jesus, nossa consciência
+
+430
+00:29:52,640 --> 00:29:57,360
+para que em nós o tempo seja sagrado
+
+431
+00:29:56,279 --> 00:30:00,840
+sempre.
+
+432
+00:29:57,360 --> 00:30:03,120
+que assim seja.
+
+433
+00:30:00,840 --> 00:30:06,159
+Então, nós agradecemos
+
+434
+00:30:03,120 --> 00:30:08,440
+a atenção que todos nos concederam, os
+
+435
+00:30:06,159 --> 00:30:11,360
+irmãos que vão assistir posteriormente a
+
+436
+00:30:08,440 --> 00:30:13,120
+live através do YouTube. Pedimos mais
+
+437
+00:30:11,360 --> 00:30:15,480
+uma vez desculpa pelos problemas
+
+438
+00:30:13,120 --> 00:30:18,559
+técnicos que tivemos hoje no início,
+
+439
+00:30:15,480 --> 00:30:20,760
+não, problemas com o microfone.
+
+440
+00:30:18,559 --> 00:30:23,159
+Por necessário, por ser uma live, né,
+
+441
+00:30:20,760 --> 00:30:27,279
+que a Juliana me desse um apoio, a gente
+
+442
+00:30:23,159 --> 00:30:29,640
+tirasse a imagem um. Nós agradecemos a
+
+443
+00:30:27,279 --> 00:30:31,559
+compreensão de cada um.
+
+444
+00:30:29,640 --> 00:30:34,679
+E pedimos que continuem a divulgar esse
+
+445
+00:30:31,559 --> 00:30:36,760
+trabalho com os familiares, os amigos
+
+446
+00:30:34,679 --> 00:30:39,360
+seus grupos de WhatsApp, nas redes
+
+447
+00:30:36,760 --> 00:30:42,320
+sociais, para que mais pessoas tenham
+
+448
+00:30:39,360 --> 00:30:45,559
+acesso às nossas reflexões e à leituras
+
+449
+00:30:42,320 --> 00:30:48,919
+que nós trazemos. Boa semana para todos.
+
+450
+00:30:45,559 --> 00:30:51,919
+Que Jesus abençoe o coração de cada um.
+
+451
+00:30:48,919 --> 00:30:51,919
+Beijo para todos, gente.
+
