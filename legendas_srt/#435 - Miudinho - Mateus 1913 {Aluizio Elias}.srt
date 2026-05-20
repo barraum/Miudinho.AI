@@ -1,0 +1,5620 @@
+1
+00:00:01,309 --> 00:00:03,329
+[música]
+
+2
+00:00:09,170 --> 00:00:11,190
+[música]
+
+3
+00:00:19,359 --> 00:00:25,840
+Bom, boa noite. Vamos iniciar então mais
+
+4
+00:00:22,519 --> 00:00:27,679
+um estudo do Evangelho de Mateus.
+
+5
+00:00:25,840 --> 00:00:30,960
+Nós vamos iniciar hoje uma passagem
+
+6
+00:00:27,679 --> 00:00:33,840
+nova. Terminamos na semana anterior os
+
+7
+00:00:30,960 --> 00:00:39,440
+estudos relativos ao divórcio, uma longa
+
+8
+00:00:33,840 --> 00:00:42,200
+jornada de mais de 15 vídeos, né, sobre
+
+9
+00:00:39,440 --> 00:00:44,960
+o divórcio, sobre o casamento, sobre a
+
+10
+00:00:42,200 --> 00:00:48,520
+vida familiar, sobre o relacionamento
+
+11
+00:00:44,960 --> 00:00:52,079
+conjugal, relacionamento afetivo.
+
+12
+00:00:48,520 --> 00:00:54,600
+E hoje nós vamos perceber que Mateus e
+
+13
+00:00:52,079 --> 00:00:56,600
+os adensadores do livro de Mateus, pelo
+
+14
+00:00:54,600 --> 00:00:59,239
+menos os organizadores
+
+15
+00:00:56,600 --> 00:01:01,680
+dessa versão que nos chegou aos dias de
+
+16
+00:00:59,239 --> 00:01:04,320
+hoje, né, que é uma versão posterior aos
+
+17
+00:01:01,680 --> 00:01:07,439
+manuscritos de Levi, são mencionados lá
+
+18
+00:01:04,320 --> 00:01:09,280
+no livro Paulo Estirão.
+
+19
+00:01:07,439 --> 00:01:11,560
+Olá, senor Adelmo, feliz aniversário
+
+20
+00:01:09,280 --> 00:01:13,759
+atrasado, seu Adelmo. Pensou que eu ia
+
+21
+00:01:11,560 --> 00:01:15,799
+esquecer, né? E eu não vou deixar a Ju
+
+22
+00:01:13,759 --> 00:01:16,799
+cortar esse trecho aqui não, que é para
+
+23
+00:01:15,799 --> 00:01:19,520
+todo mundo saber que o senhor fez
+
+24
+00:01:16,799 --> 00:01:22,439
+aniversário domingo.
+
+25
+00:01:19,520 --> 00:01:26,119
+Beijão, viu? Então, nós vamos iniciar
+
+26
+00:01:22,439 --> 00:01:28,000
+uma passagem nova, eh, que é
+
+27
+00:01:26,119 --> 00:01:30,680
+continuidade. A gente vai perceber essa
+
+28
+00:01:28,000 --> 00:01:33,720
+linha de raciocínio no livro de Mateus
+
+29
+00:01:30,680 --> 00:01:35,759
+ou no organizada pelos adensadores do
+
+30
+00:01:33,720 --> 00:01:38,079
+livro, né, na versão que nos chegou até
+
+31
+00:01:35,759 --> 00:01:40,680
+os dias de hoje, como eu mencionava.
+
+32
+00:01:38,079 --> 00:01:43,920
+Quer dizer, vem uma sequência de de
+
+33
+00:01:40,680 --> 00:01:46,640
+versículos tratando de vida familiar, de
+
+34
+00:01:43,920 --> 00:01:49,719
+relacionamento conjugal, para desaguar
+
+35
+00:01:46,640 --> 00:01:53,920
+agora numa sequência de três versículos,
+
+36
+00:01:49,719 --> 00:01:56,799
+né, basicamente três versículos sobre a
+
+37
+00:01:53,920 --> 00:01:59,719
+educação da infância ou a educação na
+
+38
+00:01:56,799 --> 00:02:02,520
+infância. Então, hoje nós iniciamos uma
+
+39
+00:01:59,719 --> 00:02:04,719
+passagem nova. Não vou garantir que nós
+
+40
+00:02:02,520 --> 00:02:07,560
+façamos isso em três semanas, que
+
+41
+00:02:04,719 --> 00:02:10,440
+vejamos um versículo por semana. Talvez
+
+42
+00:02:07,560 --> 00:02:14,480
+a gente prossiga um pouco além disso,
+
+43
+00:02:10,440 --> 00:02:17,120
+né? Mas pelo menos três semanas.
+
+44
+00:02:14,480 --> 00:02:19,040
+E essa passagem, pelo menos na tradução
+
+45
+00:02:17,120 --> 00:02:21,519
+que a gente adotou, apesar que hoje eu
+
+46
+00:02:19,040 --> 00:02:24,879
+vou lançar a mão de uma outra tradução
+
+47
+00:02:21,519 --> 00:02:26,599
+também muito boa, né? a na tradução que
+
+48
+00:02:24,879 --> 00:02:29,120
+a gente tem adotado, que é a tradução da
+
+49
+00:02:26,599 --> 00:02:32,000
+Federação Espírita Brasileira, né,
+
+50
+00:02:29,120 --> 00:02:34,720
+intitulada As Crianças e O Reino dos
+
+51
+00:02:32,000 --> 00:02:37,000
+Céus, né, as crianças e o reino dos
+
+52
+00:02:34,720 --> 00:02:39,959
+céus. Mais uma passagem icônica de
+
+53
+00:02:37,000 --> 00:02:42,840
+Mateus, uma passagem conhecidíssima, né,
+
+54
+00:02:39,959 --> 00:02:46,120
+repetida exaustivamente
+
+55
+00:02:42,840 --> 00:02:50,280
+nas preleções, nas palestras,
+
+56
+00:02:46,120 --> 00:02:53,959
+nas na nos artigos, nos textos
+
+57
+00:02:50,280 --> 00:02:56,879
+produzidos de a a respeito do evangelho
+
+58
+00:02:53,959 --> 00:03:00,239
+ou a em nome do evangelho.
+
+59
+00:02:56,879 --> 00:03:03,760
+Que versículos nós estudaremos nessas
+
+60
+00:03:00,239 --> 00:03:06,879
+semanas que seguirão?
+
+61
+00:03:03,760 --> 00:03:10,640
+Mateus capítulo 19
+
+62
+00:03:06,879 --> 00:03:14,319
+versículos 13, 14 e 15. Primeiro
+
+63
+00:03:10,640 --> 00:03:18,360
+versículo 13. Trouxeram-lhe então alguns
+
+64
+00:03:14,319 --> 00:03:22,360
+meninos para que sobre eles pusesse as
+
+65
+00:03:18,360 --> 00:03:24,440
+mãos e orasse, mas os discípulos os
+
+66
+00:03:22,360 --> 00:03:26,360
+repreendiam.
+
+67
+00:03:24,440 --> 00:03:29,920
+Versículo 14.
+
+68
+00:03:26,360 --> 00:03:33,560
+Jesus, porém, disse: "Deixai os meninos
+
+69
+00:03:29,920 --> 00:03:37,000
+e não os estorveis de vir a mim, porque
+
+70
+00:03:33,560 --> 00:03:40,439
+dos tais é o reino dos céus".
+
+71
+00:03:37,000 --> 00:03:43,319
+E versículo 15, "E tendo imposto as
+
+72
+00:03:40,439 --> 00:03:45,599
+mãos, partiu dali". Esses três
+
+73
+00:03:43,319 --> 00:03:48,360
+versículos que nós vamos estudar aí nas
+
+74
+00:03:45,599 --> 00:03:52,239
+nas semanas seguintes. Hoje nós vamos
+
+75
+00:03:48,360 --> 00:03:54,120
+começar com o versículo 13.
+
+76
+00:03:52,239 --> 00:03:56,640
+algo inédito que eu que eu vou fazer
+
+77
+00:03:54,120 --> 00:04:00,159
+aqui na nesse ao longo desses anos todos
+
+78
+00:03:56,640 --> 00:04:02,439
+de miudin, né? Eu vou utilizar hoje duas
+
+79
+00:04:00,159 --> 00:04:04,360
+traduções. Não é uma tradução fácil
+
+80
+00:04:02,439 --> 00:04:08,040
+desse versículo
+
+81
+00:04:04,360 --> 00:04:10,599
+porque ela acaba sendo ambígua. Vocês
+
+82
+00:04:08,040 --> 00:04:12,360
+vão entender o porquê, né? Então, é por
+
+83
+00:04:10,599 --> 00:04:15,079
+isso que eu fiz questão de utilizar duas
+
+84
+00:04:12,360 --> 00:04:17,720
+traduções hoje. A primeira que nós vamos
+
+85
+00:04:15,079 --> 00:04:19,600
+vamos ver é a tradução feita pelo Aroldo
+
+86
+00:04:17,720 --> 00:04:21,199
+Dra Dias paraa Federação Espírita
+
+87
+00:04:19,600 --> 00:04:24,320
+Brasileira,
+
+88
+00:04:21,199 --> 00:04:28,360
+que diz assim: "Então trouxeram-lhe
+
+89
+00:04:24,320 --> 00:04:30,120
+criancinhas para que impusesse as mãos e
+
+90
+00:04:28,360 --> 00:04:35,199
+orasse.
+
+91
+00:04:30,120 --> 00:04:38,320
+Os discípulos repreenderam eles.
+
+92
+00:04:35,199 --> 00:04:41,160
+E em seguida a tradução feita pela
+
+93
+00:04:38,320 --> 00:04:43,919
+equipe do padre Roland para a Bíblia de
+
+94
+00:04:41,160 --> 00:04:46,039
+Jerusalém, que é também uma tradução
+
+95
+00:04:43,919 --> 00:04:48,400
+respeitadíssima, não é a tradução que a
+
+96
+00:04:46,039 --> 00:04:51,080
+gente frequentemente utiliza aqui, mas é
+
+97
+00:04:48,400 --> 00:04:53,880
+uma uma tradução respeitadíssima, fruto
+
+98
+00:04:51,080 --> 00:04:57,120
+de décadas de estudo e pesquisa dessa
+
+99
+00:04:53,880 --> 00:05:00,759
+equipe, gerenciada pelo jesuíta
+
+100
+00:04:57,120 --> 00:05:03,240
+com o padre Rolando, né? Naquele momento
+
+101
+00:05:00,759 --> 00:05:06,160
+foram-lhe trazidas crianças para que
+
+102
+00:05:03,240 --> 00:05:10,600
+lhes impusesse as mãos e fizesse uma
+
+103
+00:05:06,160 --> 00:05:12,120
+oração. Os discípulos, porém, as
+
+104
+00:05:10,600 --> 00:05:15,759
+repreendiam.
+
+105
+00:05:12,120 --> 00:05:19,880
+Essa é a tradução da Bíblia Jerusalém.
+
+106
+00:05:15,759 --> 00:05:21,440
+O verbo que a gente optou por analisar
+
+107
+00:05:19,880 --> 00:05:24,840
+para fazer o miudinho, para fazer o
+
+108
+00:05:21,440 --> 00:05:27,880
+estudo minucioso, é o verbo repreender.
+
+109
+00:05:24,840 --> 00:05:30,759
+Só que tem um pulo de do gato aí nessas
+
+110
+00:05:27,880 --> 00:05:33,840
+traduções. Primeiro,
+
+111
+00:05:30,759 --> 00:05:36,800
+a tradução possibilita que você faça
+
+112
+00:05:33,840 --> 00:05:40,360
+referência
+
+113
+00:05:36,800 --> 00:05:43,000
+aqueles que levaram as criancinhas.
+
+114
+00:05:40,360 --> 00:05:45,199
+Nesse caso, Jesus, os discípulos,
+
+115
+00:05:43,000 --> 00:05:47,880
+perdão, os discípulos estariam
+
+116
+00:05:45,199 --> 00:05:51,800
+repreendendo estas pessoas que trouxeram
+
+117
+00:05:47,880 --> 00:05:56,120
+as criancinhas até Jesus. Mas também é
+
+118
+00:05:51,800 --> 00:05:59,840
+possível traduzir indicando que
+
+119
+00:05:56,120 --> 00:06:01,600
+aqueles que eram repreendidas, aquelas
+
+120
+00:05:59,840 --> 00:06:04,000
+que eram repreendidas, repreendidas,
+
+121
+00:06:01,600 --> 00:06:06,360
+eram as próprias criancinhas, que é o
+
+122
+00:06:04,000 --> 00:06:08,160
+caso da Bíblia de Jerusalém, né? Na
+
+123
+00:06:06,360 --> 00:06:10,520
+tradução do Aroldo, os discípulos
+
+124
+00:06:08,160 --> 00:06:12,639
+repreenderam eles. Quem?
+
+125
+00:06:10,520 --> 00:06:14,960
+os que trouxeram as criancinhas para que
+
+126
+00:06:12,639 --> 00:06:16,560
+Jesus impusesse as mãos. Chamaram a
+
+127
+00:06:14,960 --> 00:06:18,919
+atenção deles. Fal: "Olha, não traz
+
+128
+00:06:16,560 --> 00:06:21,120
+essas crianças aqui, não. Vai
+
+129
+00:06:18,919 --> 00:06:23,960
+atrapalhar, vai bagunçar aqui no no
+
+130
+00:06:21,120 --> 00:06:26,199
+nosso trabalho." E na tradução da da
+
+131
+00:06:23,960 --> 00:06:28,280
+Bíblia de Jerusalém, repreenderam as
+
+132
+00:06:26,199 --> 00:06:30,319
+criancinhas. Fica quieto, moleque. Faz
+
+133
+00:06:28,280 --> 00:06:32,440
+barulho, não faz bagunça, não. Vocês
+
+134
+00:06:30,319 --> 00:06:35,039
+entenderam?
+
+135
+00:06:32,440 --> 00:06:39,120
+É possível entender, traduzir das das
+
+136
+00:06:35,039 --> 00:06:42,120
+duas maneiras, das duas formas. O verbo
+
+137
+00:06:39,120 --> 00:06:44,039
+associado às duas possibilidades, aos
+
+138
+00:06:42,120 --> 00:06:47,280
+dois personagens
+
+139
+00:06:44,039 --> 00:06:50,840
+ou grupo de personagens em análise, em
+
+140
+00:06:47,280 --> 00:06:53,960
+questão, sejam aqueles que trouxeram as
+
+141
+00:06:50,840 --> 00:06:57,199
+crianças até Jesus. A gente pode supor
+
+142
+00:06:53,960 --> 00:06:59,039
+que fossem seus pais, seus avós,
+
+143
+00:06:57,199 --> 00:07:02,120
+seus tios,
+
+144
+00:06:59,039 --> 00:07:05,000
+ou as próprias crianças ou os meninos ou
+
+145
+00:07:02,120 --> 00:07:08,199
+as meninas em questão que foram levadas
+
+146
+00:07:05,000 --> 00:07:10,120
+até Jesus. De qualquer modo, em qualquer
+
+147
+00:07:08,199 --> 00:07:13,199
+questão,
+
+148
+00:07:10,120 --> 00:07:14,800
+o verbo a ser analisado hoje é o verbo
+
+149
+00:07:13,199 --> 00:07:17,639
+repreender.
+
+150
+00:07:14,800 --> 00:07:20,319
+Por quê?
+
+151
+00:07:17,639 --> 00:07:23,319
+As duas possibilidades de tradução
+
+152
+00:07:20,319 --> 00:07:23,319
+expressa
+
+153
+00:07:23,400 --> 00:07:28,680
+a dificuldade
+
+154
+00:07:25,440 --> 00:07:31,000
+que os adultos têm. E aí nós estamos
+
+155
+00:07:28,680 --> 00:07:35,599
+falando os adultos de muitas eras e de
+
+156
+00:07:31,000 --> 00:07:41,919
+muitas culturas, não de todas.
+
+157
+00:07:35,599 --> 00:07:41,919
+em lidar com o temperamento da infância,
+
+158
+00:07:41,960 --> 00:07:49,240
+com a postura comportamental das
+
+159
+00:07:44,840 --> 00:07:52,759
+crianças quando expostas a um grupo
+
+160
+00:07:49,240 --> 00:07:54,479
+maior de pessoas.
+
+161
+00:07:52,759 --> 00:07:56,639
+Primeiro,
+
+162
+00:07:54,479 --> 00:07:59,560
+se tomássemos como possibilidade de
+
+163
+00:07:56,639 --> 00:08:02,960
+tradução a tradução do Aroldo, nós
+
+164
+00:07:59,560 --> 00:08:08,319
+pensaríamos que a presença das crianças
+
+165
+00:08:02,960 --> 00:08:08,319
+não era bem-vinda para os discípulos.
+
+166
+00:08:09,199 --> 00:08:14,400
+Eles não entendiam que a presença das
+
+167
+00:08:11,479 --> 00:08:17,840
+crianças fosse algo compatível
+
+168
+00:08:14,400 --> 00:08:21,240
+com aquilo que eles entendiam de reunião
+
+169
+00:08:17,840 --> 00:08:23,400
+ou de concongregação em torno da figura
+
+170
+00:08:21,240 --> 00:08:25,840
+de Jesus.
+
+171
+00:08:23,400 --> 00:08:28,599
+Então, a presença infantil, nesse caso,
+
+172
+00:08:25,840 --> 00:08:30,680
+é repudiada,
+
+173
+00:08:28,599 --> 00:08:32,360
+não é bem-vinda.
+
+174
+00:08:30,680 --> 00:08:34,519
+Por quê?
+
+175
+00:08:32,360 --> 00:08:37,279
+Porque o comportamento da criança
+
+176
+00:08:34,519 --> 00:08:38,839
+incomoda este adulto, no caso dos
+
+177
+00:08:37,279 --> 00:08:40,959
+discípulos.
+
+178
+00:08:38,839 --> 00:08:44,640
+E a segunda possibilidade, quando a
+
+179
+00:08:40,959 --> 00:08:46,760
+repreensão é as crianças em si, partamos
+
+180
+00:08:44,640 --> 00:08:48,320
+do do pressuposto de que a tradução da
+
+181
+00:08:46,760 --> 00:08:52,360
+Bíblia de Jerusalém, então é a mais
+
+182
+00:08:48,320 --> 00:08:54,680
+feliz ou a mais exata. Nesse caso,
+
+183
+00:08:52,360 --> 00:08:56,839
+já que a presença das crianças é
+
+184
+00:08:54,680 --> 00:08:58,959
+inevitável, já que não vai ser possível
+
+185
+00:08:56,839 --> 00:09:02,279
+impedi-las de chegar até Jesus, então
+
+186
+00:08:58,959 --> 00:09:02,279
+vamos repreendê-las.
+
+187
+00:09:02,360 --> 00:09:09,560
+São os dois comportamentos padrões
+
+188
+00:09:06,480 --> 00:09:14,120
+adultos em muitas épocas. Só que nós
+
+189
+00:09:09,560 --> 00:09:14,120
+vamos focar nos adultos do nosso tempo.
+
+190
+00:09:14,600 --> 00:09:25,079
+Ou as crianças são ignoradas ou elas são
+
+191
+00:09:21,200 --> 00:09:28,040
+repassadas para terceiros tomarem conta.
+
+192
+00:09:25,079 --> 00:09:29,880
+A presença delas me incomoda, me
+
+193
+00:09:28,040 --> 00:09:31,519
+perturba.
+
+194
+00:09:29,880 --> 00:09:35,240
+bagunça,
+
+195
+00:09:31,519 --> 00:09:37,760
+coreto, ou eu admito a presença das
+
+196
+00:09:35,240 --> 00:09:42,680
+crianças, mas impondo-lhes um regime de
+
+197
+00:09:37,760 --> 00:09:46,320
+disciplina que as obrigue se acomodar ao
+
+198
+00:09:42,680 --> 00:09:48,360
+meu entendimento de comportamento.
+
+199
+00:09:46,320 --> 00:09:50,519
+Vocês estão entendendo?
+
+200
+00:09:48,360 --> 00:09:52,800
+Vamos pensar em pais que adotam as duas
+
+201
+00:09:50,519 --> 00:09:55,720
+posturas.
+
+202
+00:09:52,800 --> 00:09:58,760
+Ou o pai que terceiriza isso paraa
+
+203
+00:09:55,720 --> 00:10:00,959
+escola, para babá,
+
+204
+00:09:58,760 --> 00:10:03,959
+paraa cuidadora.
+
+205
+00:10:00,959 --> 00:10:06,160
+Ó, leva essas crianças para lá. Eu vou
+
+206
+00:10:03,959 --> 00:10:09,959
+sair com a sua mãe. Pronto. Você vai
+
+207
+00:10:06,160 --> 00:10:14,360
+ficar lá no canto do restaurante lá com
+
+208
+00:10:09,959 --> 00:10:15,839
+as com as cuidadoras, as recreadoras
+
+209
+00:10:14,360 --> 00:10:19,320
+longe da conversa dos adultos, porque
+
+210
+00:10:15,839 --> 00:10:21,200
+criança atrapalha a conversa de adulto.
+
+211
+00:10:19,320 --> 00:10:24,160
+Não é assim?
+
+212
+00:10:21,200 --> 00:10:26,600
+Ou a segunda opção, quando você obriga a
+
+213
+00:10:24,160 --> 00:10:29,079
+criança a sentar na mesa com você, não,
+
+214
+00:10:26,600 --> 00:10:31,839
+ela vai estar presente. OK.
+
+215
+00:10:29,079 --> 00:10:35,200
+Mas vi calado, menino. Senta direito,
+
+216
+00:10:31,839 --> 00:10:38,399
+menino. Direito o corpo.
+
+217
+00:10:35,200 --> 00:10:38,399
+Vocês entenderam?
+
+218
+00:10:38,959 --> 00:10:46,200
+Então existe aí primeiro um entendimento
+
+219
+00:10:43,680 --> 00:10:48,079
+a respeito da criança que a gente
+
+220
+00:10:46,200 --> 00:10:51,600
+precisa desconstruir ao longo dessas
+
+221
+00:10:48,079 --> 00:10:54,279
+semanas e segundo um entendimento de
+
+222
+00:10:51,600 --> 00:10:56,200
+como se educa uma criança, que é o que
+
+223
+00:10:54,279 --> 00:10:59,320
+nós vamos ver na ao longo das semanas
+
+224
+00:10:56,200 --> 00:11:03,680
+seguintes, certo?
+
+225
+00:10:59,320 --> 00:11:07,399
+Vamos estudar então sobre o espírito na
+
+226
+00:11:03,680 --> 00:11:10,600
+condição de criança, o espírito vivendo
+
+227
+00:11:07,399 --> 00:11:12,480
+o período da infância, a fase da
+
+228
+00:11:10,600 --> 00:11:15,760
+infância no transcurso de uma
+
+229
+00:11:12,480 --> 00:11:17,120
+encarnação. como os adultos, aqueles
+
+230
+00:11:15,760 --> 00:11:23,079
+espíritos que já deixaram de ser
+
+231
+00:11:17,120 --> 00:11:27,839
+criança, conduzem, educam, lidam,
+
+232
+00:11:23,079 --> 00:11:30,160
+tratam, manejam a presença da criança no
+
+233
+00:11:27,839 --> 00:11:33,600
+cotidiano social, no cotidiano da
+
+234
+00:11:30,160 --> 00:11:36,399
+comunidade, correto, gente?
+
+235
+00:11:33,600 --> 00:11:38,560
+Então, vale as duas traduções aqui. Em
+
+236
+00:11:36,399 --> 00:11:41,120
+qualquer uma das situações,
+
+237
+00:11:38,560 --> 00:11:45,440
+o cerno de entendimento é o mesmo. A
+
+238
+00:11:41,120 --> 00:11:48,000
+criança e o seu comportamento espontâneo
+
+239
+00:11:45,440 --> 00:11:51,360
+é visto como um incômodo para a vida
+
+240
+00:11:48,000 --> 00:11:54,440
+social, para a vida comunitária.
+
+241
+00:11:51,360 --> 00:11:56,399
+Olha, gente. E aí nós vamos botar o dedo
+
+242
+00:11:54,440 --> 00:11:58,040
+na ferida
+
+243
+00:11:56,399 --> 00:11:59,560
+e vamos fazer a seguinte pergunta antes
+
+244
+00:11:58,040 --> 00:12:02,920
+de avançar. Nós vamos fazer essa
+
+245
+00:11:59,560 --> 00:12:06,920
+pergunta hoje para responder ela no
+
+246
+00:12:02,920 --> 00:12:08,920
+último estudo daqui umas semanas.
+
+247
+00:12:06,920 --> 00:12:11,040
+Como é que os dirigentes das casas
+
+248
+00:12:08,920 --> 00:12:13,760
+espíritas, os tarefeiros das casas
+
+249
+00:12:11,040 --> 00:12:17,040
+espíritas, como é que as casas espíritas
+
+250
+00:12:13,760 --> 00:12:19,560
+têm lidado com as crianças, com a
+
+251
+00:12:17,040 --> 00:12:22,560
+presença das crianças dentro da casa
+
+252
+00:12:19,560 --> 00:12:22,560
+espírita.
+
+253
+00:12:22,920 --> 00:12:28,639
+A primeira opção de tradução,
+
+254
+00:12:26,000 --> 00:12:30,519
+chamando a atenção dos pais, pedindo que
+
+255
+00:12:28,639 --> 00:12:32,320
+eles não levem as crianças ou pedindo
+
+256
+00:12:30,519 --> 00:12:34,720
+que eles levem as crianças lá pro fundo
+
+257
+00:12:32,320 --> 00:12:36,440
+da casa do grupo espírita, lá paraa
+
+258
+00:12:34,720 --> 00:12:38,839
+salinha de evangelização para apartar
+
+259
+00:12:36,440 --> 00:12:43,720
+ela do salão, para partar da das
+
+260
+00:12:38,839 --> 00:12:46,440
+reuniões sérias dos adultos. É assim?
+
+261
+00:12:43,720 --> 00:12:48,399
+Ou a segunda opção, não. Nós vamos
+
+262
+00:12:46,440 --> 00:12:50,760
+admitir a presença delas nas nossas
+
+263
+00:12:48,399 --> 00:12:54,639
+reuniões sérias de adultos, mas elas vão
+
+264
+00:12:50,760 --> 00:12:54,639
+ter que se comportar como adultos.
+
+265
+00:12:55,480 --> 00:12:59,399
+Não precisa responder não, viu? Sei que
+
+266
+00:12:57,320 --> 00:13:02,560
+vocês já têm algumas respostas na foto
+
+267
+00:12:59,399 --> 00:13:06,800
+da língua. Sei que alguns até formaram
+
+268
+00:13:02,560 --> 00:13:10,519
+imagens mentais ou buscaram na memória,
+
+269
+00:13:06,800 --> 00:13:12,800
+né, imagens já testemunhadas, mas hoje a
+
+270
+00:13:10,519 --> 00:13:14,720
+gente não vai responder ela diretamente,
+
+271
+00:13:12,800 --> 00:13:17,000
+nós vamos caminhar,
+
+272
+00:13:14,720 --> 00:13:19,199
+vamos caminhar isso,
+
+273
+00:13:17,000 --> 00:13:22,279
+caminhar com isso iniciando com a a obra
+
+274
+00:13:19,199 --> 00:13:23,880
+básica, né, com o livro dos espíritos, o
+
+275
+00:13:22,279 --> 00:13:26,120
+livro segundo do livro dos espíritos,
+
+276
+00:13:23,880 --> 00:13:28,760
+capítulo sétimo, retorno à vida
+
+277
+00:13:26,120 --> 00:13:32,480
+corporal, numa sequência de questões que
+
+278
+00:13:28,760 --> 00:13:35,880
+Allan Kardec intitulou como da infância.
+
+279
+00:13:32,480 --> 00:13:38,959
+São questões relativas à infância. Nós
+
+280
+00:13:35,880 --> 00:13:41,680
+selecionamos aqui duas e já oferece
+
+281
+00:13:38,959 --> 00:13:44,880
+material pra gente refletir. Primeira
+
+282
+00:13:41,680 --> 00:13:48,279
+questão 382.
+
+283
+00:13:44,880 --> 00:13:50,519
+Kardec pergunta: "Durante a infância
+
+284
+00:13:48,279 --> 00:13:53,199
+sofre o espírito encarnado em
+
+285
+00:13:50,519 --> 00:13:57,680
+consequência do constrangimento que a
+
+286
+00:13:53,199 --> 00:14:00,759
+imperfeição dos órgãos lhe impõe?
+
+287
+00:13:57,680 --> 00:14:02,639
+Durante a infância, o espírito encarnado
+
+288
+00:14:00,759 --> 00:14:06,759
+tá sofrendo algum tipo de
+
+289
+00:14:02,639 --> 00:14:09,480
+constrangimento, algum tipo de limitação
+
+290
+00:14:06,759 --> 00:14:11,360
+imposta pelo pelos órgãos físicos, pelo
+
+291
+00:14:09,480 --> 00:14:14,440
+corpo físico?
+
+292
+00:14:11,360 --> 00:14:16,120
+A resposta dos benfeitores é a seguinte:
+
+293
+00:14:14,440 --> 00:14:17,920
+não.
+
+294
+00:14:16,120 --> 00:14:19,639
+Esse estado corresponde a uma
+
+295
+00:14:17,920 --> 00:14:22,920
+necessidade,
+
+296
+00:14:19,639 --> 00:14:26,160
+está na ordem da natureza e de acordo
+
+297
+00:14:22,920 --> 00:14:32,519
+com as vistas da providência.
+
+298
+00:14:26,160 --> 00:14:34,079
+é um período de repouso do espírito.
+
+299
+00:14:32,519 --> 00:14:36,399
+Vamos aí em cima do daquilo que eu
+
+300
+00:14:34,079 --> 00:14:39,279
+sublinhei e grifei.
+
+301
+00:14:36,399 --> 00:14:43,720
+Em período de repouso.
+
+302
+00:14:39,279 --> 00:14:47,120
+Repouso não no sentido de descanso,
+
+303
+00:14:43,720 --> 00:14:51,680
+mas de atividade
+
+304
+00:14:47,120 --> 00:14:51,680
+que flerta com a latência
+
+305
+00:14:52,000 --> 00:14:58,199
+de atividade
+
+306
+00:14:54,160 --> 00:15:01,480
+psíquica. desacelerada
+
+307
+00:14:58,199 --> 00:15:04,360
+e reduzida
+
+308
+00:15:01,480 --> 00:15:06,680
+em toda a sua potência. Vou explicar
+
+309
+00:15:04,360 --> 00:15:11,480
+isso melhor.
+
+310
+00:15:06,680 --> 00:15:11,480
+A memória é limitada,
+
+311
+00:15:11,800 --> 00:15:17,160
+a tomada de consciência ou a consciência
+
+312
+00:15:14,360 --> 00:15:20,600
+de si também.
+
+313
+00:15:17,160 --> 00:15:24,800
+E isso vai sendo retomado no curso dos
+
+314
+00:15:20,600 --> 00:15:26,160
+dias, dos meses e dos anos ao longo da
+
+315
+00:15:24,800 --> 00:15:28,800
+infância.
+
+316
+00:15:26,160 --> 00:15:32,040
+A expansão
+
+317
+00:15:28,800 --> 00:15:34,120
+da consciência de si vai acontecendo
+
+318
+00:15:32,040 --> 00:15:36,040
+lentamente.
+
+319
+00:15:34,120 --> 00:15:40,360
+É isso que os espíritos estão chamando
+
+320
+00:15:36,040 --> 00:15:43,240
+de repouso do espírito.
+
+321
+00:15:40,360 --> 00:15:44,759
+Há uma desaceleração da atividade
+
+322
+00:15:43,240 --> 00:15:47,880
+psíquica
+
+323
+00:15:44,759 --> 00:15:50,160
+para que ela seja retomada aos poucos.
+
+324
+00:15:47,880 --> 00:15:54,639
+mais ou menos um carro de Fórmula 1 na
+
+325
+00:15:50,160 --> 00:15:55,880
+pista que ao fazer uma curva muito íng,
+
+326
+00:15:54,639 --> 00:15:58,079
+o que que ele tem que fazer para
+
+327
+00:15:55,880 --> 00:16:00,360
+conseguir entrar
+
+328
+00:15:58,079 --> 00:16:03,680
+no outro sentido, na outra direção que a
+
+329
+00:16:00,360 --> 00:16:06,240
+curva propõe? Ele tem que reduzir, não é
+
+330
+00:16:03,680 --> 00:16:08,600
+assim? Desacelerar. Se ele não reduzir,
+
+331
+00:16:06,240 --> 00:16:10,880
+se ele não desacelerar, que acontece?
+
+332
+00:16:08,600 --> 00:16:14,519
+acidente,
+
+333
+00:16:10,880 --> 00:16:17,160
+então ele tá num sentido, numa direção.
+
+334
+00:16:14,519 --> 00:16:20,199
+Aí ele fazendo uma curva, ele vai tomar
+
+335
+00:16:17,160 --> 00:16:22,519
+outro sentido, outra direção.
+
+336
+00:16:20,199 --> 00:16:26,880
+Então ele precisa desacelerar antes. Ele
+
+337
+00:16:22,519 --> 00:16:29,639
+entra na curva desacelerando e sai dela
+
+338
+00:16:26,880 --> 00:16:31,360
+acelerando. Não é assim?
+
+339
+00:16:29,639 --> 00:16:34,880
+É isso que acontece com a potência do
+
+340
+00:16:31,360 --> 00:16:39,720
+espírito. Ele entra na na infância
+
+341
+00:16:34,880 --> 00:16:42,720
+através da do nascimento desacelerando
+
+342
+00:16:39,720 --> 00:16:45,319
+e sai da infância acelerando.
+
+343
+00:16:42,720 --> 00:16:46,959
+Adolescência é todo vapor, né? É pé na
+
+344
+00:16:45,319 --> 00:16:50,839
+tábua.
+
+345
+00:16:46,959 --> 00:16:54,399
+Entenderam? Aí na questão 383, Kardec
+
+346
+00:16:50,839 --> 00:16:56,360
+pergunta: "Qual para este a utilidade de
+
+347
+00:16:54,399 --> 00:16:58,920
+passar pelo estado da infância?" Qual a
+
+348
+00:16:56,360 --> 00:17:00,639
+utilidade desse processo de de
+
+349
+00:16:58,920 --> 00:17:04,240
+arrecimento,
+
+350
+00:17:00,639 --> 00:17:07,720
+de redução da potência psíquica durante
+
+351
+00:17:04,240 --> 00:17:10,919
+a fase da infância de desaceleração da
+
+352
+00:17:07,720 --> 00:17:13,839
+atividade psíquica? Qual a função disso?
+
+353
+00:17:10,919 --> 00:17:16,160
+E a resposta dos espíritos é a seguinte:
+
+354
+00:17:13,839 --> 00:17:18,919
+encarnando com o objetivo de se
+
+355
+00:17:16,160 --> 00:17:23,480
+aperfeiçoar, o espírito durante esse
+
+356
+00:17:18,919 --> 00:17:26,160
+período é mais acessível às impressões
+
+357
+00:17:23,480 --> 00:17:29,960
+que recebem.
+
+358
+00:17:26,160 --> 00:17:33,760
+capazes de lhe auxiliarem o adiantamento
+
+359
+00:17:29,960 --> 00:17:37,039
+para o que devem contribuir os incubidos
+
+360
+00:17:33,760 --> 00:17:41,919
+de educá-lo.
+
+361
+00:17:37,039 --> 00:17:44,799
+Então, essa redução ou desaceleração ou
+
+362
+00:17:41,919 --> 00:17:49,559
+esse arrefecimento da potência do
+
+363
+00:17:44,799 --> 00:17:52,600
+espírito na sua memória psíquica, na sua
+
+364
+00:17:49,559 --> 00:17:55,600
+consciência de si, o torna mais
+
+365
+00:17:52,600 --> 00:17:55,600
+maleável.
+
+366
+00:17:55,919 --> 00:18:01,159
+É possível uma modulação do seu
+
+367
+00:17:58,679 --> 00:18:04,200
+psiquismo,
+
+368
+00:18:01,159 --> 00:18:09,000
+entenderam? É, é mais ou menos quando
+
+369
+00:18:04,200 --> 00:18:12,520
+você, ó, vou dar um exemplo aqui, talvez
+
+370
+00:18:09,000 --> 00:18:16,520
+tolo, mas é exemplo de gordo, né? Você
+
+371
+00:18:12,520 --> 00:18:20,039
+pega a massa do brigadeiro,
+
+372
+00:18:16,520 --> 00:18:22,559
+resfria ela, certo? Aí você, ela fica
+
+373
+00:18:20,039 --> 00:18:23,679
+bem dura. Para você poder fazer o
+
+374
+00:18:22,559 --> 00:18:26,240
+brigadeiro, o que que você vai ter que
+
+375
+00:18:23,679 --> 00:18:28,120
+fazer com a massa? Você traz ela para
+
+376
+00:18:26,240 --> 00:18:31,360
+fora e deixa ela descansar um pouquinho
+
+377
+00:18:28,120 --> 00:18:33,360
+para ela ficar mais mole. Você tira ela
+
+378
+00:18:31,360 --> 00:18:36,039
+da geladeira, põe ela em cima de uma
+
+379
+00:18:33,360 --> 00:18:38,120
+bancada, deixa ela amolecer para você
+
+380
+00:18:36,039 --> 00:18:40,440
+poder modelar,
+
+381
+00:18:38,120 --> 00:18:42,200
+trabalhar com ela. Faz sentido isso para
+
+382
+00:18:40,440 --> 00:18:45,240
+vocês?
+
+383
+00:18:42,200 --> 00:18:48,640
+É infância. O espírito pleno da sua
+
+384
+00:18:45,240 --> 00:18:52,039
+potência, ele é mais resistente
+
+385
+00:18:48,640 --> 00:18:56,039
+ao manuseio, ao manejo dos pais, por
+
+386
+00:18:52,039 --> 00:18:57,760
+exemplo, mas na infância ele fica mais
+
+387
+00:18:56,039 --> 00:19:01,559
+amolecido
+
+388
+00:18:57,760 --> 00:19:01,559
+ou mais maleável,
+
+389
+00:19:01,640 --> 00:19:08,159
+entenderam?
+
+390
+00:19:03,679 --> 00:19:12,320
+é mais fácil de manejá-lo
+
+391
+00:19:08,159 --> 00:19:14,200
+naquilo que ele precisa ser manejado.
+
+392
+00:19:12,320 --> 00:19:16,960
+E o que ele precisa ser manejado é o que
+
+393
+00:19:14,200 --> 00:19:19,000
+a gente vai estudar daqui em diante, tá?
+
+394
+00:19:16,960 --> 00:19:20,840
+Tá certo? Então, duas questões do livro
+
+395
+00:19:19,000 --> 00:19:23,000
+dos espíritos pra gente começar esse
+
+396
+00:19:20,840 --> 00:19:24,720
+estudo.
+
+397
+00:19:23,000 --> 00:19:27,039
+E aí a gente vai pra revista espírita,
+
+398
+00:19:24,720 --> 00:19:30,760
+um texto
+
+399
+00:19:27,039 --> 00:19:34,559
+icônico não assinado na revista Espea lá
+
+400
+00:19:30,760 --> 00:19:37,720
+no ano 2, fevereiro de 1859, na parte da
+
+401
+00:19:34,559 --> 00:19:41,799
+edição intitulada Dissertações de Além
+
+402
+00:19:37,720 --> 00:19:45,320
+túmulo, um texto intitulado A infância.
+
+403
+00:19:41,799 --> 00:19:49,080
+E nesse nesse texto, o autor espiritual,
+
+404
+00:19:45,320 --> 00:19:51,360
+ele faz dois comentários provocativos
+
+405
+00:19:49,080 --> 00:19:54,600
+e que eu inicio com eles aqui já no
+
+406
+00:19:51,360 --> 00:19:57,320
+segundo slide para justamente a para
+
+407
+00:19:54,600 --> 00:19:58,840
+para botar para ferver a cabeça de vocês
+
+408
+00:19:57,320 --> 00:20:01,559
+a respeito do que a gente entende de
+
+409
+00:19:58,840 --> 00:20:04,760
+sobre a infância. Olha o que eles dizem.
+
+410
+00:20:01,559 --> 00:20:08,520
+Com efeito, imaginai que o espírito das
+
+411
+00:20:04,760 --> 00:20:11,280
+crianças que nascem entre vós pode vir
+
+412
+00:20:08,520 --> 00:20:14,280
+de um mundo onde adquiriu hábitos
+
+413
+00:20:11,280 --> 00:20:16,880
+completamente diferentes.
+
+414
+00:20:14,280 --> 00:20:19,679
+Por que que essa primeira fala é de
+
+415
+00:20:16,880 --> 00:20:21,919
+explodir o cérebro?
+
+416
+00:20:19,679 --> 00:20:24,320
+Quando você lê displicentemente,
+
+417
+00:20:21,919 --> 00:20:27,120
+desavisadamente esse texto, você fica
+
+418
+00:20:24,320 --> 00:20:29,760
+com a seguinte impressão:
+
+419
+00:20:27,120 --> 00:20:31,720
+será que os espíritos estão falando que
+
+420
+00:20:29,760 --> 00:20:35,440
+as crianças que reencaram na minha casa
+
+421
+00:20:31,720 --> 00:20:36,960
+vieram de outro planeta?
+
+422
+00:20:35,440 --> 00:20:39,159
+Confesso que tem hora que eu acho isso
+
+423
+00:20:36,960 --> 00:20:41,240
+sobre o Chico, meu filho. Para esse
+
+424
+00:20:39,159 --> 00:20:43,520
+moleque é um ET.
+
+425
+00:20:41,240 --> 00:20:46,880
+Mas não é disso que os espíritos estão
+
+426
+00:20:43,520 --> 00:20:49,720
+falando. Quando eles se referem a um
+
+427
+00:20:46,880 --> 00:20:53,880
+mundo onde adquiriu atos completamente
+
+428
+00:20:49,720 --> 00:20:56,080
+diferentes, não é no sentido literal,
+
+429
+00:20:53,880 --> 00:21:00,600
+planetário
+
+430
+00:20:56,080 --> 00:21:03,159
+ou astronômico da palavra.
+
+431
+00:21:00,600 --> 00:21:04,720
+Isso porque na na sequência, em outra
+
+432
+00:21:03,159 --> 00:21:07,120
+fala que eu nem coloquei aqui, eles
+
+433
+00:21:04,720 --> 00:21:08,600
+falam de outros órbes, outra, aliás,
+
+434
+00:21:07,120 --> 00:21:11,320
+outros órbesão, eles mencionam outras
+
+435
+00:21:08,600 --> 00:21:13,360
+esferas, mas é não é no sentido
+
+436
+00:21:11,320 --> 00:21:18,440
+astronômico.
+
+437
+00:21:13,360 --> 00:21:21,080
+Falar de outra outro mundo é primeiro
+
+438
+00:21:18,440 --> 00:21:23,520
+outro tempo.
+
+439
+00:21:21,080 --> 00:21:26,080
+Esse outro mundo é outro tempo, outro
+
+440
+00:21:23,520 --> 00:21:28,880
+tempo histórico.
+
+441
+00:21:26,080 --> 00:21:33,200
+Então, um espírito que reencarnou a
+
+442
+00:21:28,880 --> 00:21:36,080
+última vez, há 150 anos atrás,
+
+443
+00:21:33,200 --> 00:21:37,640
+ele reencarnou no século XIX. Vocês
+
+444
+00:21:36,080 --> 00:21:41,279
+concordam?
+
+445
+00:21:37,640 --> 00:21:43,279
+O mundo do século XX é o mesmo mundo do
+
+446
+00:21:41,279 --> 00:21:46,360
+século XIX?
+
+447
+00:21:43,279 --> 00:21:50,440
+Então é outro mundo
+
+448
+00:21:46,360 --> 00:21:54,159
+ter sido adulto, ter estado encarnado no
+
+449
+00:21:50,440 --> 00:21:56,000
+século 19 do Brasil era estar encarnado
+
+450
+00:21:54,159 --> 00:21:59,000
+primeiro no numa na sociedade
+
+451
+00:21:56,000 --> 00:21:59,000
+escravocrata.
+
+452
+00:21:59,400 --> 00:22:05,559
+E aí depois desse ato que a gente chama
+
+453
+00:22:03,000 --> 00:22:08,080
+de erraticidade,
+
+454
+00:22:05,559 --> 00:22:11,960
+reencarnar agora no século XX, é
+
+455
+00:22:08,080 --> 00:22:13,760
+reencarnar no ambiente onde o racismo
+
+456
+00:22:11,960 --> 00:22:18,320
+é crime.
+
+457
+00:22:13,760 --> 00:22:21,200
+Olha, agnada social
+
+458
+00:22:18,320 --> 00:22:23,120
+é outra sociedade, é outro mundo. Então
+
+459
+00:22:21,200 --> 00:22:27,000
+a gente primeiro falou numa perspectiva
+
+460
+00:22:23,120 --> 00:22:28,720
+temporal, outro outros séculos. Um
+
+461
+00:22:27,000 --> 00:22:31,520
+espírito então que reencarnou a última
+
+462
+00:22:28,720 --> 00:22:34,600
+vez a idade média que levou aí 500 anos
+
+463
+00:22:31,520 --> 00:22:38,240
+para reencarnar, tem existe um choque de
+
+464
+00:22:34,600 --> 00:22:39,840
+cultura. o convívio social com este
+
+465
+00:22:38,240 --> 00:22:42,760
+ambiente,
+
+466
+00:22:39,840 --> 00:22:45,559
+né, dos nossos dias, este ambiente
+
+467
+00:22:42,760 --> 00:22:48,440
+histórico e cultural dos nossos dias, há
+
+468
+00:22:45,559 --> 00:22:50,960
+um parto, então numa perspectiva
+
+469
+00:22:48,440 --> 00:22:54,279
+temporal, histórica,
+
+470
+00:22:50,960 --> 00:22:56,159
+depois numa perspectiva
+
+471
+00:22:54,279 --> 00:22:59,559
+cultural
+
+472
+00:22:56,159 --> 00:22:59,559
+e geográfica.
+
+473
+00:22:59,760 --> 00:23:04,720
+Um espírito que nas últimas encarnações
+
+474
+00:23:01,880 --> 00:23:08,159
+ou na última encarnação viveu no Oriente
+
+475
+00:23:04,720 --> 00:23:10,360
+Médio, num país árabe, muçulmano,
+
+476
+00:23:08,159 --> 00:23:14,279
+quando ele reencarnar no Ocidente, num
+
+477
+00:23:10,360 --> 00:23:18,200
+país extremamente católico, o ambiente
+
+478
+00:23:14,279 --> 00:23:21,799
+religioso é outro, o ambiente cultural,
+
+479
+00:23:18,200 --> 00:23:25,400
+os hábitos e costumes são outros,
+
+480
+00:23:21,799 --> 00:23:26,760
+o ambiente geográfico é outro. Vocês
+
+481
+00:23:25,400 --> 00:23:29,320
+imaginem que um espírito que tá
+
+482
+00:23:26,760 --> 00:23:32,480
+reencarnando várias vezes, várias vezes,
+
+483
+00:23:29,320 --> 00:23:35,159
+num ambiente, no deserto, numa tribo de
+
+484
+00:23:32,480 --> 00:23:38,159
+beduínos e de repente reencarna em
+
+485
+00:23:35,159 --> 00:23:38,159
+Estocolmo,
+
+486
+00:23:38,240 --> 00:23:45,080
+reencarna em Londres,
+
+487
+00:23:41,320 --> 00:23:47,200
+inverno do hemisfério norte,
+
+488
+00:23:45,080 --> 00:23:49,440
+entendeu? É um choque cultural, é um
+
+489
+00:23:47,200 --> 00:23:52,960
+choque geográfico,
+
+490
+00:23:49,440 --> 00:23:56,120
+é um choque gastronômico,
+
+491
+00:23:52,960 --> 00:23:56,120
+é outra comida.
+
+492
+00:23:56,159 --> 00:24:01,720
+é outra organização familiar, são outros
+
+493
+00:23:59,039 --> 00:24:04,480
+costumes, uma outra maneira de educar e
+
+494
+00:24:01,720 --> 00:24:08,320
+aí vem o choque cultural
+
+495
+00:24:04,480 --> 00:24:13,360
+e evolutivo também.
+
+496
+00:24:08,320 --> 00:24:16,960
+Se você reencarna no ambiente violento,
+
+497
+00:24:13,360 --> 00:24:18,840
+misógeno, racista,
+
+498
+00:24:16,960 --> 00:24:22,039
+xenófobo,
+
+499
+00:24:18,840 --> 00:24:24,400
+você tá onde reina a xenofobia, onde
+
+500
+00:24:22,039 --> 00:24:28,919
+reina a misogenia, onde reina o racismo,
+
+501
+00:24:24,400 --> 00:24:32,720
+onde impera a a o o atavismo social, a
+
+502
+00:24:28,919 --> 00:24:34,600
+violência, a truculência social, aí esse
+
+503
+00:24:32,720 --> 00:24:37,240
+espírito que tá reencarnado nesse nesse
+
+504
+00:24:34,600 --> 00:24:40,039
+ambiente familiar, em outras famílias,
+
+505
+00:24:37,240 --> 00:24:43,279
+De repente ele desencarna
+
+506
+00:24:40,039 --> 00:24:45,840
+e reencarna numa família
+
+507
+00:24:43,279 --> 00:24:48,039
+onde a mulher é valorizada, onde o
+
+508
+00:24:45,840 --> 00:24:51,440
+estrangeiro é valorizado,
+
+509
+00:24:48,039 --> 00:24:54,200
+onde o pobre é tratado bem, é tratado
+
+510
+00:24:51,440 --> 00:24:55,840
+com dignidade, com outra proposta de
+
+511
+00:24:54,200 --> 00:24:58,440
+sociedade.
+
+512
+00:24:55,840 --> 00:24:59,760
+Não é outro mundo.
+
+513
+00:24:58,440 --> 00:25:03,960
+Depois que eu fiz esse comentários,
+
+514
+00:24:59,760 --> 00:25:06,159
+volta lá na fala do autor. Olha só, com
+
+515
+00:25:03,960 --> 00:25:09,960
+efeito, imaginai que o espírito das
+
+516
+00:25:06,159 --> 00:25:13,679
+crianças que nascem entre vós pode vir
+
+517
+00:25:09,960 --> 00:25:16,919
+de um mundo onde adquiriu hábitos
+
+518
+00:25:13,679 --> 00:25:19,399
+completamente diferentes.
+
+519
+00:25:16,919 --> 00:25:23,520
+Entenderam? Agora completamente
+
+520
+00:25:19,399 --> 00:25:26,880
+diferentes. Isso explica em grande parte
+
+521
+00:25:23,520 --> 00:25:31,000
+muitas vezes, a incompatibilidade entre
+
+522
+00:25:26,880 --> 00:25:34,320
+os valores, os costumes
+
+523
+00:25:31,000 --> 00:25:36,399
+da família. que o recebe e os valores e
+
+524
+00:25:34,320 --> 00:25:39,600
+os costumes do espírito que reencarna
+
+525
+00:25:36,399 --> 00:25:39,600
+essa família.
+
+526
+00:25:40,360 --> 00:25:45,480
+Dissoá
+
+527
+00:25:42,240 --> 00:25:48,200
+conflitos inevitáveis.
+
+528
+00:25:45,480 --> 00:25:54,039
+conflitos imetáveis,
+
+529
+00:25:48,200 --> 00:25:58,159
+mas sempre pensando que essa inversão ou
+
+530
+00:25:54,039 --> 00:26:00,559
+melhor essa conversão
+
+531
+00:25:58,159 --> 00:26:04,679
+de trajetória evolutiva
+
+532
+00:26:00,559 --> 00:26:07,559
+em que o seu mundo é posto para conviver
+
+533
+00:26:04,679 --> 00:26:10,600
+com o mundo de um outro grupo familiar,
+
+534
+00:26:07,559 --> 00:26:13,000
+onde você reencarnará para fazer parte
+
+535
+00:26:10,600 --> 00:26:17,039
+dele, para integrá-lo,
+
+536
+00:26:13,000 --> 00:26:20,600
+isso atende a objetivo. divinos
+
+537
+00:26:17,039 --> 00:26:24,080
+atende a propósitos de Deus. Há uma
+
+538
+00:26:20,600 --> 00:26:27,360
+finalidade, há uma funcionalidade para
+
+539
+00:26:24,080 --> 00:26:28,919
+esse, para essa loucura, né, para essa
+
+540
+00:26:27,360 --> 00:26:32,679
+maluquí,
+
+541
+00:26:28,919 --> 00:26:34,640
+que é pegar um espírito ah, sei lá,
+
+542
+00:26:32,679 --> 00:26:37,200
+extremamente
+
+543
+00:26:34,640 --> 00:26:39,320
+belicista
+
+544
+00:26:37,200 --> 00:26:41,480
+do hemisfério norte, reencarnada numa
+
+545
+00:26:39,320 --> 00:26:44,600
+família extremamente pacifista do
+
+546
+00:26:41,480 --> 00:26:46,279
+hemisfério sul ou vice-versa.
+
+547
+00:26:44,600 --> 00:26:47,960
+Entendam?
+
+548
+00:26:46,279 --> 00:26:49,799
+Na no mesmo texto, eles continuam
+
+549
+00:26:47,960 --> 00:26:52,279
+dizendo o seguinte, ou ele continua
+
+550
+00:26:49,799 --> 00:26:56,480
+dizendo o seguinte, o espírito, como
+
+551
+00:26:52,279 --> 00:27:00,200
+quereris que estivesse em meio esse novo
+
+552
+00:26:56,480 --> 00:27:03,480
+ser que vem com paixões completamente
+
+553
+00:27:00,200 --> 00:27:05,720
+diversas das que possuis, com
+
+554
+00:27:03,480 --> 00:27:09,559
+inclinações de gostos inteiramente
+
+555
+00:27:05,720 --> 00:27:09,559
+opostos aos vossos?
+
+556
+00:27:12,720 --> 00:27:18,760
+Então eu eu eu vou pegar uma coisa
+
+557
+00:27:15,559 --> 00:27:20,320
+simples simples. Pode imaginar um
+
+558
+00:27:18,760 --> 00:27:23,960
+espírito
+
+559
+00:27:20,320 --> 00:27:26,120
+que durante séculos e séculos e séculos
+
+560
+00:27:23,960 --> 00:27:30,559
+fez uso da
+
+561
+00:27:26,120 --> 00:27:34,000
+da dinâmica de escrita, né,
+
+562
+00:27:30,559 --> 00:27:35,960
+do mundo árabe ou do mundo
+
+563
+00:27:34,000 --> 00:27:38,399
+israelita,
+
+564
+00:27:35,960 --> 00:27:41,919
+do do ambiente semita, né? Quer dizer,
+
+565
+00:27:38,399 --> 00:27:44,799
+uma escrita sem sem vogal, só consoante,
+
+566
+00:27:41,919 --> 00:27:47,000
+escrita da direita pra esquerda.
+
+567
+00:27:44,799 --> 00:27:49,080
+Aí você pega esse espírito e reencarna
+
+568
+00:27:47,000 --> 00:27:52,720
+ele. E agora ele vai fazer fazer uso de
+
+569
+00:27:49,080 --> 00:27:52,720
+uma escrita ocidental,
+
+570
+00:27:53,360 --> 00:27:57,519
+sabe? Com um alfabeto totalmente
+
+571
+00:27:55,720 --> 00:27:59,519
+diferente, com a presença de vogais, com
+
+572
+00:27:57,519 --> 00:28:01,360
+a presença de pontuação, com a presença
+
+573
+00:27:59,519 --> 00:28:04,120
+de acentuação. Como é que vai ser a
+
+574
+00:28:01,360 --> 00:28:05,600
+interação dele com essa nova língua? Vai
+
+575
+00:28:04,120 --> 00:28:08,559
+ser fácil? Vai ser assimilada
+
+576
+00:28:05,600 --> 00:28:11,039
+imediatamente? É natural que esses bit
+
+577
+00:28:08,559 --> 00:28:14,159
+tenha dificuldade. Por exemplo, na fase
+
+578
+00:28:11,039 --> 00:28:14,159
+de alfabetização,
+
+579
+00:28:16,880 --> 00:28:21,679
+a escolas têm consciência dessa
+
+580
+00:28:19,960 --> 00:28:23,720
+precedência,
+
+581
+00:28:21,679 --> 00:28:25,600
+ó, precedência,
+
+582
+00:28:23,720 --> 00:28:30,240
+uma pré-existência
+
+583
+00:28:25,600 --> 00:28:32,440
+do ser antes do do ber. Não. A escola do
+
+584
+00:28:30,240 --> 00:28:35,799
+mundo convencional, ela é puramente
+
+585
+00:28:32,440 --> 00:28:38,960
+materialista. ela não considera isso.
+
+586
+00:28:35,799 --> 00:28:42,919
+É por isso que muitas vezes os rótulos,
+
+587
+00:28:38,960 --> 00:28:45,240
+os estigmas, né, a postura inadequada da
+
+588
+00:28:42,919 --> 00:28:48,360
+instituição escolar para lidar com casos
+
+589
+00:28:45,240 --> 00:28:50,559
+como esse. Por que que esse espírito não
+
+590
+00:28:48,360 --> 00:28:52,159
+não aprende o português? Por que que ele
+
+591
+00:28:50,559 --> 00:28:54,720
+tem dificuldade para escrever em
+
+592
+00:28:52,159 --> 00:28:57,480
+português? Talvez porque o português
+
+593
+00:28:54,720 --> 00:28:59,440
+seja uma baita de uma novidade para ele.
+
+594
+00:28:57,480 --> 00:29:01,360
+Hum.
+
+595
+00:28:59,440 --> 00:29:03,880
+Eu
+
+596
+00:29:01,360 --> 00:29:06,320
+conheço uma criancinha que quando vai
+
+597
+00:29:03,880 --> 00:29:10,039
+pegar livro para olhar, começa da
+
+598
+00:29:06,320 --> 00:29:10,039
+direita paraa esquerda.
+
+599
+00:29:10,519 --> 00:29:15,399
+Trega o livro, ele começa da direita
+
+600
+00:29:12,200 --> 00:29:15,399
+paraa esquerda.
+
+601
+00:29:15,679 --> 00:29:23,240
+Aprreu isso aí só linha em hebraico,
+
+602
+00:29:19,840 --> 00:29:26,960
+só linha em aramaico, em árabe.
+
+603
+00:29:23,240 --> 00:29:29,240
+É outra história, entendeu?
+
+604
+00:29:26,960 --> 00:29:32,440
+Às vezes vai ter uma dificuldade danada.
+
+605
+00:29:29,240 --> 00:29:33,840
+Imagina um japonês, gente. É que o Japão
+
+606
+00:29:32,440 --> 00:29:35,840
+do século XX é extremamente
+
+607
+00:29:33,840 --> 00:29:38,799
+ocidentalizado. Vamos menos imaginar um
+
+608
+00:29:35,840 --> 00:29:40,399
+espírito que não reencarna 300 anos e
+
+609
+00:29:38,799 --> 00:29:44,480
+que as últimas existências foram todas
+
+610
+00:29:40,399 --> 00:29:47,000
+no Japão escrevendo ideiograma
+
+611
+00:29:44,480 --> 00:29:49,000
+e aí ele reencarna no Brasil, vai
+
+612
+00:29:47,000 --> 00:29:50,799
+aprender língua portuguesa, vai ter
+
+613
+00:29:49,000 --> 00:29:53,840
+dificuldade. vai ter dificuldade com
+
+614
+00:29:50,799 --> 00:29:57,000
+alguns ponemas que não insistiam no
+
+615
+00:29:53,840 --> 00:29:58,840
+idioma original, porque língua, por
+
+616
+00:29:57,000 --> 00:30:01,120
+exemplo, é alguma coisa que se aprende
+
+617
+00:29:58,840 --> 00:30:03,320
+no convívio cultural. Se o espírito não
+
+618
+00:30:01,120 --> 00:30:06,320
+tem experiência naquela língua, o
+
+619
+00:30:03,320 --> 00:30:08,640
+primeiro contato dele com essa língua
+
+620
+00:30:06,320 --> 00:30:11,960
+vai ser difícil.
+
+621
+00:30:08,640 --> 00:30:15,440
+Tô citando o caso do idioma apenas como
+
+622
+00:30:11,960 --> 00:30:18,000
+um exemplo, somente como exemplo, porque
+
+623
+00:30:15,440 --> 00:30:21,480
+no fundo o que eu quero analisar aqui é
+
+624
+00:30:18,000 --> 00:30:25,720
+o entrechoque moral.
+
+625
+00:30:21,480 --> 00:30:27,760
+tem choque moral, certo? E para fazer
+
+626
+00:30:25,720 --> 00:30:29,519
+isso, a gente vai avançar então para um
+
+627
+00:30:27,760 --> 00:30:35,039
+texto
+
+628
+00:30:29,519 --> 00:30:39,279
+da Mei, uma autora especializada
+
+629
+00:30:35,039 --> 00:30:42,559
+em educação da criança, do espírito na
+
+630
+00:30:39,279 --> 00:30:45,559
+fase infantil, uma técnica do assunto,
+
+631
+00:30:42,559 --> 00:30:48,919
+uma exper do assunto.
+
+632
+00:30:45,559 --> 00:30:51,279
+Neinei Irma de Castro
+
+633
+00:30:48,919 --> 00:30:55,360
+também. para aqueles que preferirem
+
+634
+00:30:51,279 --> 00:30:58,880
+Landina, né? do capítulo 3 do livro
+
+635
+00:30:55,360 --> 00:31:01,679
+Comandos do Amor.
+
+636
+00:30:58,880 --> 00:31:07,120
+E lá nesse texto, Memei, ela começa
+
+637
+00:31:01,679 --> 00:31:10,559
+dizendo assim: "Não relegues à sombra a
+
+638
+00:31:07,120 --> 00:31:14,880
+criança que te pede aconchego
+
+639
+00:31:10,559 --> 00:31:14,880
+ao templo do coração.
+
+640
+00:31:15,320 --> 00:31:22,559
+Não relegues a sombra
+
+641
+00:31:18,559 --> 00:31:26,480
+à criança que te pede aconchego."
+
+642
+00:31:22,559 --> 00:31:30,519
+Qual o contrário de sombra? Luz.
+
+643
+00:31:26,480 --> 00:31:32,440
+Qual o contrário de aconchego?
+
+644
+00:31:30,519 --> 00:31:35,240
+Exclusão.
+
+645
+00:31:32,440 --> 00:31:39,399
+Se a gente fizer uma análise semântica
+
+646
+00:31:35,240 --> 00:31:43,840
+aqui e conectar os opostos, a gente vai
+
+647
+00:31:39,399 --> 00:31:46,840
+ter dois pares antinômicos, duas
+
+648
+00:31:43,840 --> 00:31:46,840
+antinomias.
+
+649
+00:31:46,919 --> 00:31:51,080
+Luz
+
+650
+00:31:48,679 --> 00:31:56,039
+equiparado com aconchego,
+
+651
+00:31:51,080 --> 00:31:56,039
+escuridão equiparado com exclusão.
+
+652
+00:31:57,120 --> 00:32:00,760
+Luz é acolhimento.
+
+653
+00:32:00,960 --> 00:32:06,440
+Sombra, escuridão,
+
+654
+00:32:02,960 --> 00:32:08,639
+é repudiar
+
+655
+00:32:06,440 --> 00:32:11,840
+aquilo que os discípulos talvez estavam
+
+656
+00:32:08,639 --> 00:32:16,000
+tentando fazer com as crianças.
+
+657
+00:32:11,840 --> 00:32:17,760
+Então, na educação, em educação, e aqui
+
+658
+00:32:16,000 --> 00:32:19,240
+a gente não vai distinguir educação
+
+659
+00:32:17,760 --> 00:32:22,919
+familiar de educação escolar, de
+
+660
+00:32:19,240 --> 00:32:25,480
+educação na via pública, educação no
+
+661
+00:32:22,919 --> 00:32:28,120
+ambiente religioso, educação.
+
+662
+00:32:25,480 --> 00:32:33,840
+em educação da criança,
+
+663
+00:32:28,120 --> 00:32:36,000
+ou é luz, ou é sombra, ou é claridade
+
+664
+00:32:33,840 --> 00:32:40,960
+ou é escuridão,
+
+665
+00:32:36,000 --> 00:32:43,159
+ou é acolhimento, aconchego, ou é
+
+666
+00:32:40,960 --> 00:32:45,039
+exclusão,
+
+667
+00:32:43,159 --> 00:32:48,519
+ó, é rechaçar,
+
+668
+00:32:45,039 --> 00:32:51,600
+é excluir, é repudiar.
+
+669
+00:32:48,519 --> 00:32:53,279
+Ou uma coisa ou outra. É um movimento ou
+
+670
+00:32:51,600 --> 00:32:56,960
+outro.
+
+671
+00:32:53,279 --> 00:33:00,440
+Se você afasta a criança, se você se
+
+672
+00:32:56,960 --> 00:33:02,679
+afasta da criança, se você se nega a
+
+673
+00:33:00,440 --> 00:33:04,960
+criança ou se você nega a presença da
+
+674
+00:33:02,679 --> 00:33:08,200
+criança na sua vida, isso é sombra, é
+
+675
+00:33:04,960 --> 00:33:10,600
+escuridão, é trevas.
+
+676
+00:33:08,200 --> 00:33:14,679
+Se você acolhe, se você oferece
+
+677
+00:33:10,600 --> 00:33:16,679
+aconchego, é luz, é claridade.
+
+678
+00:33:14,679 --> 00:33:20,000
+E aí eu vou trabalhar com vocês aqui um
+
+679
+00:33:16,679 --> 00:33:23,440
+conceito que se chama disponibilidade
+
+680
+00:33:20,000 --> 00:33:25,760
+emocional. Alguém já ouviu falar isso?
+
+681
+00:33:23,440 --> 00:33:27,840
+Disponibilidade emocional.
+
+682
+00:33:25,760 --> 00:33:32,279
+Sabe o que é isso?
+
+683
+00:33:27,840 --> 00:33:32,279
+Parar para escutar a criança.
+
+684
+00:33:32,360 --> 00:33:37,159
+Mas não é parar para escutar lavando
+
+685
+00:33:35,120 --> 00:33:40,320
+louça e o menino falando, tagarela
+
+686
+00:33:37,159 --> 00:33:42,559
+falando, falando e você Aham. Aham.
+
+687
+00:33:40,320 --> 00:33:45,440
+Aham. É aquela situação que se a criança
+
+688
+00:33:42,559 --> 00:33:48,799
+fala assim: "Pai, mãe, tio, que que eu
+
+689
+00:33:45,440 --> 00:33:50,440
+acabei de falar?" Você hã,
+
+690
+00:33:48,799 --> 00:33:53,960
+então não tava tendo disponibilidade
+
+691
+00:33:50,440 --> 00:33:56,840
+emocional. Disponibilidade emocional é
+
+692
+00:33:53,960 --> 00:33:58,399
+parar, interromper o que estiver
+
+693
+00:33:56,840 --> 00:34:01,760
+fazendo,
+
+694
+00:33:58,399 --> 00:34:03,840
+dar atenção, olhando no olho e
+
+695
+00:34:01,760 --> 00:34:06,600
+procurando entender o que o outro tá
+
+696
+00:34:03,840 --> 00:34:08,839
+sentindo e sentir o que o outro tá
+
+697
+00:34:06,600 --> 00:34:11,599
+dizendo.
+
+698
+00:34:08,839 --> 00:34:13,919
+Isso é disponibilidade emocional. Isso é
+
+699
+00:34:11,599 --> 00:34:17,520
+acchego no coração, no tempo do coração
+
+700
+00:34:13,919 --> 00:34:17,520
+que a tá dizendo.
+
+701
+00:34:18,119 --> 00:34:24,520
+Alguns grupos nativos de ameríndios
+
+702
+00:34:20,679 --> 00:34:26,960
+nativos no Brasil dos povos indígenas,
+
+703
+00:34:24,520 --> 00:34:29,079
+eles não pegam a criança e trazem no
+
+704
+00:34:26,960 --> 00:34:31,280
+peito, né? Eles não levam a criança só
+
+705
+00:34:29,079 --> 00:34:34,639
+ao que eles fazem o contrário. Eles
+
+706
+00:34:31,280 --> 00:34:38,800
+agacham para conversar com a criança,
+
+707
+00:34:34,639 --> 00:34:42,200
+né? Eles se posicionam na altura da
+
+708
+00:34:38,800 --> 00:34:45,040
+criança para olhar no olho
+
+709
+00:34:42,200 --> 00:34:49,839
+e escutar o que ela tem para dizer. E
+
+710
+00:34:45,040 --> 00:34:49,839
+isso é acolhimento, isso é aconchego.
+
+711
+00:34:51,480 --> 00:34:58,880
+Ou perceber, aí é feeling, aí é
+
+712
+00:34:55,359 --> 00:35:01,320
+sensibilidade, aí é empatia. O silêncio
+
+713
+00:34:58,880 --> 00:35:04,000
+da criança também,
+
+714
+00:35:01,320 --> 00:35:05,880
+quando ela não quer dizer, mas diz de
+
+715
+00:35:04,000 --> 00:35:08,359
+outras formas.
+
+716
+00:35:05,880 --> 00:35:12,720
+desroendo unha, mordendo o lápis,
+
+717
+00:35:08,359 --> 00:35:14,800
+mordendo pano da roupa, diz fazendo xixi
+
+718
+00:35:12,720 --> 00:35:19,280
+na cama,
+
+719
+00:35:14,800 --> 00:35:21,400
+diz não querendo ir pra escola ou diz
+
+720
+00:35:19,280 --> 00:35:23,760
+não querendo sair da escola e voltar
+
+721
+00:35:21,400 --> 00:35:27,920
+para casa.
+
+722
+00:35:23,760 --> 00:35:34,359
+Cores estão sendo ditas de forma não
+
+723
+00:35:27,920 --> 00:35:35,960
+verbal, que só o adulto acolhedor
+
+724
+00:35:34,359 --> 00:35:38,079
+percebe,
+
+725
+00:35:35,960 --> 00:35:42,040
+sente
+
+726
+00:35:38,079 --> 00:35:42,040
+atenta para isso.
+
+727
+00:35:42,160 --> 00:35:47,480
+Tão entendendo?
+
+728
+00:35:44,599 --> 00:35:49,480
+E aí a Meimei poeticamente vai completar
+
+729
+00:35:47,480 --> 00:35:53,079
+dizendo assim:
+
+730
+00:35:49,480 --> 00:35:57,680
+"Avemume no ninho de teus braços.
+
+731
+00:35:53,079 --> 00:36:02,640
+desperirá seu voo para os seus os céus
+
+732
+00:35:57,680 --> 00:36:05,280
+do futuro, transportando consigo a tua
+
+733
+00:36:02,640 --> 00:36:07,920
+mensagem.
+
+734
+00:36:05,280 --> 00:36:11,359
+Quando eu olho para essa criança, eu não
+
+735
+00:36:07,920 --> 00:36:13,240
+sei que tipo de ave ela é, a natureza,
+
+736
+00:36:11,359 --> 00:36:15,920
+as características, as peculiaridades,
+
+737
+00:36:13,240 --> 00:36:18,839
+as especificidades dessa ave na sua
+
+738
+00:36:15,920 --> 00:36:20,920
+plenitude, porque ela ainda é ave em
+
+739
+00:36:18,839 --> 00:36:23,560
+plume.
+
+740
+00:36:20,920 --> 00:36:25,200
+Quem olha um passarinho sem pena ainda,
+
+741
+00:36:23,560 --> 00:36:28,440
+o filhotinho de passarinho, muitas vezes
+
+742
+00:36:25,200 --> 00:36:31,119
+não consegue identificar que passarinho
+
+743
+00:36:28,440 --> 00:36:33,720
+é. Concorda?
+
+744
+00:36:31,119 --> 00:36:35,240
+Só um ornitólogo bate o olho num
+
+745
+00:36:33,720 --> 00:36:37,520
+filhotinho, fala assim: "Esse é filhote
+
+746
+00:36:35,240 --> 00:36:41,000
+de tal ave."
+
+747
+00:36:37,520 --> 00:36:43,599
+O leigo não sabe identificar.
+
+748
+00:36:41,000 --> 00:36:45,240
+Ele precisa deixar o filhote ganhar
+
+749
+00:36:43,599 --> 00:36:47,560
+corpo para ele conhecer sua suas
+
+750
+00:36:45,240 --> 00:36:50,440
+características, suas especificidades,
+
+751
+00:36:47,560 --> 00:36:53,200
+sua natureza própria. Ah, é um filhote
+
+752
+00:36:50,440 --> 00:36:54,760
+BV. Ah, é um é um pardal. Ah, é um é um
+
+753
+00:36:53,200 --> 00:36:58,240
+canário,
+
+754
+00:36:54,760 --> 00:37:00,720
+certo? Enquanto ela estiver em plume,
+
+755
+00:36:58,240 --> 00:37:03,240
+seja na fase da infância, você não
+
+756
+00:37:00,720 --> 00:37:05,839
+consegue identificar facilmente as
+
+757
+00:37:03,240 --> 00:37:09,599
+características, mas você consegue
+
+758
+00:37:05,839 --> 00:37:09,599
+identificar a vocação.
+
+759
+00:37:10,520 --> 00:37:14,599
+Toda a ave,
+
+760
+00:37:12,720 --> 00:37:17,000
+vamos deixar de fora o avestrus, a
+
+761
+00:37:14,599 --> 00:37:18,800
+galinha, ama, tá? Só para não estragar o
+
+762
+00:37:17,000 --> 00:37:23,560
+meu exemplo.
+
+763
+00:37:18,800 --> 00:37:25,359
+Mas toda avevo vocação, o voo.
+
+764
+00:37:23,560 --> 00:37:28,000
+Eu
+
+765
+00:37:25,359 --> 00:37:29,560
+não sei que bicho é esse. Só sei de uma
+
+766
+00:37:28,000 --> 00:37:32,520
+coisa.
+
+767
+00:37:29,560 --> 00:37:37,119
+Ele foi criado para voar. Ele tem asa,
+
+768
+00:37:32,520 --> 00:37:40,560
+ele tem pena. Potencialmente ele voa.
+
+769
+00:37:37,119 --> 00:37:43,640
+Esse é o destino dele.
+
+770
+00:37:40,560 --> 00:37:47,520
+Essa é a sua vocação. Vocação vem de
+
+771
+00:37:43,640 --> 00:37:51,079
+vocal, de chamada.
+
+772
+00:37:47,520 --> 00:37:56,200
+a sua natureza, a sua essência íntima,
+
+773
+00:37:51,079 --> 00:38:03,440
+sempre o convocará, ó, convocará, vocal,
+
+774
+00:37:56,200 --> 00:38:06,520
+sempre o chamará para o céu, para o voo.
+
+775
+00:38:03,440 --> 00:38:08,480
+Existe uma natureza íntima.
+
+776
+00:38:06,520 --> 00:38:12,000
+Eu
+
+777
+00:38:08,480 --> 00:38:12,000
+considero isso
+
+778
+00:38:12,560 --> 00:38:17,160
+certo.
+
+779
+00:38:14,640 --> 00:38:20,119
+No caso da infância, no que seria essa
+
+780
+00:38:17,160 --> 00:38:22,960
+natureza íntima? É isso que precisa ser
+
+781
+00:38:20,119 --> 00:38:26,839
+identificado.
+
+782
+00:38:22,960 --> 00:38:26,839
+Qual é a sua vocação?
+
+783
+00:38:27,160 --> 00:38:33,720
+Que tipo de voo?
+
+784
+00:38:30,240 --> 00:38:33,720
+Como ele voará?
+
+785
+00:38:34,440 --> 00:38:39,520
+Mas eu sei, ele nasceu para voar.
+
+786
+00:38:38,000 --> 00:38:42,359
+Certo?
+
+787
+00:38:39,520 --> 00:38:46,200
+E aí ela dá o outro exemplo.
+
+788
+00:38:42,359 --> 00:38:47,920
+Cera frágil e delicada ao toque de tuas
+
+789
+00:38:46,200 --> 00:38:51,079
+mãos
+
+790
+00:38:47,920 --> 00:38:57,319
+revelará no porvir as ideias que hoje
+
+791
+00:38:51,079 --> 00:39:00,240
+plasmas em sua contextura de flor.
+
+792
+00:38:57,319 --> 00:39:04,079
+Eu não sei
+
+793
+00:39:00,240 --> 00:39:06,839
+que tipo de flor é ainda, porque a flor
+
+794
+00:39:04,079 --> 00:39:08,000
+quando tá no botão, quando ela ainda é
+
+795
+00:39:06,839 --> 00:39:10,359
+botão, quando ela ainda não
+
+796
+00:39:08,000 --> 00:39:13,319
+desabrofitou, ela não revela a sua
+
+797
+00:39:10,359 --> 00:39:16,480
+intimidade, ela não se expande e se
+
+798
+00:39:13,319 --> 00:39:19,480
+mostra por inteira.
+
+799
+00:39:16,480 --> 00:39:23,480
+Mas eu sei de uma coisa,
+
+800
+00:39:19,480 --> 00:39:24,960
+é flor e nasceu para florescer.
+
+801
+00:39:23,480 --> 00:39:28,599
+Depois quando desabrochar eu vou saber
+
+802
+00:39:24,960 --> 00:39:30,760
+dizer aí isso ou aquilo, vou saber suas
+
+803
+00:39:28,599 --> 00:39:33,680
+características, sua essência. Mas
+
+804
+00:39:30,760 --> 00:39:37,920
+existe uma vocação, a vocação de
+
+805
+00:39:33,680 --> 00:39:37,920
+florescer, de desabrochar.
+
+806
+00:39:38,200 --> 00:39:45,119
+Quando você guarda essa certeza
+
+807
+00:39:42,079 --> 00:39:48,800
+de que existe uma vocação, qual é a
+
+808
+00:39:45,119 --> 00:39:51,440
+vocação? é a virtude.
+
+809
+00:39:48,800 --> 00:39:54,200
+A sua relação com a infância muda
+
+810
+00:39:51,440 --> 00:39:57,760
+completamente.
+
+811
+00:39:54,200 --> 00:39:59,960
+Criança tem um chamado interior. Qual é
+
+812
+00:39:57,760 --> 00:40:01,599
+uma virtude
+
+813
+00:39:59,960 --> 00:40:05,720
+interior?
+
+814
+00:40:01,599 --> 00:40:09,480
+Existe uma virtude que vai bater asas.
+
+815
+00:40:05,720 --> 00:40:14,720
+Existe uma virtude que vai vos aflorar,
+
+816
+00:40:09,480 --> 00:40:17,680
+que vai florescer, que vai vos abrochar.
+
+817
+00:40:14,720 --> 00:40:19,800
+Existe uma virtude que vai em algum
+
+818
+00:40:17,680 --> 00:40:23,160
+momento
+
+819
+00:40:19,800 --> 00:40:25,560
+despontar, sair para fora.
+
+820
+00:40:23,160 --> 00:40:29,079
+Educar,
+
+821
+00:40:25,560 --> 00:40:32,119
+te eduere, do latinho eduquere é botar
+
+822
+00:40:29,079 --> 00:40:33,640
+para fora. Educar só isso. É uma existe
+
+823
+00:40:32,119 --> 00:40:36,359
+ali uma virtude. Eu tenho que ter essa
+
+824
+00:40:33,640 --> 00:40:39,240
+convicção. Ah, mas ele é o cão chupando
+
+825
+00:40:36,359 --> 00:40:41,119
+manga. Ah, porque ele é terrível. Ele
+
+826
+00:40:39,240 --> 00:40:43,319
+responde a mãe dele, ele maltrata a
+
+827
+00:40:41,119 --> 00:40:45,040
+professora, ele maltrata os
+
+828
+00:40:43,319 --> 00:40:47,400
+animaizinhos, ele briga com os
+
+829
+00:40:45,040 --> 00:40:51,720
+coleguinhas, ele não para quieto no
+
+830
+00:40:47,400 --> 00:40:54,839
+centro. Existe ali uma virtude, eu
+
+831
+00:40:51,720 --> 00:40:57,480
+preciso ter essa convicção. Existe ali
+
+832
+00:40:54,839 --> 00:40:59,119
+uma virtude que uma hora vai ser flor.
+
+833
+00:40:57,480 --> 00:41:03,079
+Existe ali uma virtude que uma hora vai
+
+834
+00:40:59,119 --> 00:41:05,000
+ser pássaro voando.
+
+835
+00:41:03,079 --> 00:41:07,880
+Não há como questionar isso. Quem tá
+
+836
+00:41:05,000 --> 00:41:09,359
+dizendo isso é meiute com ela o dia que
+
+837
+00:41:07,880 --> 00:41:11,800
+você encontrar com ela nas outras
+
+838
+00:41:09,359 --> 00:41:14,040
+esferas. Aqui eu vou vou fechar com a
+
+839
+00:41:11,800 --> 00:41:16,440
+MEI. MEI não há.
+
+840
+00:41:14,040 --> 00:41:20,160
+É, é o princípio da nossa análise nas
+
+841
+00:41:16,440 --> 00:41:23,200
+semanas que seguirão. Toda criança
+
+842
+00:41:20,160 --> 00:41:26,200
+tem uma virtude interior que vai se
+
+843
+00:41:23,200 --> 00:41:28,960
+extrapolar
+
+844
+00:41:26,200 --> 00:41:32,680
+em algum momento.
+
+845
+00:41:28,960 --> 00:41:34,599
+O que que é ser educando?
+
+846
+00:41:32,680 --> 00:41:37,560
+Não tô preocupada aqui em estudar o que
+
+847
+00:41:34,599 --> 00:41:41,880
+é ser criança. Estou aqui preocupado em
+
+848
+00:41:37,560 --> 00:41:44,839
+saber o que é ser educ educador. Aliás,
+
+849
+00:41:41,880 --> 00:41:47,599
+o que é ser um educador de criança.
+
+850
+00:41:44,839 --> 00:41:50,960
+É identificar
+
+851
+00:41:47,599 --> 00:41:53,160
+que virtude é essa.
+
+852
+00:41:50,960 --> 00:41:57,599
+a medida
+
+853
+00:41:53,160 --> 00:42:00,800
+que o pássaro vai adquirindo penas
+
+854
+00:41:57,599 --> 00:42:03,240
+à medida que a flor vai abrindo seu
+
+855
+00:42:00,800 --> 00:42:06,280
+botão e eu já vou identificando aos
+
+856
+00:42:03,240 --> 00:42:08,680
+pouquinhos, ah, é isso, é aquilo,
+
+857
+00:42:06,280 --> 00:42:13,000
+certo?
+
+858
+00:42:08,680 --> 00:42:17,280
+Acrescenta meio, ensina-lhes a conquista
+
+859
+00:42:13,000 --> 00:42:18,800
+do bem para que o mal não se desenvolva
+
+860
+00:42:17,280 --> 00:42:21,520
+sufocando-te
+
+861
+00:42:18,800 --> 00:42:27,040
+às horas. Então, até arrependi aqui de
+
+862
+00:42:21,520 --> 00:42:30,240
+não ter sublinhado o bem e o mal aqui.
+
+863
+00:42:27,040 --> 00:42:32,839
+Então, nosso propósito como pai, como
+
+864
+00:42:30,240 --> 00:42:35,680
+mãe, como professor, como evangelizador
+
+865
+00:42:32,839 --> 00:42:38,680
+junto à criança é primeiro identificar a
+
+866
+00:42:35,680 --> 00:42:42,280
+virtude. Identifiquei a virtude, achei o
+
+867
+00:42:38,680 --> 00:42:46,400
+bem ali.
+
+868
+00:42:42,280 --> 00:42:48,319
+Tudo o que por esta virtude
+
+869
+00:42:46,400 --> 00:42:50,200
+desmedida,
+
+870
+00:42:48,319 --> 00:42:54,240
+desorientada
+
+871
+00:42:50,200 --> 00:42:58,520
+ou desarranjada,
+
+872
+00:42:54,240 --> 00:42:58,520
+é o que a gente chama de mal.
+
+873
+00:43:00,079 --> 00:43:06,599
+Vou repetir
+
+874
+00:43:02,240 --> 00:43:09,960
+que a virtude que o identificar é o bem.
+
+875
+00:43:06,599 --> 00:43:13,480
+Essa este vai prevalecer.
+
+876
+00:43:09,960 --> 00:43:13,480
+Esse vai prevalecer.
+
+877
+00:43:13,720 --> 00:43:22,400
+Enquanto esse essa virtude não desponta,
+
+878
+00:43:18,640 --> 00:43:25,839
+ela se mostra de uma maneira
+
+879
+00:43:22,400 --> 00:43:29,800
+coisa arranjada, de uma maneira
+
+880
+00:43:25,839 --> 00:43:32,800
+bagunçada, de uma maneira desorganizada,
+
+881
+00:43:29,800 --> 00:43:37,119
+descontrolada.
+
+882
+00:43:32,800 --> 00:43:39,280
+Isso é o que a gente chama de mal
+
+883
+00:43:37,119 --> 00:43:42,480
+ou mau comportamento. O mau
+
+884
+00:43:39,280 --> 00:43:45,200
+comportamento de uma criança nada mais é
+
+885
+00:43:42,480 --> 00:43:47,319
+do que a sua virtude interior, a sua
+
+886
+00:43:45,200 --> 00:43:49,920
+virtude escondida,
+
+887
+00:43:47,319 --> 00:43:54,760
+que ainda não se expressou, que ainda
+
+888
+00:43:49,920 --> 00:43:54,760
+não despontou da maneira certa.
+
+889
+00:43:55,200 --> 00:44:02,680
+Entenderam? Espera aí, Luí. Quer dizer
+
+890
+00:43:57,920 --> 00:44:05,640
+que se ol menino maltratando o bicho, é
+
+891
+00:44:02,680 --> 00:44:10,079
+a virtude interior dele que ainda não se
+
+892
+00:44:05,640 --> 00:44:13,079
+expressou da maneira correta. Sim,
+
+893
+00:44:10,079 --> 00:44:13,079
+exatamente.
+
+894
+00:44:14,200 --> 00:44:21,200
+Existe uma energia,
+
+895
+00:44:16,839 --> 00:44:23,800
+uma potência ali que não sabe ainda se
+
+896
+00:44:21,200 --> 00:44:26,800
+expressar e se expressa na forma de
+
+897
+00:44:23,800 --> 00:44:26,800
+agressividade.
+
+898
+00:44:29,960 --> 00:44:37,359
+Eu não vou silenciar o mal.
+
+899
+00:44:34,520 --> 00:44:41,599
+Eu vou porque você não silencio o mal.
+
+900
+00:44:37,359 --> 00:44:43,800
+você transforma o mal, você converte o
+
+901
+00:44:41,599 --> 00:44:46,599
+mal.
+
+902
+00:44:43,800 --> 00:44:48,520
+Vocês estão perceberam porque muitos
+
+903
+00:44:46,599 --> 00:44:52,119
+autores espirituais dizem que Jesus
+
+904
+00:44:48,520 --> 00:44:54,160
+olhava para para nós e especificamente
+
+905
+00:44:52,119 --> 00:44:55,880
+para os discípulos como quem olha para
+
+906
+00:44:54,160 --> 00:44:59,599
+uma criança.
+
+907
+00:44:55,880 --> 00:45:01,599
+Quando Jesus olhou para Saulo torturando
+
+908
+00:44:59,599 --> 00:45:04,599
+o cristão em Jerusalém, apedrejando
+
+909
+00:45:01,599 --> 00:45:08,040
+Estevão, o que que ele enxergou naquelas
+
+910
+00:45:04,599 --> 00:45:10,640
+manifestações de violência?
+
+911
+00:45:08,040 --> 00:45:13,599
+uma virtude
+
+912
+00:45:10,640 --> 00:45:17,440
+que não estava se expressando da maneira
+
+913
+00:45:13,599 --> 00:45:18,920
+como ela nasceu para ser,
+
+914
+00:45:17,440 --> 00:45:21,920
+que estava se expressando de outra
+
+915
+00:45:18,920 --> 00:45:21,920
+maneira.
+
+916
+00:45:22,079 --> 00:45:28,359
+Tanto que Estevão percebe isso e diz
+
+917
+00:45:25,920 --> 00:45:30,800
+para Abigail,
+
+918
+00:45:28,359 --> 00:45:34,800
+quando Saulo
+
+919
+00:45:30,800 --> 00:45:37,440
+servir a Jesus com a mesma energia com
+
+920
+00:45:34,800 --> 00:45:40,400
+que serve Moisés,
+
+921
+00:45:37,440 --> 00:45:43,640
+ele será muito grande. Ele será o maior
+
+922
+00:45:40,400 --> 00:45:43,640
+de todos.
+
+923
+00:45:44,400 --> 00:45:50,480
+Era a mesma energia. Ela não foi
+
+924
+00:45:47,839 --> 00:45:55,359
+extinta, ela não foi abafada, ela não
+
+925
+00:45:50,480 --> 00:45:57,480
+foi esfocada, ela foi trabalhada,
+
+926
+00:45:55,359 --> 00:46:00,240
+ressignificada,
+
+927
+00:45:57,480 --> 00:46:02,960
+redirecionada, reestruturada,
+
+928
+00:46:00,240 --> 00:46:05,760
+rearranjada.
+
+929
+00:46:02,960 --> 00:46:08,559
+Era a mesma coisa.
+
+930
+00:46:05,760 --> 00:46:12,760
+Tão vendo? Percebem? Olha que que
+
+931
+00:46:08,559 --> 00:46:15,440
+acrescenta Mei. O divertimento do berço
+
+932
+00:46:12,760 --> 00:46:19,319
+é o prelúdio da atividade na praça
+
+933
+00:46:15,440 --> 00:46:21,599
+pública. O brinquedo no lar inspira o
+
+934
+00:46:19,319 --> 00:46:26,119
+trabalho no mundo.
+
+935
+00:46:21,599 --> 00:46:29,800
+Aluí, como é que o educador vai perceber
+
+936
+00:46:26,119 --> 00:46:31,920
+de antemão quanto mais cedo ele perceber
+
+937
+00:46:29,800 --> 00:46:34,839
+essa virtude, ele entender essa virtude,
+
+938
+00:46:31,920 --> 00:46:36,839
+ele identificar essa virtude, melhor
+
+939
+00:46:34,839 --> 00:46:39,880
+para o educando.
+
+940
+00:46:36,839 --> 00:46:43,800
+Quanto mais cedo o educador conseguir
+
+941
+00:46:39,880 --> 00:46:46,520
+sacar qual é a virtude a ser trabalhada,
+
+942
+00:46:43,800 --> 00:46:49,240
+melhor para esse educando.
+
+943
+00:46:46,520 --> 00:46:50,960
+E como é que ele vai perceber?
+
+944
+00:46:49,240 --> 00:46:53,680
+Observando,
+
+945
+00:46:50,960 --> 00:46:56,000
+reparando,
+
+946
+00:46:53,680 --> 00:46:58,160
+dando atenção.
+
+947
+00:46:56,000 --> 00:47:01,960
+Em que circunstâncias?
+
+948
+00:46:58,160 --> 00:47:05,319
+Sobretudo na brincadeira.
+
+949
+00:47:01,960 --> 00:47:07,200
+Criança tem que brincar.
+
+950
+00:47:05,319 --> 00:47:08,760
+Se a criança não brincar, você não
+
+951
+00:47:07,200 --> 00:47:11,760
+consegue identificar sua virtude
+
+952
+00:47:08,760 --> 00:47:11,760
+adormecida.
+
+953
+00:47:12,640 --> 00:47:18,880
+Não identifica. E o tempo inteiro o que
+
+954
+00:47:15,359 --> 00:47:22,480
+a gente quer que elas não brinquem.
+
+955
+00:47:18,880 --> 00:47:24,960
+A gente chega a dizer uma frase absurda
+
+956
+00:47:22,480 --> 00:47:27,880
+dentro dessa perspectiva educacional. A
+
+957
+00:47:24,960 --> 00:47:31,480
+gente diz assim pra criança: "Tem hora
+
+958
+00:47:27,880 --> 00:47:34,000
+de brincar e tem hora de estudar. Tem
+
+959
+00:47:31,480 --> 00:47:35,480
+hora de brincar e tem hora de comer. Tem
+
+960
+00:47:34,000 --> 00:47:37,760
+hora de brincar e tem hora de tomar
+
+961
+00:47:35,480 --> 00:47:41,800
+banho. Não é isso que a gente diz?
+
+962
+00:47:37,760 --> 00:47:44,280
+Não tá errado. Criança tem que brincar o
+
+963
+00:47:41,800 --> 00:47:46,559
+tempo todo.
+
+964
+00:47:44,280 --> 00:47:48,440
+Tem que comer brincando, tomar banho
+
+965
+00:47:46,559 --> 00:47:52,920
+brincando,
+
+966
+00:47:48,440 --> 00:47:55,319
+assistir reunião do centro brincando,
+
+967
+00:47:52,920 --> 00:47:57,960
+porque é na brincadeira que ela se
+
+968
+00:47:55,319 --> 00:48:00,720
+expõe, é na brincadeira que ela
+
+969
+00:47:57,960 --> 00:48:05,040
+exterioriza, que ela dá pistas, que ela
+
+970
+00:48:00,720 --> 00:48:07,400
+dá dicas de quem ela é,
+
+971
+00:48:05,040 --> 00:48:12,000
+da sua virtude
+
+972
+00:48:07,400 --> 00:48:14,880
+oculta, adormecida, escondida. Você só
+
+973
+00:48:12,000 --> 00:48:16,880
+fica observando,
+
+974
+00:48:14,880 --> 00:48:19,880
+ah, mas brincar com a comida é pegar o
+
+975
+00:48:16,880 --> 00:48:21,559
+arroz e jogar no outro.
+
+976
+00:48:19,880 --> 00:48:24,800
+Ela expressou alguma coisa ali, não
+
+977
+00:48:21,559 --> 00:48:27,680
+expressou? Aí você observa:
+
+978
+00:48:24,800 --> 00:48:29,960
+"Ah, você tá jogando comida nos outros,
+
+979
+00:48:27,680 --> 00:48:33,640
+tá? Vamos conversar sobre isso." Aí você
+
+980
+00:48:29,960 --> 00:48:35,599
+conversa sobre isso, dialoga sobre isso
+
+981
+00:48:33,640 --> 00:48:40,480
+e vai identificando assim: "Por que você
+
+982
+00:48:35,599 --> 00:48:42,079
+fez isso? Que que você quer com isso?
+
+983
+00:48:40,480 --> 00:48:44,000
+Será que ela não fez isso porque os
+
+984
+00:48:42,079 --> 00:48:46,520
+adultos na mesa estavam conversando
+
+985
+00:48:44,000 --> 00:48:49,520
+entre si e ignorando a presença dela
+
+986
+00:48:46,520 --> 00:48:49,520
+completamente?
+
+987
+00:48:50,079 --> 00:48:53,680
+Por que que ela não podia participar?
+
+988
+00:48:51,960 --> 00:48:55,640
+Você não tá dizendo que todos os adultos
+
+989
+00:48:53,680 --> 00:48:58,520
+vai dar atenção integral pra criança,
+
+990
+00:48:55,640 --> 00:49:01,200
+porque isso também é letal, é nocivo pra
+
+991
+00:48:58,520 --> 00:49:04,359
+criança. Que ela tenha 100% da atenção o
+
+992
+00:49:01,200 --> 00:49:06,280
+tempo inteiro é horrível, mas ela tem
+
+993
+00:49:04,359 --> 00:49:09,119
+que receber atenção tanto quanto
+
+994
+00:49:06,280 --> 00:49:10,720
+qualquer outro adulto que tá na mesa.
+
+995
+00:49:09,119 --> 00:49:11,760
+Tomar banho, brincando. Por que que o
+
+996
+00:49:10,720 --> 00:49:13,400
+tomar banho não pode ser uma
+
+997
+00:49:11,760 --> 00:49:16,720
+brincadeira? Por que que tem que ser um
+
+998
+00:49:13,400 --> 00:49:18,960
+ato formal, sério, primeiro metódico,
+
+999
+00:49:16,720 --> 00:49:20,920
+primeiro sabora, depois o cabelo. Não,
+
+1000
+00:49:18,960 --> 00:49:23,240
+primeiro o cabelo, porque aí senão a
+
+1001
+00:49:20,920 --> 00:49:25,720
+sujeira do cabelo fica no corpo. Por que
+
+1002
+00:49:23,240 --> 00:49:29,440
+que tem que ter? Por que que você não
+
+1003
+00:49:25,720 --> 00:49:30,480
+pode, né, brincar durante o banho? Por
+
+1004
+00:49:29,440 --> 00:49:32,520
+que que o banho não pode ser uma
+
+1005
+00:49:30,480 --> 00:49:36,079
+brincadeira? Por que que a hora de comer
+
+1006
+00:49:32,520 --> 00:49:36,079
+não pode ser uma brincadeira?
+
+1007
+00:49:37,960 --> 00:49:44,440
+Sabe o famoso aviãozinho? É brincadeira.
+
+1008
+00:49:41,640 --> 00:49:46,400
+famoso aviãozinho.
+
+1009
+00:49:44,440 --> 00:49:48,760
+Mas tem um parque, põe a chinela na
+
+1010
+00:49:46,400 --> 00:49:51,440
+mesa, vai, já é uma nojeira põ a chinela
+
+1011
+00:49:48,760 --> 00:49:53,000
+na mesa, né? Põe a chinela na mesa, vai
+
+1012
+00:49:51,440 --> 00:49:54,400
+comer porque tem hora de brincar e tem
+
+1013
+00:49:53,000 --> 00:49:56,720
+hora de comer. E agora é hora de comer e
+
+1014
+00:49:54,400 --> 00:49:59,319
+agora não é hora de brincar. Isso vale
+
+1015
+00:49:56,720 --> 00:50:00,799
+pra reunião espírita, né?
+
+1016
+00:49:59,319 --> 00:50:02,960
+Agora não é hora de brincar. Agora é
+
+1017
+00:50:00,799 --> 00:50:06,880
+hora de prestar atenção. Por que que ela
+
+1018
+00:50:02,960 --> 00:50:06,880
+não pode prestar atenção brincando?
+
+1019
+00:50:07,440 --> 00:50:12,359
+Olha que que o mei quem tá dizendo esse
+
+1020
+00:50:09,200 --> 00:50:14,680
+ami? falar, o divertimento é um prelúdio
+
+1021
+00:50:12,359 --> 00:50:17,440
+da atividade da praça pública. Aí você
+
+1022
+00:50:14,680 --> 00:50:20,280
+fica olhando como ela brinca, o que que
+
+1023
+00:50:17,440 --> 00:50:23,160
+do que ela prefere brincar, quais são os
+
+1024
+00:50:20,280 --> 00:50:25,440
+brinquedos que ela prioriza, como ela se
+
+1025
+00:50:23,160 --> 00:50:27,799
+relaciona com os brinquedos, quando ela
+
+1026
+00:50:25,440 --> 00:50:29,920
+brinca com os as outras crianças, como
+
+1027
+00:50:27,799 --> 00:50:31,839
+ela se relaciona com as outras crianças,
+
+1028
+00:50:29,920 --> 00:50:34,480
+quem ela prefere ser, se é o vilão, se é
+
+1029
+00:50:31,839 --> 00:50:37,319
+o herói, se ela prefere ser o líder ou
+
+1030
+00:50:34,480 --> 00:50:39,319
+não, se ela prefere brincar com outros
+
+1031
+00:50:37,319 --> 00:50:43,280
+ou prefere brincar sozinha. Tudo isso
+
+1032
+00:50:39,319 --> 00:50:44,960
+vai evidenciar a sua virtude oculta.
+
+1033
+00:50:43,280 --> 00:50:47,799
+Olha o que que a Mem tá dizendo. O
+
+1034
+00:50:44,960 --> 00:50:50,000
+brinquedo no lar inspira o trabalho no
+
+1035
+00:50:47,799 --> 00:50:55,079
+mundo.
+
+1036
+00:50:50,000 --> 00:50:57,160
+O Chico adora brincar com bicho.
+
+1037
+00:50:55,079 --> 00:51:00,640
+Chico, meu filho,
+
+1038
+00:50:57,160 --> 00:51:03,720
+ele tem uma coleção de bichos de pelúcia
+
+1039
+00:51:00,640 --> 00:51:05,359
+que eu eu já tentei desfazer de uma boa
+
+1040
+00:51:03,720 --> 00:51:06,880
+parte, já consegui me desfazer de uma
+
+1041
+00:51:05,359 --> 00:51:09,520
+boa parte, repassar para outras
+
+1042
+00:51:06,880 --> 00:51:11,960
+crianças, né? Mas ele tá sempre querendo
+
+1043
+00:51:09,520 --> 00:51:13,400
+um bicho novo. E agora, à medida que o
+
+1044
+00:51:11,960 --> 00:51:16,000
+interesse dele por animais vai
+
+1045
+00:51:13,400 --> 00:51:18,599
+aumentando, também eu boto o nome de
+
+1046
+00:51:16,000 --> 00:51:20,680
+Francisco do moleque, né? À medida que o
+
+1047
+00:51:18,599 --> 00:51:23,280
+interesse por bicho vai aumentando, vão
+
+1048
+00:51:20,680 --> 00:51:25,359
+ser já já tá esgotando os bichos
+
+1049
+00:51:23,280 --> 00:51:28,520
+convencionais. Então ele tá entrando nos
+
+1050
+00:51:25,359 --> 00:51:32,640
+bichos exóticos. Então ele já fez a
+
+1051
+00:51:28,520 --> 00:51:35,160
+gente arrumar uma capivara de pelúcia.
+
+1052
+00:51:32,640 --> 00:51:37,799
+Agora o último foi um canguru com
+
+1053
+00:51:35,160 --> 00:51:40,040
+filhote, Deus do céu, para arrumar um
+
+1054
+00:51:37,799 --> 00:51:42,960
+canguru com filhote, porque ele
+
+1055
+00:51:40,040 --> 00:51:44,839
+descobriu que o canguru é um março piau,
+
+1056
+00:51:42,960 --> 00:51:48,520
+pá. Ele é o março piau, então tem tem o
+
+1057
+00:51:44,839 --> 00:51:50,880
+filhote. E agora tem a hiena. Por favor,
+
+1058
+00:51:48,520 --> 00:51:53,400
+gente, ajuda pro Brasil inteiro. Quem
+
+1059
+00:51:50,880 --> 00:51:55,520
+souber de uma hiena de pelúcia, por
+
+1060
+00:51:53,400 --> 00:51:58,240
+favor, me avise.
+
+1061
+00:51:55,520 --> 00:52:00,920
+Sei perceber o interesse dele por bicho,
+
+1062
+00:51:58,240 --> 00:52:02,400
+interesse por bicho e tal.
+
+1063
+00:52:00,920 --> 00:52:06,520
+Chico, o que que você quer ser quando
+
+1064
+00:52:02,400 --> 00:52:06,520
+crescer? Zoolólogo.
+
+1065
+00:52:06,839 --> 00:52:10,960
+Precisei escutar isso algumas vezes para
+
+1066
+00:52:09,079 --> 00:52:13,960
+identificar que ele queria ser um
+
+1067
+00:52:10,960 --> 00:52:13,960
+zoologo.
+
+1068
+00:52:14,160 --> 00:52:19,200
+Assiste um documentário
+
+1069
+00:52:16,720 --> 00:52:21,559
+sobre animais, documentários sérios.
+
+1070
+00:52:19,200 --> 00:52:23,960
+Alguns deles em inglês, ele assiste
+
+1071
+00:52:21,559 --> 00:52:27,640
+documentários, sabe tudo. Outro dia ele
+
+1072
+00:52:23,960 --> 00:52:29,960
+me apresentou o porco da terra, um bicho
+
+1073
+00:52:27,640 --> 00:52:33,440
+africano que tem um nariz de porco,
+
+1074
+00:52:29,960 --> 00:52:35,480
+calda de tatu, corpo de tamando orelha
+
+1075
+00:52:33,440 --> 00:52:37,680
+de coelho. Um negócio esquisito. Existe,
+
+1076
+00:52:35,480 --> 00:52:39,799
+gente. Procura depois o porco da terra.
+
+1077
+00:52:37,680 --> 00:52:42,359
+É um bicho africano. E ele me deu uma
+
+1078
+00:52:39,799 --> 00:52:43,599
+aula sobre esse bicho. Outro dia eu tava
+
+1079
+00:52:42,359 --> 00:52:45,599
+vendo outro vídeo com ele, vi uns
+
+1080
+00:52:43,599 --> 00:52:47,880
+cachorros cor: "É hiena, filho?" Não,
+
+1081
+00:52:45,599 --> 00:52:50,720
+pai, não é hiena. É o cão selvagem de
+
+1082
+00:52:47,880 --> 00:52:50,720
+Botsuana.
+
+1083
+00:52:51,240 --> 00:52:55,520
+que quer dizer, é brincadeira, ele tá
+
+1084
+00:52:53,160 --> 00:52:58,400
+ali o dia inteiro brincando, ele vai pro
+
+1085
+00:52:55,520 --> 00:53:01,599
+jardim da casa. Que você tá fazendo,
+
+1086
+00:52:58,400 --> 00:53:03,760
+filho? Tô numa expedição, pai. Ele se
+
+1087
+00:53:01,599 --> 00:53:05,599
+equipa paraa expedição
+
+1088
+00:53:03,760 --> 00:53:09,000
+e põe os equipamentos paraa expedição
+
+1089
+00:53:05,599 --> 00:53:10,680
+para explorar e descobrir animais novos.
+
+1090
+00:53:09,000 --> 00:53:14,040
+Pronto,
+
+1091
+00:53:10,680 --> 00:53:16,960
+o trabalho no mundo ali já tá anunciado.
+
+1092
+00:53:14,040 --> 00:53:18,960
+Na brincadeira,
+
+1093
+00:53:16,960 --> 00:53:22,760
+na brincadeira ele já revelou uma uma
+
+1094
+00:53:18,960 --> 00:53:22,760
+virtude ali contida.
+
+1095
+00:53:23,640 --> 00:53:27,280
+A gente só tem que ter tá observando,
+
+1096
+00:53:25,559 --> 00:53:29,160
+mas como é que eu ia descobrir isso se
+
+1097
+00:53:27,280 --> 00:53:31,400
+eu não deixasse ele brincar do daquilo
+
+1098
+00:53:29,160 --> 00:53:33,760
+que ele quer brincar se eu determinasse
+
+1099
+00:53:31,400 --> 00:53:36,160
+as brincadeiras? Escola não pode
+
+1100
+00:53:33,760 --> 00:53:37,880
+determinar brincadeira.
+
+1101
+00:53:36,160 --> 00:53:40,720
+A escola não pode. Olha, a brincadeira
+
+1102
+00:53:37,880 --> 00:53:43,799
+de hoje é amarelinha. Não é o livre
+
+1103
+00:53:40,720 --> 00:53:48,880
+brincar. A criança deixa um bando de
+
+1104
+00:53:43,799 --> 00:53:53,119
+toco de madeira, sabe? Latinha de de de
+
+1105
+00:53:48,880 --> 00:53:56,640
+de de extrato de tomate e eh uns
+
+1106
+00:53:53,119 --> 00:53:58,960
+barbantes, deixa lá. E ele o que quer
+
+1107
+00:53:56,640 --> 00:54:01,480
+fazer com aquilo?
+
+1108
+00:53:58,960 --> 00:54:04,839
+Mas a escola vai agora, hoje a
+
+1109
+00:54:01,480 --> 00:54:07,200
+brincadeira é cabra sério.
+
+1110
+00:54:04,839 --> 00:54:08,880
+Aí não funciona.
+
+1111
+00:54:07,200 --> 00:54:12,520
+Você deixa ela brincar do que quiser e
+
+1112
+00:54:08,880 --> 00:54:14,240
+fica só observando. Hum. Aquele ali,
+
+1113
+00:54:12,520 --> 00:54:16,640
+olha lá, transformou o toquinho de
+
+1114
+00:54:14,240 --> 00:54:20,400
+madeira numa granada. Hum. Já sei o que
+
+1115
+00:54:16,640 --> 00:54:22,480
+é. Pronto. Já ali aquele lá. Um não
+
+1116
+00:54:20,400 --> 00:54:26,160
+toquinho de madeira tá virando um
+
+1117
+00:54:22,480 --> 00:54:28,000
+prédio. Ih, é construtor.
+
+1118
+00:54:26,160 --> 00:54:30,480
+Ó, aquela outra pegou um monte de
+
+1119
+00:54:28,000 --> 00:54:34,880
+toquinho de madeira e tá chamando de
+
+1120
+00:54:30,480 --> 00:54:34,880
+meus filhotes. Vai ser veterinário.
+
+1121
+00:54:36,119 --> 00:54:40,720
+Mei tá dizendo isso. É na brincadeira,
+
+1122
+00:54:38,240 --> 00:54:42,799
+no divertimento que você vai perceber o
+
+1123
+00:54:40,720 --> 00:54:44,799
+prelúdio da atividade, o trabalho dele
+
+1124
+00:54:42,799 --> 00:54:47,920
+no mundo.
+
+1125
+00:54:44,799 --> 00:54:49,760
+E da mesma maneira ali vai revelar as
+
+1126
+00:54:47,920 --> 00:54:52,599
+virtudes
+
+1127
+00:54:49,760 --> 00:54:56,319
+que por vezes vão ser expressas ainda de
+
+1128
+00:54:52,599 --> 00:54:58,240
+uma maneira desarranjada, de uma maneira
+
+1129
+00:54:56,319 --> 00:55:02,640
+equivocada.
+
+1130
+00:54:58,240 --> 00:55:04,799
+E a gente vai chamar isso de defeitos.
+
+1131
+00:55:02,640 --> 00:55:10,799
+Certo? Vamos avançar no texto também.
+
+1132
+00:55:04,799 --> 00:55:13,520
+Vem, ó, ela acrescenta: "É justo acordes
+
+1133
+00:55:10,799 --> 00:55:16,640
+a criancinha para a noção da própria
+
+1134
+00:55:13,520 --> 00:55:21,400
+dignidade, mas a lamentável lhe induzas
+
+1135
+00:55:16,640 --> 00:55:26,559
+ao crime." A noção da própria dignidade.
+
+1136
+00:55:21,400 --> 00:55:26,559
+Você percebe primeiro qual é a virtude
+
+1137
+00:55:26,760 --> 00:55:32,920
+e depois você vai ajudando ela a
+
+1138
+00:55:29,119 --> 00:55:35,480
+descobrir essa virtude,
+
+1139
+00:55:32,920 --> 00:55:39,359
+essa noção da própria dignidade. A
+
+1140
+00:55:35,480 --> 00:55:44,520
+dignidade dela é a qualidade principal,
+
+1141
+00:55:39,359 --> 00:55:47,799
+é a qualidade posta a serviço do bem.
+
+1142
+00:55:44,520 --> 00:55:49,720
+você não faz isso ou quando você sufoca
+
+1143
+00:55:47,799 --> 00:55:52,599
+a virtude,
+
+1144
+00:55:49,720 --> 00:55:55,960
+estrangula a virtude dele para que ele
+
+1145
+00:55:52,599 --> 00:55:58,359
+se ajuste ao seu entendimento de virtude
+
+1146
+00:55:55,960 --> 00:56:02,119
+ou as qualidades que você quer que ele
+
+1147
+00:55:58,359 --> 00:56:04,119
+tenha, sabe qual o nome disso? crime.
+
+1148
+00:56:02,119 --> 00:56:07,559
+Você tá induzindo a criança ao crime, ao
+
+1149
+00:56:04,119 --> 00:56:10,200
+cometer contra ela o crime.
+
+1150
+00:56:07,559 --> 00:56:15,000
+Você tá induzindo ela a ser violenta ao
+
+1151
+00:56:10,200 --> 00:56:15,000
+violentar a natureza dela.
+
+1152
+00:56:15,119 --> 00:56:20,799
+Você pratica violência contra a criança,
+
+1153
+00:56:17,720 --> 00:56:23,079
+naturalmente que ela vai ser um adulto
+
+1154
+00:56:20,799 --> 00:56:26,039
+violento no futuro,
+
+1155
+00:56:23,079 --> 00:56:29,760
+violentando outras crianças.
+
+1156
+00:56:26,039 --> 00:56:33,799
+Porque toda forma de silenciamento
+
+1157
+00:56:29,760 --> 00:56:37,280
+da virtude adormecida é crime, é uma
+
+1158
+00:56:33,799 --> 00:56:37,280
+forma de violência.
+
+1159
+00:56:37,760 --> 00:56:41,400
+É uma forma de violência.
+
+1160
+00:56:41,599 --> 00:56:47,760
+Responderemos pelas imagens com que lhes
+
+1161
+00:56:44,720 --> 00:56:50,599
+formamos os sentimentos.
+
+1162
+00:56:47,760 --> 00:56:53,599
+Quando você age de uma maneira
+
+1163
+00:56:50,599 --> 00:56:53,599
+repressora,
+
+1164
+00:56:53,680 --> 00:57:00,680
+olha, há uma diferença em oferecer
+
+1165
+00:56:58,079 --> 00:57:03,440
+disciplina,
+
+1166
+00:57:00,680 --> 00:57:06,079
+autorregulação,
+
+1167
+00:57:03,440 --> 00:57:07,920
+autometimento
+
+1168
+00:57:06,079 --> 00:57:10,960
+e
+
+1169
+00:57:07,920 --> 00:57:13,960
+reprimir espontaneidade. Reprimir
+
+1170
+00:57:10,960 --> 00:57:16,920
+espontaneidade é praticar violência. E
+
+1171
+00:57:13,960 --> 00:57:19,480
+ao fazer isso, você imprime
+
+1172
+00:57:16,920 --> 00:57:21,480
+na na memória da criança imagens
+
+1173
+00:57:19,480 --> 00:57:23,520
+traumáticas
+
+1174
+00:57:21,480 --> 00:57:27,520
+que vão formar o seu sentimento. Essas
+
+1175
+00:57:23,520 --> 00:57:27,520
+imagens que a MM tá dizendo.
+
+1176
+00:57:28,599 --> 00:57:35,760
+Como assim, Alíia? O menino quer cantar.
+
+1177
+00:57:32,520 --> 00:57:38,319
+Aí ele começa a cantar e começa a
+
+1178
+00:57:35,760 --> 00:57:40,319
+modificar a letra da música. Aí tem
+
+1179
+00:57:38,319 --> 00:57:42,920
+sempre um adulto chato que vai falar
+
+1180
+00:57:40,319 --> 00:57:45,440
+assim: "Tá cantando errado, menino. Não
+
+1181
+00:57:42,920 --> 00:57:48,760
+é assim que canta. Não é assim que canta
+
+1182
+00:57:45,440 --> 00:57:48,760
+o hino nacional.
+
+1183
+00:57:49,440 --> 00:57:54,920
+Deixa ele cantar do jeito dele. Um dia
+
+1184
+00:57:52,160 --> 00:57:59,280
+ele vai ver outros cantando da maneira
+
+1185
+00:57:54,920 --> 00:57:59,280
+certa e ele vai perceber.
+
+1186
+00:57:59,400 --> 00:58:04,359
+Mas a Luís não tem que mostrar o certo.
+
+1187
+00:58:01,920 --> 00:58:06,960
+Você tem que cantar da maneira certa
+
+1188
+00:58:04,359 --> 00:58:10,240
+perto dele.
+
+1189
+00:58:06,960 --> 00:58:12,559
+Entendeu a diferença?
+
+1190
+00:58:10,240 --> 00:58:15,839
+Ele vai começar a perceber, uai, eu tô
+
+1191
+00:58:12,559 --> 00:58:18,039
+cantando a maneira diferente.
+
+1192
+00:58:15,839 --> 00:58:21,160
+Ele canta de outra maneira e ele vai
+
+1193
+00:58:18,039 --> 00:58:22,799
+corrigindo. Deixa ele te perguntar, tio,
+
+1194
+00:58:21,160 --> 00:58:25,039
+eu tô cantando de maneira certa, eu vi
+
+1195
+00:58:22,799 --> 00:58:26,720
+que você cantou diferente. Pois é, meu
+
+1196
+00:58:25,039 --> 00:58:30,280
+filho, eu repare aí mesmo que você
+
+1197
+00:58:26,720 --> 00:58:32,599
+cantou de outra forma.
+
+1198
+00:58:30,280 --> 00:58:35,000
+É diferente. Você imprimiu uma outra
+
+1199
+00:58:32,599 --> 00:58:37,039
+lembrança do processo de aprendizado na
+
+1200
+00:58:35,000 --> 00:58:39,440
+cabeça da criança. No futuro ela vai
+
+1201
+00:58:37,039 --> 00:58:41,960
+lembrar de um adulto
+
+1202
+00:58:39,440 --> 00:58:45,200
+que ela notou que tava cantando de uma
+
+1203
+00:58:41,960 --> 00:58:47,480
+maneira diferente, que ela se mobilizou
+
+1204
+00:58:45,200 --> 00:58:49,480
+para corrigir a letra da do hino
+
+1205
+00:58:47,480 --> 00:58:53,119
+nacional
+
+1206
+00:58:49,480 --> 00:58:55,119
+e não de um adulto repressor que apontou
+
+1207
+00:58:53,119 --> 00:58:58,760
+o dedo para assim: "Você canta errado,
+
+1208
+00:58:55,119 --> 00:58:58,760
+que coisa feia".
+
+1209
+00:58:59,440 --> 00:59:04,240
+Todos esses exemplos que eu tô dando
+
+1210
+00:59:01,920 --> 00:59:06,359
+triviais, sei lá, aprender o hino
+
+1211
+00:59:04,240 --> 00:59:08,359
+nacional,
+
+1212
+00:59:06,359 --> 00:59:11,400
+a gente vai aplicar pro campo da moral e
+
+1213
+00:59:08,359 --> 00:59:16,119
+da virtude,
+
+1214
+00:59:11,400 --> 00:59:18,839
+certo? Olha, compadece, pois da criança
+
+1215
+00:59:16,119 --> 00:59:21,200
+que respira e sonha ao teu lado. Respira
+
+1216
+00:59:18,839 --> 00:59:25,680
+e sonha. Tem forma mais natural,
+
+1217
+00:59:21,200 --> 00:59:28,880
+espontânea de viver. Respirar e sonhar,
+
+1218
+00:59:25,680 --> 00:59:33,520
+auxiliando-a a pensar
+
+1219
+00:59:28,880 --> 00:59:36,599
+e servir. Pensar, tomar consciência da
+
+1220
+00:59:33,520 --> 00:59:38,760
+sua virtude intrínseca, tomar
+
+1221
+00:59:36,599 --> 00:59:41,720
+consciência da sua virtude, da sua
+
+1222
+00:59:38,760 --> 00:59:43,720
+essência espiritual
+
+1223
+00:59:41,720 --> 00:59:46,680
+e servia.
+
+1224
+00:59:43,720 --> 00:59:50,400
+Tomei consciência, agora eu ponho isso a
+
+1225
+00:59:46,680 --> 00:59:53,520
+serviço do bem geral.
+
+1226
+00:59:50,400 --> 00:59:56,680
+Isso é do car a fim de que o trabalho
+
+1227
+00:59:53,520 --> 01:00:00,680
+que o trabalho lhe enriqueça
+
+1228
+00:59:56,680 --> 01:00:04,200
+o caminho para a educação
+
+1229
+01:00:00,680 --> 01:00:06,960
+para que a educação lhe norte o caráter.
+
+1230
+01:00:04,200 --> 01:00:09,559
+Norteie dar norte.
+
+1231
+01:00:06,960 --> 01:00:11,760
+Você é bússola.
+
+1232
+01:00:09,559 --> 01:00:14,880
+Você não amarra e sai arrastando em
+
+1233
+01:00:11,760 --> 01:00:17,400
+direção ao norte. Você aponta pro norte.
+
+1234
+01:00:14,880 --> 01:00:18,960
+diferente. Você é bússola, não é
+
+1235
+01:00:17,400 --> 01:00:22,400
+cabresto.
+
+1236
+01:00:18,960 --> 01:00:25,480
+Você é bússolo. Você a ponta o norte é
+
+1237
+01:00:22,400 --> 01:00:25,480
+lá, filho, ó.
+
+1238
+01:00:26,079 --> 01:00:33,039
+que ele espontaneamente, naturalmente,
+
+1239
+01:00:28,920 --> 01:00:33,039
+segue nessa direção.
+
+1240
+01:00:33,440 --> 01:00:40,119
+Por amor ao teu próprio futuro, auxilia
+
+1241
+01:00:37,880 --> 01:00:43,680
+a crescer nos padrões do divino
+
+1242
+01:00:40,119 --> 01:00:47,039
+benfeitor, que nos advertiu entre a
+
+1243
+01:00:43,680 --> 01:00:51,160
+responsabilidade e a ternura. Deixai vir
+
+1244
+01:00:47,039 --> 01:00:54,119
+a mim os pequeninos. Olha, auxilia a
+
+1245
+01:00:51,160 --> 01:00:55,760
+crescer nos padrões do divino benfeitor.
+
+1246
+01:00:54,119 --> 01:00:57,599
+O que que são esses padrões do divino
+
+1247
+01:00:55,760 --> 01:00:59,920
+benfeitor?
+
+1248
+01:00:57,599 --> 01:01:02,640
+Qualquer que seja a sua virtude
+
+1249
+01:00:59,920 --> 01:01:05,520
+intrínseca,
+
+1250
+01:01:02,640 --> 01:01:07,240
+a sua qualidade interior
+
+1251
+01:01:05,520 --> 01:01:10,880
+adormecida,
+
+1252
+01:01:07,240 --> 01:01:13,960
+ela deve servir ao bem geral. Isso é o
+
+1253
+01:01:10,880 --> 01:01:17,079
+padrão do Cristo. Esse é o padrão do
+
+1254
+01:01:13,960 --> 01:01:19,760
+Cristo. Quando você toma consciência da
+
+1255
+01:01:17,079 --> 01:01:23,480
+sua virtude interior,
+
+1256
+01:01:19,760 --> 01:01:26,119
+do seu impulso mais nobre e coloca ele a
+
+1257
+01:01:23,480 --> 01:01:28,520
+serviço do bem geral, do bem comum, do
+
+1258
+01:01:26,119 --> 01:01:31,000
+bem de todos.
+
+1259
+01:01:28,520 --> 01:01:33,640
+Por isso que Jesus pedia para deixar as
+
+1260
+01:01:31,000 --> 01:01:35,880
+crianças se aproximarem dele. A gente
+
+1261
+01:01:33,640 --> 01:01:39,559
+tem que permitir que as crianças se
+
+1262
+01:01:35,880 --> 01:01:44,079
+aproximem de Jesus.
+
+1263
+01:01:39,559 --> 01:01:46,000
+num num movimento de acolhimento,
+
+1264
+01:01:44,079 --> 01:01:49,520
+de aconchego.
+
+1265
+01:01:46,000 --> 01:01:52,559
+Porque ao ver Jesus
+
+1266
+01:01:49,520 --> 01:01:54,839
+colocar a sua virtude
+
+1267
+01:01:52,559 --> 01:01:59,079
+interior a serviço de uma humanidade
+
+1268
+01:01:54,839 --> 01:02:02,039
+inteira, elas se sentem inspiradas
+
+1269
+01:01:59,079 --> 01:02:05,279
+pela vida do Cristo.
+
+1270
+01:02:02,039 --> 01:02:08,520
+se sentem inspiradas e motivadas pela
+
+1271
+01:02:05,279 --> 01:02:08,520
+vida dele.
+
+1272
+01:02:08,799 --> 01:02:15,240
+Certo?
+
+1273
+01:02:10,720 --> 01:02:18,240
+E fechamos aqui com um trechinho de uma
+
+1274
+01:02:15,240 --> 01:02:21,240
+indicação literária, tá? O livro
+
+1275
+01:02:18,240 --> 01:02:23,839
+Pedagogia da Virtude, uma educação
+
+1276
+01:02:21,240 --> 01:02:26,119
+possível, Dr. Ricardo Vardio. Ricardo
+
+1277
+01:02:23,839 --> 01:02:29,400
+Vardi é homeopata do meu filho, meu
+
+1278
+01:02:26,119 --> 01:02:32,039
+homeopata do Chico e eu aprendo demais
+
+1279
+01:02:29,400 --> 01:02:34,760
+com ele já há vários anos. Já conheço o
+
+1280
+01:02:32,039 --> 01:02:35,920
+Dr. Ricardo há vários anos. Muitas
+
+1281
+01:02:34,760 --> 01:02:38,400
+pessoas no movimento espírita já
+
+1282
+01:02:35,920 --> 01:02:42,279
+conhecem, Dr. Ricardo Vardio, sobrinho
+
+1283
+01:02:38,400 --> 01:02:45,400
+neto de Eurípedes Barçano. E eu agora
+
+1284
+01:02:42,279 --> 01:02:47,000
+tenho a possibilidade de de de interagir
+
+1285
+01:02:45,400 --> 01:02:50,680
+diretamente com ele, porque ele é o
+
+1286
+01:02:47,000 --> 01:02:54,559
+médico do Chico, né? E aprende demais.
+
+1287
+01:02:50,680 --> 01:02:57,119
+Dr. Ricardo, esse é um livro publicado
+
+1288
+01:02:54,559 --> 01:02:59,359
+por ele há alguns anos, um livro baseado
+
+1289
+01:02:57,119 --> 01:03:01,319
+em uma dedicação literária que ele
+
+1290
+01:02:59,359 --> 01:03:02,839
+passou para mim e paraa Juliana
+
+1291
+01:03:01,319 --> 01:03:05,880
+recentemente,
+
+1292
+01:03:02,839 --> 01:03:09,680
+é o código do ser do James Hilman.
+
+1293
+01:03:05,880 --> 01:03:12,039
+E aí o Dr. Ricardo Vardileg o pensamento
+
+1294
+01:03:09,680 --> 01:03:15,200
+do Ran, misturou com uma série de outros
+
+1295
+01:03:12,039 --> 01:03:18,720
+pensadores e educadores
+
+1296
+01:03:15,200 --> 01:03:21,760
+de scol e deu direção a isso tudo com a
+
+1297
+01:03:18,720 --> 01:03:23,160
+base da codificação da literatura
+
+1298
+01:03:21,760 --> 01:03:25,160
+psicografada pelo Chico Xavier e
+
+1299
+01:03:23,160 --> 01:03:27,599
+resultou nesse livro que eu indico aqui.
+
+1300
+01:03:25,160 --> 01:03:29,960
+É uma indicação literária, Pedagogia da
+
+1301
+01:03:27,599 --> 01:03:32,880
+Virtude, Dr. Ricardo Guardil. Eu separei
+
+1302
+01:03:29,960 --> 01:03:35,200
+esse trechinho do início do do livro
+
+1303
+01:03:32,880 --> 01:03:37,920
+paraa gente pensar algumas coisas que eu
+
+1304
+01:03:35,200 --> 01:03:40,799
+ventilei aqui que vai no ser búlsa, vai
+
+1305
+01:03:37,920 --> 01:03:42,640
+ser norte paraa gente nas próximas
+
+1306
+01:03:40,799 --> 01:03:44,799
+reuniões. Olha o que que o Dr. Ricardo
+
+1307
+01:03:42,640 --> 01:03:48,119
+diz.
+
+1308
+01:03:44,799 --> 01:03:52,359
+Optamos por encontrar as boas
+
+1309
+01:03:48,119 --> 01:03:57,880
+qualidades, o belo, a luz em detrimento
+
+1310
+01:03:52,359 --> 01:04:00,599
+da sombra. Eu não vou ficar reparando os
+
+1311
+01:03:57,880 --> 01:04:05,440
+vícios, os defeitos do meu filho para
+
+1312
+01:04:00,599 --> 01:04:08,160
+poder eh combatê-los. Isso não é educar.
+
+1313
+01:04:05,440 --> 01:04:10,240
+Ah, educar. Isso aí um espírito velho,
+
+1314
+01:04:08,160 --> 01:04:12,160
+isso aí já foi encruzada, isso já foi
+
+1315
+01:04:10,240 --> 01:04:14,520
+general, isso aí já foi guerreiro. Eu
+
+1316
+01:04:12,160 --> 01:04:17,520
+vou ficar identificando os defeitos dele
+
+1317
+01:04:14,520 --> 01:04:20,880
+para dar combate. Não é isso,
+
+1318
+01:04:17,520 --> 01:04:25,319
+é o contrário. Eu vou ficar,
+
+1319
+01:04:20,880 --> 01:04:26,920
+sabe, penerando, garimpando as virtudes
+
+1320
+01:04:25,319 --> 01:04:28,880
+dele,
+
+1321
+01:04:26,920 --> 01:04:30,559
+as qualidades dele. É isso que eu tenho
+
+1322
+01:04:28,880 --> 01:04:32,240
+que procurar no meu filho, as
+
+1323
+01:04:30,559 --> 01:04:36,000
+qualidades.
+
+1324
+01:04:32,240 --> 01:04:39,720
+Oentho não é
+
+1325
+01:04:36,000 --> 01:04:41,880
+carimpiro não vai pro rio para pr para
+
+1326
+01:04:39,720 --> 01:04:45,359
+catar cascalho, ele vai lá para catar
+
+1327
+01:04:41,880 --> 01:04:48,359
+diamante. O resto é entúho. O resto ele
+
+1328
+01:04:45,359 --> 01:04:52,240
+ignora, ele descarta e ignora.
+
+1329
+01:04:48,359 --> 01:04:56,200
+Ele tá ali para para achar a virtude,
+
+1330
+01:04:52,240 --> 01:04:59,640
+certo? Ou seja, nossa proposta é
+
+1331
+01:04:56,200 --> 01:05:02,559
+desenvolver potencialidades
+
+1332
+01:04:59,640 --> 01:05:07,559
+e descobrir, por trás do que julgamos
+
+1333
+01:05:02,559 --> 01:05:10,720
+problema ou defeito, uma expressão
+
+1334
+01:05:07,559 --> 01:05:14,200
+exagerada do talento pessoal que se
+
+1335
+01:05:10,720 --> 01:05:16,880
+encontra fora de fora de medida
+
+1336
+01:05:14,200 --> 01:05:18,720
+de adequação e que pede novo
+
+1337
+01:05:16,880 --> 01:05:20,880
+direcionamento.
+
+1338
+01:05:18,720 --> 01:05:22,480
+Aí eu achei um negócio lá que
+
+1339
+01:05:20,880 --> 01:05:25,799
+normalmente as pessoas chamariam de
+
+1340
+01:05:22,480 --> 01:05:27,319
+defeito o vício. E mas eu não vou dizer
+
+1341
+01:05:25,799 --> 01:05:29,960
+que é um defeito, eu vou entrar assim:
+
+1342
+01:05:27,319 --> 01:05:33,240
+"Opa, aqui é a virtude". Só que a
+
+1343
+01:05:29,960 --> 01:05:37,440
+virtude é o talento pessoal intrínseco
+
+1344
+01:05:33,240 --> 01:05:40,440
+dele desmedido, inadequado,
+
+1345
+01:05:37,440 --> 01:05:40,440
+equivocado.
+
+1346
+01:05:41,520 --> 01:05:48,760
+Assim, a tarefa dos pais é identificar e
+
+1347
+01:05:44,680 --> 01:05:54,000
+enaltecer o dom de cada um e mostrar
+
+1348
+01:05:48,760 --> 01:05:54,000
+quando o uso dele está fora de medida.
+
+1349
+01:05:54,240 --> 01:06:00,440
+Entenderam? Lembrando Roussea teste Dr.
+
+1350
+01:05:57,559 --> 01:06:03,920
+Ricardo V. Lembrando, Russon, conhecer e
+
+1351
+01:06:00,440 --> 01:06:06,440
+aprender a governar a natureza íntima.
+
+1352
+01:06:03,920 --> 01:06:08,680
+Você primeiro conhece a natureza íntima,
+
+1353
+01:06:06,440 --> 01:06:12,880
+primeiro identifica a natureza íntima da
+
+1354
+01:06:08,680 --> 01:06:15,839
+criança para depois ajudar a criança a
+
+1355
+01:06:12,880 --> 01:06:18,279
+governar essa natureza íntima, essa
+
+1356
+01:06:15,839 --> 01:06:20,039
+virtude íntima.
+
+1357
+01:06:18,279 --> 01:06:21,240
+Entenderam?
+
+1358
+01:06:20,039 --> 01:06:24,760
+Que que nós vamos fazer na semana
+
+1359
+01:06:21,240 --> 01:06:27,640
+seguinte? de secar essa linha de
+
+1360
+01:06:24,760 --> 01:06:32,200
+entendimento.
+
+1361
+01:06:27,640 --> 01:06:34,000
+Nós há vários séculos repreendemos as
+
+1362
+01:06:32,200 --> 01:06:36,839
+crianças como os discípulos fizeram com
+
+1363
+01:06:34,000 --> 01:06:40,279
+as crianças em torno de Jesus.
+
+1364
+01:06:36,839 --> 01:06:43,559
+Esse verbo repreender,
+
+1365
+01:06:40,279 --> 01:06:46,520
+descarta ele.
+
+1366
+01:06:43,559 --> 01:06:50,839
+Educar não é repreender. Educar é
+
+1367
+01:06:46,520 --> 01:06:54,160
+identificar a virtude ainda latente, a
+
+1368
+01:06:50,839 --> 01:06:57,839
+virtude que dorme
+
+1369
+01:06:54,160 --> 01:07:00,119
+e que se manifesta provisoriamente,
+
+1370
+01:06:57,839 --> 01:07:02,720
+momentaneamente, de uma maneira
+
+1371
+01:07:00,119 --> 01:07:04,520
+desmedida, equivocada,
+
+1372
+01:07:02,720 --> 01:07:06,200
+desorganizada,
+
+1373
+01:07:04,520 --> 01:07:08,319
+desgovernada.
+
+1374
+01:07:06,200 --> 01:07:11,559
+e que a gente
+
+1375
+01:07:08,319 --> 01:07:14,279
+por ignorância chama de vício ou
+
+1376
+01:07:11,559 --> 01:07:16,880
+defeito.
+
+1377
+01:07:14,279 --> 01:07:18,799
+O maior defeito que eu encontrei no meu
+
+1378
+01:07:16,880 --> 01:07:20,920
+filho é, na verdade, a sua maior
+
+1379
+01:07:18,799 --> 01:07:22,839
+virtude,
+
+1380
+01:07:20,920 --> 01:07:25,680
+sabe?
+
+1381
+01:07:22,839 --> 01:07:29,680
+Sem a sua expressão bela.
+
+1382
+01:07:25,680 --> 01:07:33,240
+O horror é o belo que ainda não foi
+
+1383
+01:07:29,680 --> 01:07:36,240
+lapidado, não foi debastado,
+
+1384
+01:07:33,240 --> 01:07:36,240
+sabe?
+
+1385
+01:07:37,200 --> 01:07:43,279
+É isso. Você não vai sufocar o defeito,
+
+1386
+01:07:40,440 --> 01:07:45,760
+combater o defeito. Você vai entender
+
+1387
+01:07:43,279 --> 01:07:48,559
+que virtude tá ali presente naquele
+
+1388
+01:07:45,760 --> 01:07:51,920
+virtude, na na na naquele vício de uma
+
+1389
+01:07:48,559 --> 01:07:51,920
+maneira equivocada.
+
+1390
+01:07:52,440 --> 01:07:56,599
+Eu sei que ainda tá um pouco vago para
+
+1391
+01:07:54,400 --> 01:07:58,720
+muitos de vocês, mas a gente ainda tem
+
+1392
+01:07:56,599 --> 01:08:01,319
+algumas semanas. Não percam os próximos
+
+1393
+01:07:58,720 --> 01:08:03,799
+estudos. Nós vamos trazer muito exemplo,
+
+1394
+01:08:01,319 --> 01:08:06,000
+tá? muitos exemplos na literatura
+
+1395
+01:08:03,799 --> 01:08:08,680
+espírita, fora da literatura espírita,
+
+1396
+01:08:06,000 --> 01:08:11,559
+para tornar mais inteligível, mais
+
+1397
+01:08:08,680 --> 01:08:14,520
+compreensível essa linha de pensamento
+
+1398
+01:08:11,559 --> 01:08:17,359
+que a gente vai chamar em homenagem ao
+
+1399
+01:08:14,520 --> 01:08:20,480
+Dr. Ricardo Vardio de pedagogia da
+
+1400
+01:08:17,359 --> 01:08:22,319
+virtude. Certo?
+
+1401
+01:08:20,480 --> 01:08:25,319
+Beijão para todo mundo. Até a semana que
+
+1402
+01:08:22,319 --> 01:08:25,319
+vem.
+
+1403
+01:08:26,897 --> 01:08:28,917
+[música]
+
+1404
+01:08:32,137 --> 01:08:34,157
+>> [música]
+
+1405
+01:08:40,652 --> 01:08:42,672
+[música]
+
