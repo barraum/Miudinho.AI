@@ -1,4 +1,6 @@
 import os
+import re
+import json
 import streamlit as st
 from google import genai
 from google.genai import types
@@ -31,16 +33,18 @@ except Exception as e:
 
 # --- MODELOS ---
 GENERATIVE_MODEL_NAME = 'gemini-2.5-flash'
-EMBEDDING_MODEL_NAME = 'sentence-transformers/paraphrase-multilingual-mpnet-base-v2' 
+EMBEDDING_MODEL_NAME = 'jinaai/jina-embeddings-v3' 
 
 # --- ARQUIVOS E CONSTANTES ---
-FAISS_INDEX_FILE = 'banco_vetorial_local_1200.index'
-CHUNKS_MAPPING_FILE = 'chunks_mapeamento_local_1200.pkl'
+FAISS_INDEX_FILE = 'banco_vetorial_local_3500.index'
+CHUNKS_MAPPING_FILE = 'chunks_mapeamento_local_3500.pkl'
+VIDEO_JSON_FILE = 'videos_miudinho_uberaba.json'
+SRT_DIR = 'legendas_srt'
 
 # --- IDs DO GOOGLE DRIVE (VOCÊ PRECISA PREENCHER) ---
 # Cole aqui apenas o ID dos links de compartilhamento do seu Google Drive
-GDRIVE_INDEX_ID = '1mUHavIKQpN4bKoe_OyfEznX9nAPnbWys'
-GDRIVE_PKL_ID = '1rHgGIxs4HR4lIXz6nlBnHdz5Yuvw4SAf'
+GDRIVE_INDEX_ID = '11fNF1EdMYVR9PuMGB8Skw_M2ffw8ZnhW'
+GDRIVE_PKL_ID = '1_f_lP4DjPxQfQQAfDXdgUecE2I8loOXn'
 
 @st.cache_resource
 def download_banco_nuvem():
@@ -62,6 +66,22 @@ def download_banco_nuvem():
 
 # Baixa os arquivos caso eles não estejam no servidor
 download_banco_nuvem()
+
+@st.cache_data
+def load_video_data(filepath):
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return []
+    except json.JSONDecodeError:
+        return []
+
+def sanitize_filename(filename):
+    return re.sub(r'[\\/*?:"<>|]', "", filename)
+
+# Carrega os dados dos vídeos globalmente (se disponível na nuvem/repo)
+video_data = load_video_data(VIDEO_JSON_FILE)
 
 # --- FUNÇÕES DE CARREGAMENTO (CACHE) ---
 
@@ -88,7 +108,10 @@ def load_faiss_index():
 
 def buscar_chunks_relevantes(queries: list, index, metadata, k=10):
     model = load_embedding_model()
-    query_vectors_list = list(model.embed(queries))
+    # Aplica o prefixo "query:" exigido pelo Jina V3
+    queries_com_prefixo = [f"query: {q}" for q in queries]
+    
+    query_vectors_list = list(model.embed(queries_com_prefixo))
     query_vectors = np.vstack(query_vectors_list).astype(np.float32)
     
     distances, indices = index.search(query_vectors, k)
@@ -135,6 +158,162 @@ def gerar_resposta_com_busca(query, chunks_relevantes):
     except Exception as e:
         return f"Ocorreu um erro ao gerar a resposta: {e}"
 
+def obter_timestamp_do_chunk(source_file_txt, chunk_text):
+    if not source_file_txt:
+        return 0
+    
+    # Substitui a extensão .txt por .srt
+    source_file_srt = source_file_txt.rsplit('.', 1)[0] + ".srt"
+    srt_path = os.path.join(SRT_DIR, source_file_srt)
+    
+    if not os.path.exists(srt_path):
+        return 0
+        
+    try:
+        with open(srt_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            
+        # Normaliza quebras de linha e separa por blocos do srt
+        content = content.replace('\r\n', '\n')
+        srt_blocks = content.strip().split('\n\n')
+        
+        subtitles = []
+        
+        # Regex para capturar o tempo inicial do formato: 00:25:20,300 --> 00:25:24,500
+        time_pattern = re.compile(r'(\d{2}:\d{2}:\d{2}[,.]\d{3})\s*-->')
+        
+        for block in srt_blocks:
+            lines = block.split('\n')
+            if len(lines) < 2:
+                continue
+            
+            # Procura a linha com os tempos
+            time_line = lines[1]
+            time_match = time_pattern.search(time_line)
+            if not time_match:
+                # Às vezes a linha de tempo é a primeira se o número do bloco falhar
+                time_line = lines[0]
+                time_match = time_pattern.search(time_line)
+                if not time_match:
+                    continue
+                    
+            start_time_str = time_match.group(1)
+            
+            # Junta as linhas de texto restantes
+            text_lines = []
+            for l in lines[2:]:
+                if l.strip():
+                    text_lines.append(l.strip())
+            
+            text = " ".join(text_lines)
+            
+            # Converte start_time_str para segundos
+            try:
+                time_clean = start_time_str.replace(',', '.')
+                parts = time_clean.split(':')
+                hours = int(parts[0])
+                minutes = int(parts[1])
+                seconds = float(parts[2])
+                seconds_int = int(hours * 3600 + minutes * 60 + seconds)
+                subtitles.append((seconds_int, text))
+            except Exception:
+                continue
+                
+        if not subtitles:
+            return 0
+            
+        # Função auxiliar de limpeza para casamento semântico
+        def clean_text(t):
+            t = t.lower()
+            t = re.sub(r'[áàâãä]', 'a', t)
+            t = re.sub(r'[éèêë]', 'e', t)
+            t = re.sub(r'[íìîï]', 'i', t)
+            t = re.sub(r'[óòôõö]', 'o', t)
+            t = re.sub(r'[úùûü]', 'u', t)
+            t = re.sub(r'[ç]', 'c', t)
+            t = re.sub(r'[^a-z0-9]', '', t)
+            return t
+            
+        # Constrói o texto contínuo e o mapa de índices de caracteres para segundos
+        full_srt_text = ""
+        char_to_seconds = []
+        
+        for sec, text in subtitles:
+            cleaned_text = clean_text(text)
+            if not cleaned_text:
+                continue
+            start_idx = len(full_srt_text)
+            full_srt_text += cleaned_text
+            char_to_seconds.append((start_idx, len(full_srt_text), sec))
+            
+        if not full_srt_text:
+            return 0
+            
+        # Tenta buscar usando prefixos de tamanho decrescente do chunk para ser tolerante a erros
+        search_prefixes = []
+        chunk_clean = clean_text(chunk_text)
+        
+        if len(chunk_clean) >= 60:
+            search_prefixes.append(chunk_clean[:60])
+        if len(chunk_clean) >= 40:
+            search_prefixes.append(chunk_clean[:40])
+        if len(chunk_clean) >= 20:
+            search_prefixes.append(chunk_clean[:20])
+            
+        # Fallback: primeira palavra e palavras-chave
+        words = chunk_clean.split()
+        if len(words) >= 4:
+            search_prefixes.append("".join(words[:4]))
+            
+        for prefix in search_prefixes:
+            match_pos = full_srt_text.find(prefix)
+            if match_pos != -1:
+                # Encontra a qual segundo corresponde o início do casamento
+                for start_idx, end_idx, sec in char_to_seconds:
+                    if start_idx <= match_pos < end_idx:
+                        return sec
+                        
+        # Se não achar nada, retorna o primeiro segundo do primeiro bloco
+        return subtitles[0][0]
+        
+    except Exception as e:
+        print(f"Erro ao buscar timestamp no srt: {e}")
+        return 0
+
+def formatar_citacoes_com_links(resposta, chunks_relevantes, video_data):
+    if not video_data:
+        return resposta
+        
+    title_to_video = {}
+    for v in video_data:
+        key = sanitize_filename(v['titulo']) + ".txt"
+        title_to_video[key] = v
+        
+    chunk_links = {}
+    for chunk in chunks_relevantes:
+        src = chunk['source_file']
+        if src in title_to_video:
+            video = title_to_video[src]
+            segundos = obter_timestamp_do_chunk(src, chunk['text'])
+            if segundos > 0:
+                chunk_links[src] = f"{video['url']}&t={segundos}s"
+            else:
+                chunk_links[src] = video['url']
+        else:
+            chunk_links[src] = None
+            
+    pattern = re.compile(r'\[([^\]]+\.txt)\]')
+    
+    def replace_match(match):
+        filename = match.group(1)
+        if filename in chunk_links and chunk_links[filename]:
+            display_name = filename.rsplit('.', 1)[0]
+            display_name = display_name.replace(" - Miudinho", "").replace(" {Aluizio Elias}", "")
+            return f"[[{display_name}]({chunk_links[filename]})]"
+        return match.group(0)
+        
+    return pattern.sub(replace_match, resposta)
+
 def expand_query_with_gemini(user_query):
     try:
         prompt = f"""
@@ -166,6 +345,12 @@ if index is not None:
 
     if st.button("Buscar Resposta", type="primary", use_container_width=True):
         if user_query:
+            # Limpa buscas antigas para dar feedback visual de carregamento
+            if 'resposta_final' in st.session_state:
+                del st.session_state['resposta_final']
+            if 'chunks_relevantes' in st.session_state:
+                del st.session_state['chunks_relevantes']
+                
             with st.spinner("Refinando e expandindo a pergunta..."):
                 expanded_queries = expand_query_with_gemini(user_query)
 
@@ -178,15 +363,53 @@ if index is not None:
                 with st.spinner(f"Sintetizando a resposta com a IA ({GENERATIVE_MODEL_NAME})... 🧠✍️"):
                     resposta_final = gerar_resposta_com_busca(user_query, chunks_relevantes)
                 
-                st.subheader("Resposta Gerada")
-                st.markdown(resposta_final)
-
-                with st.expander("📚 Ver os trechos exatos recuperados (Fontes)"):
-                    for i, chunk in enumerate(chunks_relevantes):
-                        st.markdown("---")
-                        st.markdown(f"**Trecho {i+1} | Fonte:** `{chunk['source_file']}`")
-                        st.info(chunk['text'])
+                # Salva no session_state para persistir re-runs (clique em checkboxes, etc.)
+                st.session_state['resposta_final'] = resposta_final
+                st.session_state['chunks_relevantes'] = chunks_relevantes
         else:
             st.warning("Por favor, digite uma pergunta.")
+
+    # Renderização persistente dos resultados da busca
+    if 'resposta_final' in st.session_state and 'chunks_relevantes' in st.session_state:
+        resposta_final = st.session_state['resposta_final']
+        chunks_relevantes = st.session_state['chunks_relevantes']
+        
+        st.subheader("Resposta Gerada")
+        
+        # Formata as citações do Gemini como links clicáveis dinâmicos com timestamps
+        resposta_formatada = formatar_citacoes_com_links(resposta_final, chunks_relevantes, video_data)
+        st.markdown(resposta_formatada)
+
+        with st.expander("📚 Ver os trechos exatos recuperados (Fontes)"):
+            title_to_video = {sanitize_filename(v['titulo']) + ".txt": v for v in video_data} if video_data else {}
+            
+            for i, chunk in enumerate(chunks_relevantes):
+                st.markdown("---")
+                src = chunk['source_file']
+                video = title_to_video.get(src)
+                
+                # Layout premium em duas colunas (Texto na esquerda, Player compacto na direita)
+                col_texto, col_video = st.columns([3, 2])
+                
+                segundos = 0
+                if video:
+                    segundos = obter_timestamp_do_chunk(src, chunk['text'])
+                    
+                with col_texto:
+                    st.markdown(f"**Trecho {i+1} | Fonte:** `{src}`")
+                    if video:
+                        if segundos > 0:
+                            link_timestamp = f"{video['url']}&t={segundos}s"
+                            st.markdown(f"🎥 [**Abrir no YouTube (Nova Aba - {segundos // 60}m {segundos % 60}s)**]({link_timestamp})")
+                        else:
+                            link_timestamp = video['url']
+                            st.markdown(f"🎥 [**Abrir no YouTube (Nova Aba - Início)**]({link_timestamp})")
+                    
+                    st.info(chunk['text'])
+                    
+                with col_video:
+                    if video:
+                        # st.video aceita nativamente o parâmetro start_time em segundos!
+                        st.video(video['url'], start_time=int(segundos))
 else:
     st.error("⚠️ Banco de vetores não encontrado. Certifique-se de que os arquivos .index e .pkl estão na mesma pasta.")
