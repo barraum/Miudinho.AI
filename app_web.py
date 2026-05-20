@@ -10,12 +10,12 @@ import numpy as np
 
 # --- CONFIGURAÇÃO INICIAL DA PÁGINA ---
 st.set_page_config(
-    page_title="MiudinhoAI",
+    page_title="MiudinhoUAI",
     page_icon="🤖",
     layout="wide"
 )
 
-st.title("🤖 MiudinhoAI - Busca no Acervo")
+st.title("🤖 MiudinhoUAI - Busca no Acervo")
 st.caption("Faça perguntas e encontre respostas baseadas no acervo teológico e estudos.")
 
 # --- SEGURANÇA E CONFIGURAÇÃO DAS APIs ---
