@@ -1,0 +1,2971 @@
+1
+00:00:00,000 --> 00:00:19,359
+Música
+
+2
+00:00:19,359 --> 00:00:23,760
+Boa noite, vamos iniciar então mais um estudo do Evangelho de Mateus.
+
+3
+00:00:23,760 --> 00:00:28,000
+Nós estamos estudando o capítulo 13 do Evangelho de Mateus, né?
+
+4
+00:00:28,079 --> 00:00:37,519
+Em sequência, desde o capítulo 1, desde o primeiro capítulo, o primeiro versículo,
+
+5
+00:00:37,519 --> 00:00:42,719
+nós começamos a atividade juntos e já estamos no capítulo 13, né?
+
+6
+00:00:42,719 --> 00:00:48,719
+Aí na passagem do tesouro e da pérola, conhecida como tesouro e a pérola.
+
+7
+00:00:48,719 --> 00:00:55,280
+Que é uma parábola, uma parábola pequena, em que Jesus usa duas metáforas, né?
+
+8
+00:00:55,439 --> 00:01:02,880
+Primeiro, quando alguém encontra um tesouro no campo, vende tudo que tem, compra aquele campo.
+
+9
+00:01:02,880 --> 00:01:10,000
+E agora, é o que nós estamos vendo desde a semana passada, a metáfora do homem de negócios,
+
+10
+00:01:10,000 --> 00:01:17,680
+que encontra uma pérola, né? Uma boa pérola, uma pérola muito especial, né?
+
+11
+00:01:17,680 --> 00:01:22,480
+É o que a gente começou a ver a semana passada. Na semana passada, nós começamos então,
+
+12
+00:01:22,480 --> 00:01:26,960
+o capítulo 45, que nós vamos reler hoje mais uma vez.
+
+13
+00:01:26,960 --> 00:01:35,680
+E vimos o tópico sobre o chamado homem negociante, esse personagem da parábola
+
+14
+00:01:35,680 --> 00:01:44,480
+que Jesus está narrando aqui, o homem negociante. O que a gente viu, é que conforme acontecem
+
+15
+00:01:44,480 --> 00:01:50,400
+todas as parábolas de Jesus, a gente não pode ter um entendimento literal desse homem negociante.
+
+16
+00:01:50,480 --> 00:01:55,359
+Então, a gente fica imaginando que Jesus se refere a alguém que trabalha na bolsa de valores,
+
+17
+00:01:55,359 --> 00:02:00,080
+ou alguém que é propriamente um comerciante, né?
+
+18
+00:02:00,080 --> 00:02:06,560
+Ou um revendedor, não, não é necessariamente isso, não.
+
+19
+00:02:06,560 --> 00:02:12,640
+Homem negociante, em grego, em poros, né? O grego em poros,
+
+20
+00:02:12,720 --> 00:02:20,720
+refere-se ao ser humano, ao homem de mentalidade burguesa moderna, né?
+
+21
+00:02:20,720 --> 00:02:24,560
+Ah, mas Jesus fala na antiguidade, mas Jesus fala para posteridade.
+
+22
+00:02:24,560 --> 00:02:32,480
+Ele fala a partir da antiguidade, ele está na antiguidade, naquele contexto da antiguidade
+
+23
+00:02:32,480 --> 00:02:41,520
+clássica, romana, no século I, na Palestina, mas o Evangelho não pode ficar restrito
+
+24
+00:02:41,520 --> 00:02:46,800
+a esse contexto, ele transcende esse contexto, é palavras de vida eterna.
+
+25
+00:02:46,800 --> 00:02:53,520
+E essa lição especificamente, esse versículo, se torna muito útil para os nossos dias,
+
+26
+00:02:53,520 --> 00:03:03,520
+porque essa mentalidade, esse personagem psicossocial, esse temperamento que Jesus está descrevendo na passagem,
+
+27
+00:03:04,480 --> 00:03:13,200
+é muito, mas muito referencial, é muito fundamental para se compreender o homem moderno burgues.
+
+28
+00:03:13,200 --> 00:03:19,760
+Por que a gente fala homem moderno burgues? Ah, porque só não sou um membro da classe burguesa,
+
+29
+00:03:19,760 --> 00:03:24,400
+dos negociantes da idade média, né? Já estamos no mundo contemporâneo,
+
+30
+00:03:24,879 --> 00:03:34,400
+burguesia não deve ser entendido necessariamente como aquela classe, lá da baixa idade média,
+
+31
+00:03:34,400 --> 00:03:41,360
+que deu origem à atividade, ao renascimento comercial urbano na Europa medieval.
+
+32
+00:03:41,360 --> 00:03:48,080
+Isso aí é o personagem histórico, existe uma mentalidade, que é essa nossa,
+
+33
+00:03:49,040 --> 00:03:58,640
+de priorizar o ganho monetário, de super ou hipervalorizar o consumo, a necessidade do consumo,
+
+34
+00:03:58,640 --> 00:04:08,320
+de estar o tempo inteiro constantemente medindo os prós e os contras no nuque desrespeito ao conforto material,
+
+35
+00:04:08,320 --> 00:04:15,680
+isso é o que somos. Eu posso ser assalariado, posso ser operário, posso ser professor, posso ser médico,
+
+36
+00:04:15,760 --> 00:04:26,000
+eu tenho dinheiro que for, mas a minha mentalidade é essa, pragmáticos, sempre pensando a questão
+
+37
+00:04:26,000 --> 00:04:34,319
+prática em primeiro lugar, as questões objetivas em primeiro lugar, racionais, somos uma sociedade
+
+38
+00:04:34,319 --> 00:04:42,480
+racionalista, o cálculo ele vem em primeiro lugar em detrimento muitas vezes do sentimento,
+
+39
+00:04:42,480 --> 00:04:50,640
+do sentido do coração, individualistas, é uma sociedade competitiva, todo mundo é visto como um
+
+40
+00:04:50,640 --> 00:04:58,080
+concorrente, isso vai dar da vaga de estacionamento no shopping até a fila do supermercado, a gente
+
+41
+00:04:58,080 --> 00:05:04,720
+está sempre disputando, não tem aquele lance do casal ir fazer compra no supermercado, quando vê
+
+42
+00:05:04,720 --> 00:05:09,759
+que a fila dos caixas está muito grande, o marido vai para a fila enquanto a mulher vai fazer a compra,
+
+43
+00:05:09,759 --> 00:05:17,519
+você vê que ele já fica segurando lugar ou isso não acontece? Isso acontece, qual o nome disso?
+
+44
+00:05:17,519 --> 00:05:30,159
+Espírito competitivo, a gente concorre a tudo, o tempo todo, a mentalidade previdenciária, a gente
+
+45
+00:05:30,159 --> 00:05:37,120
+está sempre pensando no amanhã, aí o amanhã, e o amanhã, a ponto de Jesus ter que alertar já naquela
+
+46
+00:05:37,600 --> 00:05:44,480
+momento, para a gente deixar o amanhã com o amanhã, ele vai cuidar de si mesmo, mas a gente está sempre
+
+47
+00:05:44,480 --> 00:05:54,399
+aquela mentalidade poupança, ou então o contrário disso, o gastar até o que não tem, nunca tivemos
+
+48
+00:05:54,399 --> 00:06:05,600
+uma sociedade tão comprometido com o consumo em que se gasta até o que não se tem, é a sociedade
+
+49
+00:06:05,680 --> 00:06:11,520
+mais dez das casas Bahia, tudo é crediário, tudo é crediário, o que é o crediário? É quando você
+
+50
+00:06:11,520 --> 00:06:16,640
+não tem, mas quer ter, você não tem dinheiro, mas quer ter o produto, aí o que você faz?
+
+51
+00:06:19,520 --> 00:06:28,480
+Crédito, a sociedade do crédito, então isso tudo, esse conjunto de coisas que eu tenho certeza que é
+
+52
+00:06:28,480 --> 00:06:34,800
+muito familiar para todo mundo que está me ouvindo agora, que é a vida de todo mundo, a vida de todo
+
+53
+00:06:34,800 --> 00:06:40,400
+mundo, financiar a casa, financiar o carro, depois ficar batalhando para pagar a parcela do
+
+54
+00:06:40,400 --> 00:06:49,199
+financiamento, isso tudo aí, reunido, forma um perfil de ser humano, um tipo de ser humano,
+
+55
+00:06:49,199 --> 00:06:58,080
+somos nós, é disso que nós falamos na semana passada, só que esse personagem que Jesus
+
+56
+00:06:58,159 --> 00:07:07,439
+apresenta na parábola, Jesus está feliz com ele, ele apresenta esse personagem como alguém que está
+
+57
+00:07:07,439 --> 00:07:14,799
+compondo ali uma cena que Jesus descreve como sendo o reino de céus, o reino de Deus,
+
+58
+00:07:17,360 --> 00:07:21,120
+Jesus se entusiasma com o que ele faz, o que é que ele faz?
+
+59
+00:07:21,920 --> 00:07:33,519
+Encontra uma boa perla, não é qualquer em poros, não é qualquer homem negociante,
+
+60
+00:07:33,519 --> 00:07:42,959
+não é qualquer homem moderno e burguês, não é qualquer um, é um entre tantos que por um momento
+
+61
+00:07:43,520 --> 00:07:52,560
+de ir caindo em si, não é assim, que fala a parábola do filho pródigo, que caiu a ficha e ele falou,
+
+62
+00:07:52,560 --> 00:08:04,080
+opa, existem outros tesouros, existem outros valores, além desses aos quais eu tenho me dedicado tanto,
+
+63
+00:08:04,800 --> 00:08:06,079
+entenderam?
+
+64
+00:08:07,680 --> 00:08:13,919
+Dentre tantos homens negociantes, dentre tantos homens modernos,
+
+65
+00:08:15,919 --> 00:08:28,319
+existe um, existem alguns que se destacam pela capacidade de perceber que a vida vai além disso,
+
+66
+00:08:28,719 --> 00:08:35,679
+é o que desperta, é o que acorda, Jesus está falando desse sujeito.
+
+67
+00:08:37,679 --> 00:08:43,200
+Vamos lá, na época de Jesus, alguns nomes que podem ser enquadrados nisso?
+
+68
+00:08:44,319 --> 00:08:54,399
+Zaqueu, Zaqueu era um homem prático, Zaqueu era um homem do mundo, era um homem de negócios, era um
+
+69
+00:08:54,639 --> 00:09:02,399
+contabilista, mais que isso, ele era um funcionário da receita, ele lidava, não era só com o tesouro
+
+70
+00:09:02,399 --> 00:09:09,679
+dele, ele lidava com o tesouro dos outros, e com o tesouro do imperador, que é quem pagava o salário dele,
+
+71
+00:09:09,679 --> 00:09:20,559
+Zaqueu era um homem que lidava com nada mais prático, material horizontal do que renda, renda familiar,
+
+72
+00:09:20,560 --> 00:09:30,320
+ele lidava com renda, com a tributação da renda, no entanto, ele é um desses homens de negócio,
+
+73
+00:09:30,320 --> 00:09:37,760
+um desses emporos, que de repente resolve subir o sicômero, subir na árvore, o que é subir na árvore?
+
+74
+00:09:38,000 --> 00:09:50,080
+Opa! Existem tesouros, riquezas, valores, que transcendem, que vão muito além,
+
+75
+00:09:52,960 --> 00:09:56,799
+muito além desses que eu tenho contabilizado.
+
+76
+00:09:58,799 --> 00:10:03,600
+Vamos dar outro exemplo? Mateus, Levi, o discípulo Mateus.
+
+77
+00:10:08,000 --> 00:10:18,000
+Mateus era também um funcionário do fisco romano, era um contador, era um contador fiscal,
+
+78
+00:10:18,000 --> 00:10:25,039
+um funcionário da receita romana, para citar dois, que na época era chamados de publicanos,
+
+79
+00:10:25,039 --> 00:10:32,639
+Mateus também, de repente, quando Jesus aparece na porta da coletoria, e fala para ele, vem?
+
+80
+00:10:33,600 --> 00:10:42,240
+Ele falou, opa, esse homem tem um tesouro para me oferecer, que não é esse tesouro que eu tenho contado,
+
+81
+00:10:42,240 --> 00:10:51,519
+tesouro é esse. Aí a gente cita José de Arimatéia, a gente cita a própria Magdala,
+
+82
+00:10:51,519 --> 00:11:02,080
+Maria de Magdala, Madalena, o próprio Paulo, que lidava com, que era um homem de negócio também,
+
+83
+00:11:02,080 --> 00:11:10,320
+que lidava com a riqueza aristocrática de Jerusalém, com a elite aristocrática de Jerusalém.
+
+84
+00:11:11,920 --> 00:11:18,480
+A gente está falando desse perfil de sujeito, e ele encontra uma pérola. Na semana passada,
+
+85
+00:11:18,480 --> 00:11:26,160
+eu tinha programado de já avançar na palavra pérola, mas eu deixei para a gente ir com calma
+
+86
+00:11:26,240 --> 00:11:34,399
+essa semana, porque vocês vão ver quanta coisa a gente vai retirar dessa pérola. Isso porque Mateus,
+
+87
+00:11:34,399 --> 00:11:39,600
+capítulo 13, versículo 45, que é o versículo que nós estamos estudando hoje, diz assim,
+
+88
+00:11:39,600 --> 00:11:47,679
+novamente o reino dos céus é semelhante ao homem negociante, ou homem de negócios, que procura boas
+
+89
+00:11:47,920 --> 00:11:57,520
+pérolas, que procura boas pérolas. Então, o fragmento do versículo que nós vamos estudar hoje é boas
+
+90
+00:11:57,520 --> 00:12:05,920
+pérolas. Primeira coisa que nós vamos fazer aqui é olhar o grego. Então, kalos é um adjetivo,
+
+91
+00:12:05,920 --> 00:12:15,280
+aquilo que é bom, precioso, valioso, kalos, margaritas, vou tentar pronunciar um grego coinê,
+
+92
+00:12:15,279 --> 00:12:20,639
+não sei muito bem como é que se pronunciava o grego coinê, porque o registro se tem dele,
+
+93
+00:12:20,639 --> 00:12:27,679
+ele é escrito, não tem gravação daquela época, mas seria um margaritas, mas eu vou falar margaritas,
+
+94
+00:12:27,679 --> 00:12:36,639
+porque vocês vão lembrar daquele drinkzinho famoso, margarita, não é assim? Não tem um drink famoso?
+
+95
+00:12:36,720 --> 00:12:46,879
+Só só gente chique que toma, né? A margarita, né? O Éder e a Lucie viajam o mundo inteiro, aí eles
+
+96
+00:12:46,879 --> 00:12:54,559
+param num restaurante chique e tomam uma margarita para comemorar, né? Viagem. E também a flor, né?
+
+97
+00:12:54,559 --> 00:13:02,720
+Margarida. Vem também de margaritas. Sabe o que é margaritas? Pérola.
+
+98
+00:13:02,720 --> 00:13:10,320
+Pérola, em grego, né? Pérola, em grego, é margaritas.
+
+99
+00:13:12,680 --> 00:13:20,320
+Ah, é o nome da pedra preciosa, né? Não é bem uma pedra, a gente já vai explicar bem o que que é aquilo, né?
+
+100
+00:13:20,320 --> 00:13:32,399
+Aquela substância valiosa. Kalos margaritas, né? A boa pérola. É isso que nós vamos estudar hoje,
+
+101
+00:13:32,399 --> 00:13:42,079
+vamos tentar entender o que é a pérola? Pois bem, os moluscos, né? Deixa eu pensar aqui, a ostra,
+
+102
+00:13:42,079 --> 00:13:51,600
+alguns mexilhões, eles têm uma propriedade de autodefesa. Então, a lesminha lá, vamos falar assim,
+
+103
+00:13:51,600 --> 00:14:00,639
+a lesminha lá, o molusco, ele fica dentro de um estojo, como se fosse um estojo, né? Que é a concha,
+
+104
+00:14:02,639 --> 00:14:10,639
+a conchazinha. E aí, aquela concha é o que protege o molusco, né? Contra qualquer perigo, né?
+
+105
+00:14:10,639 --> 00:14:23,600
+Porque é uma carapáça, um estojuzinho, rígido, né? Duro. E aí, quando acontece de uma bactériazinha,
+
+106
+00:14:23,600 --> 00:14:31,519
+ou um grãozinho de areia, por minúsculo que seja, né? Conseguir penetrar dentro do estojo,
+
+107
+00:14:31,679 --> 00:14:40,319
+a gente tem que entender que a parte interna da concha é o organismo do molusco, né? Ele é
+
+108
+00:14:40,319 --> 00:14:47,199
+muito sensível. Então, aparece ali um grãozinho de areia, seria a mesma coisa de parar um grãozinho
+
+109
+00:14:47,199 --> 00:14:54,480
+de areia no nosso rim. O que acontece quando tem um grãozinho de areia no nosso rim? Qual o nome disso?
+
+110
+00:14:55,440 --> 00:15:05,200
+A Sueli já falou, lembrou coisa ruim, né Sueli? Então, qualquer corpo estranho, né? Um grãozinho
+
+111
+00:15:05,200 --> 00:15:20,480
+de areia na visícula, no rim, é um cálculo renal ali, né? É um objeto que não pertence ao organismo,
+
+112
+00:15:20,560 --> 00:15:27,680
+é estranho o organismo. Aí o organismo reage aí, né? Assim com a gente? O molusco é a mesma coisa,
+
+113
+00:15:27,680 --> 00:15:33,759
+ele reage aqui, ó, aquele objeto estranho. Ou então, às vezes, uma bactériazinha, né? Um
+
+114
+00:15:35,759 --> 00:15:45,759
+protozoáriozinho lá, né? Que aparece lá, aquilo é estranho aí. O organismo do molusco vai reagir
+
+115
+00:15:45,919 --> 00:15:54,000
+aqui. Como é que ele reage aqui? Como é que funciona, vamos dizer assim, o processo inflamatório do
+
+116
+00:15:54,000 --> 00:16:01,519
+bichinho lá? Ele começa a produzir, como ele não consegue espelir, como ele não consegue pôr pra
+
+117
+00:16:01,519 --> 00:16:09,919
+fora, né? Como a gente faz com a pedra do rim, né? Suando frio, mas faz, né? Ou então, às vezes,
+
+118
+00:16:09,920 --> 00:16:16,720
+faz uma cirurgia, né? Como ele não consegue espelir aqui de outra maneira, ele resolve neutralizar
+
+119
+00:16:16,720 --> 00:16:26,840
+aquilo dentro dele. Aí ele produz uma substância que se chama nácar. E essa substanciazinha, né?
+
+120
+00:16:27,160 --> 00:16:38,440
+Que faz a memória é carbonato de cálcio. Acho que é isso, né? Não tenho certeza, né? Essa
+
+121
+00:16:38,440 --> 00:16:44,519
+parte aí da madriperula, desse setor, é alguma coisa que a Dona Tatiana entende um pouco, né?
+
+122
+00:16:44,519 --> 00:16:51,920
+Porque ela trabalha com essas substâncias, às vezes, né, Dona Tatiana, né? Então, aquela camada
+
+123
+00:16:51,920 --> 00:16:59,680
+de cálcio, né? De um derivado cálcio lá, vai envolvendo um grãozinho de areia. Uma camada,
+
+124
+00:16:59,680 --> 00:17:06,680
+duas camadas, três camadas, quatro camadas. E essa substanciazinha, o nácar, também é chamada de
+
+125
+00:17:06,680 --> 00:17:14,880
+madriperula, né? Ela é, ela tem uma coloração, às vezes, tem pérola de tudo, quanto é cor, né?
+
+126
+00:17:14,880 --> 00:17:20,960
+A cor mais comum que a gente conhece é uma coloração meio esbranquiçada, né? Porém,
+
+127
+00:17:20,960 --> 00:17:29,000
+cintilante, tem brilho. Então, quando ele termina de envolver esse grãozinho de areia, aquela bolinha,
+
+128
+00:17:29,000 --> 00:17:41,520
+né? Aquela pedrinha bonita que se forma, é o que a gente chama de pérola. E os gregos chamavam de
+
+129
+00:17:41,519 --> 00:17:51,960
+metas, né? Então, o molusco vai produzindo o nácar, vai envolvendo o corpo estranho, o intruso,
+
+130
+00:17:51,960 --> 00:18:00,240
+o inimigo que está dentro dele. E aquilo que poderia ser a morte do molusco, poderia significar, né?
+
+131
+00:18:00,240 --> 00:18:10,160
+A ruína dele, ele transforma em um, em alguma coisa de valor. Opa! Aí nós já temos o fio da meada,
+
+132
+00:18:10,480 --> 00:18:21,000
+né? E a gente vai acompanhar o estudo inteiro. Qual que é o talento desse molusco? Qual que é o
+
+133
+00:18:21,000 --> 00:18:36,080
+talento lá da, da ostra? Pegar alguma coisa que chega ao seu interior como inimigo, como algo
+
+134
+00:18:36,279 --> 00:18:45,519
+atingido, algo letal, que tinha tudo para representar a sua ruína e transformar aquilo em alguma coisa,
+
+135
+00:18:45,519 --> 00:19:03,119
+precioso, valoroso, belo. Então, já de cara eu vou perguntar para vocês.
+
+136
+00:19:03,120 --> 00:19:28,640
+O que que é a concha em nós? Coração. O que que é o corpo estranho? O inimigo intruso que
+
+137
+00:19:28,640 --> 00:19:42,080
+entra o nosso coração? Sentimentos tóxicos, sentimentos nocivos, sentimentos infelizes.
+
+138
+00:19:44,960 --> 00:19:52,080
+O ciúme é um corpo estranho. Deus não criou nenhum coração ciumento.
+
+139
+00:19:53,079 --> 00:20:04,319
+Deus não criou nenhum coração ciumento, assim como Deus não criou nenhum rim com pedra.
+
+140
+00:20:08,000 --> 00:20:15,279
+A pedra é resultado das Coca-Cola que nós tomamos, da pouca água que a gente bebe.
+
+141
+00:20:15,279 --> 00:20:28,240
+Então, um coração é uma concha, e em algum momento ele detecta que no seu interior, na sua
+
+142
+00:20:28,240 --> 00:20:39,279
+intimidade, tem um intruso, é o ciúme, tem um intruso, é a paixão, é o ódio, é antipatia,
+
+143
+00:20:39,359 --> 00:20:55,599
+antia, algeriza por alguém, o ressentimento, a mágoa. Isso é o corpo estranho que precisa,
+
+144
+00:20:55,599 --> 00:21:06,799
+sob pena de representar, a nossa ruína. Precisa ser, além de neutralizado, transformado em
+
+145
+00:21:06,799 --> 00:21:25,440
+uma coisa de muito valor, em uma margaritasa, em uma pérola. Entenderam? Esse homem negociante
+
+146
+00:21:25,440 --> 00:21:41,559
+procurava tesouros fora, no consumidor que chegava no mercado dele, no paciente que chegava no
+
+147
+00:21:41,559 --> 00:21:55,039
+consultório dele, no cliente que chegava no escritório de engenharia dele. Fora, era o dinheiro,
+
+148
+00:21:55,440 --> 00:22:10,480
+era o cheque, era o telefone, era o carro, era o imóvel, estava fora. Quando ele parou de se
+
+149
+00:22:10,480 --> 00:22:16,960
+interessar demasiadamente, ou pelo menos de se entusiasmar com esse tesouro exterior,
+
+150
+00:22:16,960 --> 00:22:34,079
+sobrou tempo e disposição, tempo e energia para ele olhar para dentro. E aí ele descobriu,
+
+151
+00:22:34,079 --> 00:22:47,359
+no estojinho, na conchazinha dele, três pérolas, vou falar três, número aleatório, três pérolas.
+
+152
+00:22:47,359 --> 00:23:02,639
+Olha, são antigos sentimentos negativos que eu já consegui transformar em pérola de virtude,
+
+153
+00:23:02,880 --> 00:23:12,080
+sentimentos positivos. O ciúme que eu sentia da minha esposa, hoje eu não sinto mais,
+
+154
+00:23:12,080 --> 00:23:22,600
+virou uma amizade, um sentimento de companheirismo, de respeito mútuo, é uma pérola. O ódio que eu
+
+155
+00:23:22,600 --> 00:23:30,960
+sentia daquele meu inimigo, há 30 anos atrás, ou há 300 anos atrás, eu transformei em outra pérola,
+
+156
+00:23:30,960 --> 00:23:43,519
+hoje é um sentimento de misericórdia, compaixão, solidariedade. A paixão física que eu senti por uma
+
+157
+00:23:43,519 --> 00:23:55,039
+namorada há muitos anos atrás, hoje eu transformei em amizade fraternal, outra pérola. Ixi, mas ainda
+
+158
+00:23:55,039 --> 00:24:02,519
+tem muito corpo estranho ali para virar pérola, ainda tem grãozinho de areia intruso que não
+
+159
+00:24:02,519 --> 00:24:10,960
+devia estar ali dentro, que se eu não transfizer com esses corpos estranhos o mesmo processo que
+
+160
+00:24:10,960 --> 00:24:23,359
+eu fiz com esses outros, vai me machucar por dentro, vai me adoecer. Agora, esse processo de
+
+161
+00:24:23,360 --> 00:24:32,960
+conhecimento das pérolas já transformadas, a Carlos Margaritaz, as boas pérolas, mas também
+
+162
+00:24:32,960 --> 00:24:42,160
+de constatação daquilo que ainda pode vir a ser pérola, só se deu, porque ele parou de olhar para
+
+163
+00:24:42,160 --> 00:24:57,600
+dentro, e aí sobrou tempo e disposição para olhar para dentro. Quem vive tomado, absorvido,
+
+164
+00:24:57,600 --> 00:25:11,080
+tragado pelos interesses materiais do mundo, não tem tempo e nem energia para fazer esse exercício.
+
+165
+00:25:11,480 --> 00:25:17,960
+E aqui eu tô falando da questão 919 do Livro dos Espíritos, aquela do Santo Agostinho.
+
+166
+00:25:24,519 --> 00:25:34,799
+O sujeito, depois que ele trabalhou oito horas no emprego, pensa, é, eu vou pegar, vou fazer o meu
+
+167
+00:25:34,799 --> 00:25:40,839
+serviço de casa, vou fazer um extra para chegar com o serviço pronto, para impressionar meu chefe,
+
+168
+00:25:40,839 --> 00:25:50,240
+para ele me promover, porque eu quero ganhar mais. Aí ele chega em casa e vai lá, depois das oito
+
+169
+00:25:50,240 --> 00:26:04,359
+horas, trabalha mais sete horas em casa. Daqui a pouco ele tá pescando baleia na frente do
+
+170
+00:26:04,360 --> 00:26:17,240
+namorador. O que ele vai fazer? Vai dormir. Deu para ele fazer o que o Santo Agostinho manda fazer?
+
+171
+00:26:17,240 --> 00:26:26,320
+Lembra? Da auto reflexão, auto análise do dia? Dele antes de fazer isso, abrir uma página do
+
+172
+00:26:26,519 --> 00:26:36,519
+ele leu uma paginazinha do Emmanuel? Não deu. Ou às vezes sobra tempo, ele não fez isso,
+
+173
+00:26:36,519 --> 00:26:43,799
+mas o dia ele se envolveu emocionalmente, de tal maneira, com os ganhos e as perdas,
+
+174
+00:26:43,799 --> 00:26:55,319
+ele chega em casa exaurido. Por exemplo, ele levou para casa a decepção na queda de faturamento da
+
+175
+00:26:55,319 --> 00:27:02,079
+casa. Ele tem até tempo para fazer a auto análise que o Santo Agostinho propõe na questão 919,
+
+176
+00:27:02,079 --> 00:27:08,919
+mas não tem disposição, não tem energia. E assim ele vai atravessando ano após ano, ano após ano,
+
+177
+00:27:08,919 --> 00:27:18,960
+o patrimônio material dele vai aumentando, as pérolas do porta-jóias do guarda-roupa vão aumentando,
+
+178
+00:27:19,600 --> 00:27:30,960
+mas a concha do coração está cheia de grão de areia, inflamando o espírito, intoxicando a
+
+179
+00:27:30,960 --> 00:27:40,319
+intimidade do ser e não tem uma pérolas por dentro. E as que tem estão ali abandonadas,
+
+180
+00:27:40,319 --> 00:27:44,319
+porque ele não olha para dentro, ele não tem consciência que as tem, ele não sabe nem que é
+
+181
+00:27:44,319 --> 00:27:50,319
+o que vai fazer isso, transformar grão de areia em perma, transformar sentimento negativo,
+
+182
+00:27:50,319 --> 00:27:59,720
+sentimento nobre. É onde que ele vai levando o casamento aos trampos e barrancos com o sentimento
+
+183
+00:27:59,720 --> 00:28:08,439
+que ele sente pela esposa ou sente pelo esposo, um sentimento ruim, adoecido, vai atravessando os
+
+184
+00:28:08,440 --> 00:28:14,200
+filhos, uma relação com os filhos, uma relação doente, porque o sentimento dele com os filhos é
+
+185
+00:28:14,200 --> 00:28:21,240
+tóxico e ele não se dá conta disso, ele não tem tempo nem disposição para fazer essa autoanálise,
+
+186
+00:28:21,240 --> 00:28:37,960
+para procurar pérolas boas. Quando esse homem acorda, se desgosta, desanima, se decepciona,
+
+187
+00:28:38,120 --> 00:28:46,519
+se desilude, que é a palavra que para mim cai como uma luva, porque esse entusiasmo comum
+
+188
+00:28:46,519 --> 00:28:56,120
+da ilusão, quando a gente se desilude, o sujeito deu sangue pela empresa, 40 anos, sangrava pela
+
+189
+00:28:56,120 --> 00:29:03,960
+empresa, a empresa demite ele, aí ele fica desiludindo. Eu tive uma desilusão profissional,
+
+190
+00:29:04,279 --> 00:29:17,640
+perdeu a ilusão. Quando isso acontece, aí ele fala, nossa, mas será que a vida era só isso? Será que
+
+191
+00:29:17,640 --> 00:29:25,480
+não tem alguma outra coisa? Aí Jesus já começa a bater palminha lá e agora que vai começar a
+
+192
+00:29:25,480 --> 00:29:31,799
+procurar as pérolas e vai encontrar, aí vai ficar feliz com as duas pérolas que ele vai achar no
+
+193
+00:29:32,039 --> 00:29:38,919
+trão e vai querer transformar os outros corpos estranhos em pérolas e vai se tornar um homem
+
+194
+00:29:38,919 --> 00:30:01,720
+verdadeiramente rico, autenticamente, genuinamente rico. Tá claro até agora? Foi só introdução,
+
+195
+00:30:02,599 --> 00:30:09,480
+porque agora nós vamos pegar no chifre do boi, é com o livro Apocalipse. Semana passada a gente não
+
+196
+00:30:09,480 --> 00:30:18,519
+leu Apocalipse? No livro Apocalipse, que fala de nossos dias, Jesus já, o evangelista aliás,
+
+197
+00:30:18,519 --> 00:30:25,879
+João evangelista ali, já através das revelações que ele tem, ele já não fala do homem de negócio,
+
+198
+00:30:25,880 --> 00:30:32,760
+pois hoje ele vai falar das pérolas, quando ele vai descrever a cidade celestial, a Gerudalém
+
+199
+00:30:32,760 --> 00:30:40,680
+celestial, que na verdade é o mundo vindouro, o mundo vindouro adentro, interior, no coração dos
+
+200
+00:30:40,680 --> 00:30:53,400
+corpos. E aí no capítulo 21, no versículo 21, então é Apocalipse 21, 21. Em que ano estamos?
+
+201
+00:30:53,880 --> 00:31:11,720
+2 mil e 21, mas isso é só uma coincidência. Eita! Apocalipse 21, 21, abre aspas. E as 12 portas eram
+
+202
+00:31:11,720 --> 00:31:25,960
+feitas de margaritas, uma em cada uma, e cada porta era feita de uma margarita. Então ele,
+
+203
+00:31:25,960 --> 00:31:35,559
+na visão dele, que a gente acha que fantasia, viagem, que se chama de Apocalipse, é figurativo,
+
+204
+00:31:36,359 --> 00:31:49,079
+mas com as chaves interpretativas corretas, a gente, então, na Gerudalém celestial, haviam 12 portas
+
+205
+00:31:49,079 --> 00:31:59,480
+feitas de pérolas. Então olha lá, primeiro 12, nós já estudamos, que em hebraico é o Lamed,
+
+206
+00:31:59,480 --> 00:32:10,839
+a mesma letra, o Lamed. O Lamed é o número 12, o número 12 na matemática hebraica, e ao mesmo
+
+207
+00:32:10,839 --> 00:32:22,680
+tempo é a letra Lamed, porque é a 12ª letra do alfabeto hebraico. 12. O Lamed é aquela letrinha
+
+208
+00:32:22,680 --> 00:32:28,680
+hebraica que tem a forma de um cajado, o cajado do pastor, o Lamed representa a liderança. Por
+
+209
+00:32:28,680 --> 00:32:34,680
+isso que eram 12 tribos, por isso que eram 12 discípulos, porque eram 13, porque não 11,
+
+210
+00:32:34,680 --> 00:32:43,200
+porque o 12 representa liderança no processo de condução. Do mesmo jeito que o pastor conduz a
+
+211
+00:32:43,200 --> 00:32:55,120
+ovelha, as tribos de Israel, a nação hebraica, conduziria toda a humanidade, um processo de
+
+212
+00:32:55,120 --> 00:33:02,880
+libertação espiritual. E do Mesaforba os 12 apostos teriam essa responsabilidade com as gerações
+
+213
+00:33:02,880 --> 00:33:11,880
+de cristãos vindouros. O 12 representa isso, essa liderança no processo de condução espiritual.
+
+214
+00:33:11,880 --> 00:33:21,760
+Agora, condução na tradição hebraica é libertação. Ó, Abraão conduz as tribos escravas na região da
+
+215
+00:33:21,759 --> 00:33:28,640
+cidade da Babilônia, da Mesopotâmia, na cidade de Ur, para ser mais exato, um processo de libertação
+
+216
+00:33:28,640 --> 00:33:40,960
+até a terra prometida, até Canaã. Depois Moisés, também pastor, faz a mesma coisa, ele conduz as
+
+217
+00:33:40,960 --> 00:33:47,839
+tribos de Israel saindo do Egito, um processo de libertação de volta para Canaã. E Jesus vai
+
+218
+00:33:47,840 --> 00:33:55,040
+tentar isso junto com os 12 discípulos, né? Essa condução para a libertação. Mas Luís, tem certeza que
+
+219
+00:33:55,040 --> 00:34:01,880
+essa condução é para libertação? Bom, pérola em hebraico, porque nós falamos pérola em grego,
+
+220
+00:34:01,880 --> 00:34:17,320
+mas garitas em hebraico, sabe como é que é? Dar. Dar. A palavra dar, que é pérola,
+
+221
+00:34:17,640 --> 00:34:23,880
+vem do mesmo radical de onde vem a palavra deror, que é a libertação de escravo.
+
+222
+00:34:25,400 --> 00:34:33,920
+Aquela libertação lá do jubileu, né? Sete em sete anos, os escravos eram libertos, a libertação de quem
+
+223
+00:34:33,920 --> 00:34:42,640
+é escravo. Olha só, a palavra pérola e a palavra utilizada para representar a libertação de um escravo,
+
+224
+00:34:42,719 --> 00:34:51,199
+ambas têm o mesmo radical, e seriam ali duas consoantes, né? O nosso D e o nosso R.
+
+225
+00:34:51,199 --> 00:35:06,920
+O dar e o ar. Então, olha, dar, deror, ou daror, tem o mesmo radical. Pérola e libertação. Então,
+
+226
+00:35:07,000 --> 00:35:24,639
+a porta de pérola é uma porta de libertação. As doze portas de pérolas são portas libertadoras.
+
+227
+00:35:24,639 --> 00:35:32,639
+Agora, Jesus falou a principal característica de toda porta de libertação. Ela é estreita ou ela é larga?
+
+228
+00:35:33,639 --> 00:35:52,359
+Ela é estreita. Ela é estreita. Eita! Isso quer dizer que se o dar ou a margarita, a pérola, é resultado de um
+
+229
+00:35:52,359 --> 00:36:02,000
+processo de transmutação do sentimento negativo no sentimento positivo, do corpo estranho,
+
+230
+00:36:02,000 --> 00:36:11,480
+doloroso, na pedra preciosa, perolada? Então, quer dizer que esse processo, sendo da porta estreita,
+
+231
+00:36:11,480 --> 00:36:24,039
+é um processo sempre muito doloroso, muito difícil, muito desafiador. Não é mamão com açúcar.
+
+232
+00:36:24,039 --> 00:36:33,400
+Não é manteiguinha no pão. Não é. É dureza.
+
+233
+00:36:36,239 --> 00:36:42,159
+Vamos recapitular? Eu tenho medo dessas metáforas todas vocês se perderem. Então, vamos lá. A primeira
+
+234
+00:36:42,159 --> 00:36:51,759
+metáfora que a gente trabalhou, a da pérola. A pérola representa a capacidade que todo coração humano
+
+235
+00:36:51,760 --> 00:37:03,120
+tem de transformar um sentimento doente por alguém, por exemplo, o ciúme, num sentimento belo, nobre,
+
+236
+00:37:03,120 --> 00:37:13,240
+precioso, como por exemplo, a fraternidade. A concha, o coração. A pérola é o resultado dessa transmutação
+
+237
+00:37:13,240 --> 00:37:26,440
+dessa transsubstanciação. Quando em Apocalipse a mensagem revelada fala que no mundo vidouro as portas
+
+238
+00:37:26,440 --> 00:37:41,360
+de libertação são peroladas, são de pérola, está afirmando que cada vez que eu transformo um sentimento
+
+239
+00:37:41,480 --> 00:37:50,880
+negativo do meu coração em alguma coisa positiva, eu abro uma porta nova para a minha libertação.
+
+240
+00:37:50,880 --> 00:38:05,760
+Porém, atravessar essa porta porque ela é estreita não é fácil. Não é fácil. Estão entendendo?
+
+241
+00:38:05,760 --> 00:38:16,400
+Vamos falar de casamento. Eu tô falando esse exemplo do ciúme porque na semana passada a gente
+
+242
+00:38:16,400 --> 00:38:21,600
+falou bastante questão econômica, social, hoje nós vamos falar uma coisa mais familiar. Vamos pensar no
+
+243
+00:38:21,600 --> 00:38:30,440
+casamento. Olha, o casamento. Eu começo a perceber que o que eu sinto pelo meu esposo não é legal.
+
+244
+00:38:31,400 --> 00:38:37,159
+Não é legal porque assim, quando ele fala que vai sair para fazer uma caminhada eu sinto um
+
+245
+00:38:37,159 --> 00:38:43,320
+negócio esquisito, eu já fico pensando e se ele encontrar com a moça bonita durante a caminhada e
+
+246
+00:38:43,320 --> 00:38:49,840
+se ele achar a vizinha muito formosa e aquilo me incomoda e eu fiquei em casa lavando louça
+
+247
+00:38:49,840 --> 00:39:00,079
+e eu estava maldada com ele fazendo a caminhada. Aí cai minha ficha. Isso que eu sinto por ele tá
+
+248
+00:39:00,079 --> 00:39:10,559
+me fazendo bem? Não. Tá machucando meu coração. É que minha pedrinha dentro do sapato. É um grãozinho
+
+249
+00:39:10,559 --> 00:39:19,360
+de areia dentro da minha concha. Tá me inflamando por dentro. O que que eu preciso fazer?
+
+250
+00:39:20,840 --> 00:39:26,559
+Neutralizar esse corpo estranho. Não tem como expulsar, não tem como eu parar de sentir algo por
+
+251
+00:39:26,559 --> 00:39:37,160
+ele. Não tem como eu por a areia para fora. Eu só posso transformar isso. Pergunta vocês. As senhoras,
+
+252
+00:39:37,160 --> 00:39:47,559
+vocês já devem ter sentido o ciúme do marido alguma vez, né? É fácil transformar esse sentimento?
+
+253
+00:39:47,599 --> 00:39:58,960
+Não é. É um processo difícil. Vai custar muito choro e daqueles choros soluçado debaixo do banho.
+
+254
+00:39:58,960 --> 00:40:03,759
+Aqueles que aí depois o marido pergunta o que que foi? Você fala, o xampu caiu no meu olho.
+
+255
+00:40:03,759 --> 00:40:14,920
+Não, eu tava chorando. Não é um processo fácil. Mas quando você consegue, aquilo que você passa a
+
+256
+00:40:14,920 --> 00:40:25,680
+sentir, essa coisa nova, nobre, luxuosa que você passa a sentir por ele, é pérola. É porta libertadora
+
+257
+00:40:25,680 --> 00:40:40,000
+de salvação. E vai servir de referência para as outras coisas. Daí o 12. Cada pérola do meu coração,
+
+258
+00:40:40,000 --> 00:40:46,719
+cada sentimento do nobre do meu coração é liderança no processo de transformação dos
+
+259
+00:40:46,719 --> 00:40:56,920
+outros sentimentos que não são tão nobres. Tipo, cai sua ficha de que se eu conseguir aperfeiçoar,
+
+260
+00:40:56,920 --> 00:41:05,920
+aprimorar, qualificar o que eu sinto pelo meu marido, eu consigo pelo que eu sinto pelo meu filho,
+
+261
+00:41:05,920 --> 00:41:11,400
+eu consigo pelo que eu sinto pela minha nora, eu consigo pelo que eu sinto pelo meu pai.
+
+262
+00:41:15,400 --> 00:41:23,440
+Entenderam? Esse sentimento nobre, rico, valioso, ele tem a liderança dentro do meu coração.
+
+263
+00:41:23,440 --> 00:41:32,800
+Ele vai conduzir os outros sentimentos menos nobres. E aí isso se exterioriza, quando a
+
+264
+00:41:32,880 --> 00:41:40,280
+concha se abre. Eita, mas aí é bonito. Só que a concha só vai se abrir, ou seja,
+
+265
+00:41:40,280 --> 00:41:49,120
+você só vai exteriorizar o seu tesouro íntimo, quando tudo que houver nele for tesouro.
+
+266
+00:41:51,120 --> 00:41:59,000
+É o anjo. Quem é o anjo? É alguém que a concha se abre e os outros olham para aquele coração e falam assim,
+
+267
+00:41:59,000 --> 00:42:16,599
+uau, como brilha, como é belo. Daí o anjo também assumir essa liderança. Tá claro isso,
+
+268
+00:42:16,599 --> 00:42:23,840
+gente? Vamos avançar? Senão vou ter que deixar para semana que vem de novo. Não, né? Vamos fechar nessa.
+
+269
+00:42:24,680 --> 00:42:37,160
+Ó, lá no livro Pão Nosso, o Emmanuel fala no capítulo 86, ele fala numa lição
+
+270
+00:42:37,160 --> 00:42:46,039
+intitulada Intentar e Agir, um comentário sobre Paulo Hebreus 12 e 13, em que Paulo diz assim,
+
+271
+00:42:46,039 --> 00:42:56,599
+e fazeie veredas direitas para os vossos pés, para que o que manqueja se não desvie inteiramente,
+
+272
+00:42:56,599 --> 00:43:11,679
+mas antes seja sarado. Então lá, veredas direitas, caminho reto. Os nossos caminhos são tortos,
+
+273
+00:43:11,679 --> 00:43:23,559
+a gente precisa endireitá-los, retificá-los. Trocando miúdos, a nossa relação com o outro é um caminho,
+
+274
+00:43:23,559 --> 00:43:30,399
+a nossa relação com o familiar, a nossa relação com colega de serviço, a nossa relação com colega
+
+275
+00:43:30,400 --> 00:43:42,800
+de espirito, é um caminho. Tem tudo para oferecer sinuosidade, tortuosidade, mas eu preciso endireitá-lo.
+
+276
+00:43:42,800 --> 00:43:56,200
+Eu preciso aplainá-lo, pavimentá-lo, sabe por quê? Porque os meus pés vão pisar nele. O que que é pé? Sentimento.
+
+277
+00:43:57,200 --> 00:44:05,800
+Quando os sentimentos andam numa estrada torta, esburacada, sinuosa, cheia de pedra de tropeço,
+
+278
+00:44:05,800 --> 00:44:16,800
+o que que acontece? Incidente, eu me machuco. Quando os meus sentimentos vão se relacionar com uma pessoa
+
+279
+00:44:17,400 --> 00:44:29,600
+e a base dessa relação não é decente, não é saudável, eu vou me machucar. Eu vou me machucar.
+
+280
+00:44:35,400 --> 00:44:44,200
+Até aí tá claro? Então eu preciso endireitar o caminho, ou seja, eu preciso proteger o grão de areia,
+
+281
+00:44:44,800 --> 00:44:53,200
+transformá-lo em pérola, para servir de referência para o outro, para alguém.
+
+282
+00:44:56,000 --> 00:45:07,200
+Nossa, olha que relação bonita que a Cíntia tem com o Murilo. Nossa, eu quero viver alguma coisa assim com a Juju.
+
+283
+00:45:08,200 --> 00:45:21,200
+Eu quero viver uma relação assim. Então aquele casal veterano, né, que enobreceu o seu sentimento,
+
+284
+00:45:21,200 --> 00:45:31,200
+se torna um referência, ou seja, estrada endireitada, que vai servir de parâmetro, de paradigma para mim e para Juju,
+
+285
+00:45:31,200 --> 00:45:37,400
+nós somos um casal mais jovem, menos experimentado. Tá entendendo, gente?
+
+286
+00:45:41,000 --> 00:45:49,800
+Voltando para o exemplo da pérola, na hora que eu vejo as pernas no estojo do coração do seu Murilo,
+
+287
+00:45:49,800 --> 00:45:58,200
+como pai de família, eu quero ter alguma coisa parecida no meu estojo, na minha concha.
+
+288
+00:45:58,200 --> 00:46:08,200
+Eu quero essas pérolas também, porque a gente não pode ser ingênuo. Se o seu Murilo apresenta um coração cheio de virtudes,
+
+289
+00:46:08,200 --> 00:46:17,200
+cheio de pérolas, é porque ele se dispôs a fazer aquela transsubstanciação custosa que eu mencionei antes.
+
+290
+00:46:18,200 --> 00:46:26,200
+Opa, ele deve ter sofrido muito para transformar o sentimento, aperfeiçoar tanto o sentimento que ele tem pela dona Cíntia.
+
+291
+00:46:26,200 --> 00:46:35,200
+Então eu vou ter que fazer esse mesmo esforço, hercúlio, para amadurecer, aperfeiçoar o sentimento que eu tenho pela Juju.
+
+292
+00:46:38,200 --> 00:46:48,200
+Esse tipo de liderança que o Emmanuel está mencionando aqui, aí ele vai dizer, o homem bem intencionado refletirá intensamente,
+
+293
+00:46:48,200 --> 00:47:02,200
+o brilho, refletirá intensamente os melhores caminhos, alimentando ideais superiores e inclinando-se à bondade e à justiça.
+
+294
+00:47:05,200 --> 00:47:15,200
+Convenhamos, porém, que a boa intenção passará sem maior benefício, caso não se ligue à esfera das realidades imediatas na ação reta.
+
+295
+00:47:15,200 --> 00:47:23,200
+É necessário meditar no bem, todavia é imprescindível executá-lo.
+
+296
+00:47:24,200 --> 00:47:38,200
+Quando é, em que momento é, que eu exponho, que eu torno visível os tesouros do meu coração, as estradas retas do meu caminho?
+
+297
+00:47:39,200 --> 00:47:40,200
+Quando eu caminho.
+
+298
+00:47:46,200 --> 00:47:51,200
+Não funciona assim. Olha, vejam como a minha estrada é reta. Não é? Funciona assim.
+
+299
+00:47:53,200 --> 00:48:00,200
+Para eu demonstrar que ela é uma estrada apavimentada, aplainada, endireitada, o que eu tenho que fazer?
+
+300
+00:48:02,200 --> 00:48:07,200
+Caminhar por ela, exemplificar, viver.
+
+301
+00:48:09,200 --> 00:48:13,200
+Uma coisa, voltando ao exemplo do casamento, seria o seu Murilo ligar para mim e falar assim,
+
+302
+00:48:13,200 --> 00:48:20,200
+Luiz, eu queria conversar hoje com você sobre casamento, meu filho. Me dá uma porção de conselhos.
+
+303
+00:48:24,200 --> 00:48:35,200
+Sobre como é ser bom marido. Outra coisa é eu estar gravando, humildinho, e ver na tela a Dona Cintia virar assim e o seu Murilo ir lá e coçar as costas dela.
+
+304
+00:48:36,200 --> 00:48:46,200
+Isso é um conselho vivo. Outra coisa é o esposo da Ana Paula passar e dar um beijinho nela enquanto ela assiste, humildinho.
+
+305
+00:48:46,200 --> 00:48:53,200
+Eu vi. E falei, não, que bonitinho. Isso é um exemplo vivo.
+
+306
+00:48:55,200 --> 00:48:59,200
+Esses sentimentos, eles são expressos.
+
+307
+00:49:00,200 --> 00:49:08,200
+Aí eu consegui transformar um sentimento areia num sentimento pérola. Então brilha.
+
+308
+00:49:10,200 --> 00:49:13,200
+Como é que eu vou saber que é pérola? Porque ele vai brilhar.
+
+309
+00:49:14,200 --> 00:49:16,200
+Porque alguém vai me dizer.
+
+310
+00:49:18,200 --> 00:49:22,200
+Tá claro isso? Vamos avançar então?
+
+311
+00:49:22,200 --> 00:49:29,200
+Outra contribuição do Emmanuel. Agora num livro, qual o nosso? Capítulo 79.
+
+312
+00:49:30,200 --> 00:49:34,200
+O mas e os discípulos.
+
+313
+00:49:36,200 --> 00:49:39,200
+Ah, Luiz, será que eu sou capaz?
+
+314
+00:49:40,200 --> 00:49:44,200
+Eu queria tanto ter pérolas no meu coração.
+
+315
+00:49:45,200 --> 00:49:48,200
+Eu queria tanto ter uma estrada endireitada, mas...
+
+316
+00:49:48,200 --> 00:49:56,200
+Mas... aí vem. Mas... eu sou cheio de defeito. Mas... eu ainda trabalho muito. Ah, mas...
+
+317
+00:49:57,200 --> 00:50:02,200
+Mas... o Emmanuel vai falar desse mas. E ele diz assim, ó.
+
+318
+00:50:04,200 --> 00:50:06,200
+Aliás, o Paulo. Primeiro vem o versículo do Paulo, né?
+
+319
+00:50:07,200 --> 00:50:10,200
+Tudo posso naquele que me fortalece.
+
+320
+00:50:11,200 --> 00:50:21,200
+Eu um dia serei capaz de transformar um sentimento grão de areia num sentimento pérola? Serei.
+
+321
+00:50:22,200 --> 00:50:28,200
+Porque eu sou muito bom. Eu sou craque. Eu sou fera. Não.
+
+322
+00:50:29,200 --> 00:50:36,200
+Porque existe um Cristo que me fortalece. A força vem dele.
+
+323
+00:50:37,200 --> 00:50:45,200
+E parte de Deus. Ele distribui. O Cristo do meu órgão. Nosso Senhor Jesus Cristo.
+
+324
+00:50:46,200 --> 00:50:51,200
+Eu serei capaz sim. Porque Jesus quer.
+
+325
+00:50:52,200 --> 00:50:56,200
+Porque ele vai me fortalecer para isso.
+
+326
+00:50:57,200 --> 00:51:05,200
+É a história da autoestima, né? Autoestima com Jesus é coragem.
+
+327
+00:51:06,200 --> 00:51:11,200
+Autoestima sem Jesus é vaidade. É arrogância.
+
+328
+00:51:18,200 --> 00:51:24,200
+Ah, eu vou conseguir. Eu vou amadurecer meu sentimento pelo meu filho.
+
+329
+00:51:25,200 --> 00:51:29,200
+Porque eu tenho um sentimento de posse muito grande pelo meu filho.
+
+330
+00:51:30,200 --> 00:51:34,200
+Eu não quero que ele vai fazer faculdade fora. Eu quero que ele fique aqui debaixo da minha asa.
+
+331
+00:51:35,200 --> 00:51:39,200
+Porque aqui eu estou vendo o que ele faz. Porque aqui ele vai trabalhar comigo. Na minha empresa.
+
+332
+00:51:40,200 --> 00:51:46,200
+Meu, filho. Esse sentimento é doente. É um grãozinho de areia no coração.
+
+333
+00:51:47,200 --> 00:51:52,200
+É corpo estranho. Não devia estar ali. Tem que amadurecer.
+
+334
+00:51:53,200 --> 00:52:00,200
+Ah, eu vou conseguir. Não, eu vou amadurecer. Porque tudo que eu quero eu consigo. Então vou conseguir.
+
+335
+00:52:01,200 --> 00:52:05,200
+Tenta fazer isso sem o Cristo. E vai para frente.
+
+336
+00:52:06,200 --> 00:52:10,200
+Você vai se violentar, agredir seu filho e não vai conseguir.
+
+337
+00:52:12,200 --> 00:52:16,200
+Eu preciso ter como paradigma tudo que Jesus fez.
+
+338
+00:52:16,200 --> 00:52:20,200
+Ou os seus enviados. Eu preciso de uma referência.
+
+339
+00:52:21,200 --> 00:52:25,200
+Porque tem um sujeito que não é cristão, mas tem como referência Buda.
+
+340
+00:52:27,200 --> 00:52:29,200
+Por exemplo.
+
+341
+00:52:30,200 --> 00:52:35,200
+Então eu preciso ter, ou Jesus, um dos seus luminares, dos seus satélites.
+
+342
+00:52:38,200 --> 00:52:42,200
+Eu preciso saber como é que eles brilharam para que eu possa fazer isso.
+
+343
+00:52:43,200 --> 00:52:47,200
+Eu preciso saber como é que eles brilharam para que eu possa brilhar também.
+
+344
+00:52:48,200 --> 00:52:50,200
+Tá claro isso?
+
+345
+00:52:53,200 --> 00:52:56,200
+Aí se for assim vai ser possível. Tanto que o Emmanuel diz.
+
+346
+00:52:57,200 --> 00:53:02,200
+O discípulo aplicado a severa de mim mesmo nada possui de bom.
+
+347
+00:53:03,200 --> 00:53:08,200
+Mas Jesus me suprirá de recursos segundo as minhas necessidades.
+
+348
+00:53:08,200 --> 00:53:10,200
+Olha que coisa linda.
+
+349
+00:53:11,200 --> 00:53:15,200
+Eu não posso nada, mas Jesus vai me erguer e me fazer caminhar.
+
+350
+00:53:17,200 --> 00:53:19,200
+Mas. Viram mas?
+
+351
+00:53:20,200 --> 00:53:22,200
+Eu não posso, D.J.
+
+352
+00:53:23,200 --> 00:53:25,200
+Mas Jesus pode.
+
+353
+00:53:28,200 --> 00:53:32,200
+Mas tem outra maneira negativa de usar o mas.
+
+354
+00:53:34,200 --> 00:53:36,200
+Vamos ver como é que é?
+
+355
+00:53:38,200 --> 00:53:42,200
+Não disponho de perfeito conhecimento do caminho.
+
+356
+00:53:43,200 --> 00:53:47,200
+Aliás, isso aí é um outro bom exemplo. Não disponho de perfeito conhecimento do caminho.
+
+357
+00:53:48,200 --> 00:53:50,200
+Mas Jesus me conduzirá. Ótimo exemplo.
+
+358
+00:53:51,200 --> 00:53:53,200
+Agora vamos ver um exemplo negativo.
+
+359
+00:53:54,200 --> 00:53:56,200
+Não descreio da bondade de Jesus.
+
+360
+00:53:57,200 --> 00:53:59,200
+Mas tenho forças para o trabalho cristão.
+
+361
+00:54:00,200 --> 00:54:03,200
+Mas não tenho força para o trabalho cristão. Hoje eu tô lendo péssima mente.
+
+362
+00:54:04,200 --> 00:54:06,200
+Vocês me desculpem.
+
+363
+00:54:07,200 --> 00:54:09,200
+Olha o sujeito.
+
+364
+00:54:10,200 --> 00:54:14,200
+Eu sei que Jesus quer o melhor de mim, mas eu não sou lá essas coisas.
+
+365
+00:54:17,200 --> 00:54:23,200
+Eu sei que Jesus quer que eu supere aquele ressentimento, mas eu não vou dar conta não.
+
+366
+00:54:24,200 --> 00:54:26,200
+Eu sou muito rancoroso.
+
+367
+00:54:26,200 --> 00:54:28,200
+Eu sou muito rancoroso.
+
+368
+00:54:30,200 --> 00:54:32,200
+Inverte.
+
+369
+00:54:36,200 --> 00:54:40,200
+Tem aquela situação em que Jesus consegue apesar de mim.
+
+370
+00:54:43,200 --> 00:54:45,200
+E aquela outra situação.
+
+371
+00:54:47,200 --> 00:54:49,200
+Jesus consegue.
+
+372
+00:54:50,200 --> 00:54:52,200
+Mas, e eu?
+
+373
+00:54:53,200 --> 00:54:55,200
+Tá entendendo?
+
+374
+00:54:56,200 --> 00:55:01,200
+Gente, eu tô enfatizando essa mensagem, eu trouxe ela, inseri ela no estudo,
+
+375
+00:55:02,200 --> 00:55:09,200
+porque a coisa que mais nos dificulta esse processo de reconhecimento das pérolas interiores,
+
+376
+00:55:10,200 --> 00:55:12,200
+que é o que o homem de negócios faz,
+
+377
+00:55:13,200 --> 00:55:17,200
+é a pouca credibilidade que temos conosco mesmo.
+
+378
+00:55:17,200 --> 00:55:24,200
+A gente não confia no poder de realização que temos quando associados a Jesus.
+
+379
+00:55:25,200 --> 00:55:29,200
+Aí a gente se acomoda, deita em berço esplêndido.
+
+380
+00:55:31,200 --> 00:55:37,200
+Com Jesus, de mãos dadas com ele, podemos maravilhas,
+
+381
+00:55:38,200 --> 00:55:41,200
+inclusive transformar um grão de areia em pérola.
+
+382
+00:55:42,200 --> 00:55:46,200
+Inclusive transformar um grão de areia em pérola.
+
+383
+00:55:47,200 --> 00:55:48,200
+Com Jesus.
+
+384
+00:55:49,200 --> 00:55:52,200
+E aí o Emmanuel termina essa lição dizendo assim.
+
+385
+00:55:55,200 --> 00:55:59,200
+O primeiro caso galga a montanha da decisão,
+
+386
+00:56:00,200 --> 00:56:04,200
+identifica as próprias faquezas e, entretanto, confia no divino amigo.
+
+387
+00:56:05,200 --> 00:56:10,200
+O segundo estima o descanso no vale fundo da experiência inferior.
+
+388
+00:56:11,200 --> 00:56:13,200
+Reconhece as graças do mestre,
+
+389
+00:56:14,200 --> 00:56:17,200
+todavia prefere furtar-se a elas.
+
+390
+00:56:18,200 --> 00:56:24,200
+O mas é a conjunção que nos processos verbalistas,
+
+391
+00:56:25,200 --> 00:56:28,200
+habitualmente nos define a posição íntima perante o Evangelho.
+
+392
+00:56:29,200 --> 00:56:35,200
+Colocando a frente do Santo nome, exprime-nos a firmeza e a confiança,
+
+393
+00:56:36,200 --> 00:56:37,200
+a fé e o valor.
+
+394
+00:56:37,200 --> 00:56:40,200
+Contudo, localizado depois dele,
+
+395
+00:56:41,200 --> 00:56:47,200
+situa-nos a indecisão e a ansiosidade, a impermeabilidade e a indiferença.
+
+396
+00:56:48,200 --> 00:56:51,200
+Onde é que eu vou colocar esse mas?
+
+397
+00:56:53,200 --> 00:56:55,200
+Antes ou depois do nome de Jesus?
+
+398
+00:57:00,200 --> 00:57:05,200
+Se vier o meu nome, depois o mas, e em seguida Jesus?
+
+399
+00:57:05,200 --> 00:57:06,200
+Ok.
+
+400
+00:57:07,200 --> 00:57:11,200
+Agora, se vier o nome de Jesus, depois o mas e em seguida o meu nome?
+
+401
+00:57:13,200 --> 00:57:14,200
+Entendendo?
+
+402
+00:57:18,200 --> 00:57:23,200
+Eu tenho a capacidade, com Jesus, que toda concha tem,
+
+403
+00:57:24,200 --> 00:57:27,200
+de transformar um sentimento negativo, um sentimento positivo.
+
+404
+00:57:28,200 --> 00:57:32,200
+Até nas situações extremas, e agora eu guardei,
+
+405
+00:57:33,200 --> 00:57:35,200
+a situação mais extrema.
+
+406
+00:57:39,200 --> 00:57:41,200
+Qual que é a fala de Paulo que nós acabamos de ver?
+
+407
+00:57:42,200 --> 00:57:45,200
+Tudo posso naquele que me fortalece.
+
+408
+00:57:48,200 --> 00:57:50,200
+Perdi o emprego.
+
+409
+00:57:51,200 --> 00:57:55,200
+Tem que transformar aquele sentimento que eu tinha por aquela firma,
+
+410
+00:57:56,200 --> 00:57:57,200
+num sentimento mais nobre.
+
+411
+00:57:58,200 --> 00:58:00,200
+Tudo posso naquele que me fortalece.
+
+412
+00:58:03,200 --> 00:58:08,200
+Perdi um membro do corpo, num processo de amputação.
+
+413
+00:58:09,200 --> 00:58:15,200
+Tem que transformar aquele sentimento que marcava minha relação com o próprio corpo,
+
+414
+00:58:16,200 --> 00:58:18,200
+num sentimento mais nobre.
+
+415
+00:58:19,200 --> 00:58:21,200
+Tudo posso naquele que me fortalece.
+
+416
+00:58:22,200 --> 00:58:26,200
+Agora vão aumentar a chama do fogão?
+
+417
+00:58:27,200 --> 00:58:30,200
+Perdi o meu filho.
+
+418
+00:58:31,200 --> 00:58:33,200
+Perdi a minha filha.
+
+419
+00:58:39,200 --> 00:58:48,200
+A perda de um filho é um convite da vida a que esse pai e essa mãe
+
+420
+00:58:49,200 --> 00:58:57,200
+transformem um sentimento de qualidade mediana num sentimento de qualidade superior.
+
+421
+00:58:58,200 --> 00:59:02,200
+É um processo de transsubstanciação de sentimentos.
+
+422
+00:59:04,200 --> 00:59:05,200
+Vamos aprofundar isso?
+
+423
+00:59:06,200 --> 00:59:09,200
+Porque eu larguei isso para o final, porque eu sabia que ia ser mais difícil.
+
+424
+00:59:10,200 --> 00:59:12,200
+Só posso afirmar uma coisa.
+
+425
+00:59:13,200 --> 00:59:14,200
+Perdi um filho.
+
+426
+00:59:15,200 --> 00:59:18,200
+Tudo posso naquele que me fortalece.
+
+427
+00:59:19,200 --> 00:59:25,200
+Bom, tem um gênero textual na psicografia do Chico Xavier,
+
+428
+00:59:25,200 --> 00:59:29,200
+na obra psicografada por Chico Xavier, que é muito pouco estudada,
+
+429
+00:59:30,200 --> 00:59:34,200
+e nós não estudamos ainda aqui nesses anos de história do Mildim,
+
+430
+00:59:35,200 --> 00:59:39,200
+que são as cartas psicografadas, as chamadas cartas familiares.
+
+431
+00:59:40,200 --> 00:59:41,200
+Já ouviram falar?
+
+432
+00:59:42,200 --> 00:59:50,200
+Eram as cartas que o Chico psicografava de autoria de jovens, filhos, às vezes esposos, esposas,
+
+433
+00:59:50,200 --> 00:59:55,200
+mães, pais desencarnados para os seus familiares que aqui permaneceram.
+
+434
+00:59:57,200 --> 01:00:01,200
+Essas cartas consolaram gerações e gerações de familiares.
+
+435
+01:00:02,200 --> 01:00:05,200
+Hoje pela primeira vez eu trouxe uma cartinha.
+
+436
+01:00:06,200 --> 01:00:13,200
+Só que antes da carta do familiar desencarnado para o familiar encarnado,
+
+437
+01:00:14,200 --> 01:00:17,200
+o Emmanuel escreve uma carta para esse familiar encarnado.
+
+438
+01:00:17,200 --> 01:00:22,200
+Ele antecede, ele fala, olha, a sua filha vai escrever.
+
+439
+01:00:23,200 --> 01:00:29,200
+O senhor, o pai encarnado que perdeu a filha, perdeu a filha criança.
+
+440
+01:00:30,200 --> 01:00:33,200
+Hoje estudando essa carta, chorei de litros.
+
+441
+01:00:34,200 --> 01:00:39,200
+Eu tenho um menino de dois anos de idade, meu chicão.
+
+442
+01:00:40,200 --> 01:00:44,200
+Eu acho o meu filho tão lindo, gente. Não sei se vocês...
+
+443
+01:00:44,200 --> 01:00:47,200
+Quando eu olho, meu filho, eu acho ele tão bonito.
+
+444
+01:00:48,200 --> 01:00:51,200
+Hoje eu fiquei vendo ele dormir, eu falei, que moleque bonito, sô.
+
+445
+01:00:52,200 --> 01:00:56,200
+Então, imagine esse pai, o nome dele era Paulo de Deus.
+
+446
+01:00:57,200 --> 01:01:00,200
+Lá em Pedro Leopoldo.
+
+447
+01:01:01,200 --> 01:01:05,200
+Olha lá, ele passou ali agora, pegou um balãozinho dele, um amiguinho dele, o Renatinho.
+
+448
+01:01:06,200 --> 01:01:09,200
+Então, o Paulo de Deus perdeu a menina dele.
+
+449
+01:01:10,200 --> 01:01:12,200
+O nome dela era Leonora.
+
+450
+01:01:13,200 --> 01:01:17,200
+E aí o Emmanuel escreve uma cartinha para ele.
+
+451
+01:01:18,200 --> 01:01:20,200
+Através do chicão, olha, a sua filha vai escrever.
+
+452
+01:01:21,200 --> 01:01:23,200
+Mas antes eu queria te dizer umas coisas.
+
+453
+01:01:24,200 --> 01:01:26,200
+Vamos lá?
+
+454
+01:01:27,200 --> 01:01:30,200
+O Emmanuel começa, gente, essa carta, ela é lindinha,
+
+455
+01:01:31,200 --> 01:01:33,200
+mas está num livro tão difícil de encontrar.
+
+456
+01:01:34,200 --> 01:01:38,200
+Palavras sublimes, é uma coletana de cartas familiares, capítulo 20.
+
+457
+01:01:39,200 --> 01:01:42,200
+Adivinha qual que é o título do capítulo 20 desse livro?
+
+458
+01:01:43,200 --> 01:01:45,200
+Pérola de Deus.
+
+459
+01:01:46,200 --> 01:01:48,200
+Pérola de Deus.
+
+460
+01:01:49,200 --> 01:01:53,200
+De Eleonora para Paulo de Deus, para o pai Paulo de Deus.
+
+461
+01:01:54,200 --> 01:01:58,200
+Meu amigo e meu irmão, que Deus na sua infinita misericórdia
+
+462
+01:01:59,200 --> 01:02:03,200
+acalente o teu coração generoso no seu amor infinito.
+
+463
+01:02:04,200 --> 01:02:10,200
+Sei, filho, da profunda tristeza e do amargo apatimento moral
+
+464
+01:02:11,200 --> 01:02:16,200
+que te vem pungindo nas estradas ásperas da existência material.
+
+465
+01:02:17,200 --> 01:02:19,200
+Então, o Emmanuel começa dizendo o seguinte.
+
+466
+01:02:20,200 --> 01:02:28,200
+Eu sei dessa tristeza profunda, amarga que está no seu coração.
+
+467
+01:02:28,200 --> 01:02:32,200
+Sabe que com Emmanuel, experimentado, espírito veterano,
+
+468
+01:02:33,200 --> 01:02:40,200
+está dizendo para esse pai, filho, na concha do seu coração,
+
+469
+01:02:41,200 --> 01:02:46,200
+no estojo do seu coração, tem um grãozinho de areia te machucando.
+
+470
+01:02:48,200 --> 01:02:54,200
+Que é esse sentimento de pesar que você tem pela sua vida.
+
+471
+01:02:54,200 --> 01:02:59,200
+Esse sentimento de pesar que você tem pela sua filha desencarnada.
+
+472
+01:03:00,200 --> 01:03:02,200
+Em relação a sua filha desencarnada.
+
+473
+01:03:03,200 --> 01:03:04,200
+Ele começa afirmando isso.
+
+474
+01:03:05,200 --> 01:03:07,200
+É qualquer espírito que está afirmando isso? Não.
+
+475
+01:03:08,200 --> 01:03:12,200
+Quem pegar um romance chamado A Dois Mil Anos vai saber que esse sujeito
+
+476
+01:03:13,200 --> 01:03:19,200
+sofreu muito pela perda de um filho, um filho vivo, encarnado,
+
+477
+01:03:19,200 --> 01:03:26,200
+foi raptado e sofreu anos na infância, temeroso de perder a filha,
+
+478
+01:03:27,200 --> 01:03:30,200
+que tinha uma doença incurável. Não era assim?
+
+479
+01:03:32,200 --> 01:03:35,200
+Pois bem. É Emmanuel que está escrevendo isso.
+
+480
+01:03:36,200 --> 01:03:38,200
+Eu sei o que você está sentindo.
+
+481
+01:03:39,200 --> 01:03:43,200
+Mas esse sentimento que você tem aí, que é natural,
+
+482
+01:03:44,200 --> 01:03:48,200
+que não tem nada de errado com ele, a não ser o fato de que ele está te machucando,
+
+483
+01:03:50,200 --> 01:03:53,200
+tá? O luto é natural.
+
+484
+01:03:55,200 --> 01:03:58,200
+Você precisa fazer algo em relação a ele.
+
+485
+01:04:02,200 --> 01:04:07,200
+É natural esse grãozinho de areia entrar no coração de um pai que perdeu um filho, gente?
+
+486
+01:04:08,200 --> 01:04:09,200
+Claro!
+
+487
+01:04:11,200 --> 01:04:14,200
+Mas você precisa fazer algo em relação a esse sentimento.
+
+488
+01:04:16,200 --> 01:04:18,200
+Porque senão ele vai te matar.
+
+489
+01:04:19,200 --> 01:04:20,200
+Eu não estou falando de morte física.
+
+490
+01:04:21,200 --> 01:04:24,200
+Ele vai te aniquilar. Ele vai te exaurir.
+
+491
+01:04:33,200 --> 01:04:34,200
+Estão entendendo?
+
+492
+01:04:38,200 --> 01:04:43,200
+Perdi um filho, inteira idade, uma filha, pequena.
+
+493
+01:04:44,200 --> 01:04:45,200
+Nossa, é uma dor.
+
+494
+01:04:45,200 --> 01:04:46,200
+É uma dor.
+
+495
+01:04:48,200 --> 01:04:49,200
+Não existe.
+
+496
+01:04:50,200 --> 01:04:51,200
+O sujeito vira um zumbi, né?
+
+497
+01:04:52,200 --> 01:04:57,200
+Por um bom tempo ele fica dilacerado por dentro.
+
+498
+01:05:01,200 --> 01:05:06,200
+O Emmanuel está sendo solidário, mas ao mesmo tempo dizendo para o sujeito,
+
+499
+01:05:07,200 --> 01:05:10,200
+você precisa fazer algo em relação a este sentimento.
+
+500
+01:05:10,200 --> 01:05:13,200
+Segunda parábola que nós estamos estudando da pérola.
+
+501
+01:05:15,200 --> 01:05:19,200
+O que que essa concha tem que fazer com esse sentimento,
+
+502
+01:05:19,200 --> 01:05:21,200
+com esse corpo estranho que está dentro dela?
+
+503
+01:05:22,200 --> 01:05:23,200
+Transformar em quê?
+
+504
+01:05:24,200 --> 01:05:25,200
+Em pérola.
+
+505
+01:05:25,200 --> 01:05:27,200
+Não vai desaparecer.
+
+506
+01:05:28,200 --> 01:05:29,200
+Não vai deixar de existir.
+
+507
+01:05:31,200 --> 01:05:33,200
+Não vai sair lá de dentro.
+
+508
+01:05:34,200 --> 01:05:36,200
+Que pai que arranca a pérola,
+
+509
+01:05:36,200 --> 01:05:37,200
+não vai sair lá de dentro.
+
+510
+01:05:38,200 --> 01:05:44,200
+Que pai que arranca um sentimento por uma filha, por um filho, de dentro dele.
+
+511
+01:05:44,200 --> 01:05:45,200
+Não tem como.
+
+512
+01:05:47,200 --> 01:05:50,200
+Agora é possível transformar em outra coisa.
+
+513
+01:05:52,200 --> 01:05:59,200
+É possível qualificar, aprimorar, aperfeiçoar, enobrecer aquilo,
+
+514
+01:06:00,200 --> 01:06:02,200
+transformar o grão de areia em pérola.
+
+515
+01:06:03,200 --> 01:06:04,200
+Continua Emmanuel.
+
+516
+01:06:07,200 --> 01:06:11,200
+Mas eis aqui, meu irmão, a tua filhinha.
+
+517
+01:06:13,200 --> 01:06:15,200
+Não a veem nos teus olhos?
+
+518
+01:06:16,200 --> 01:06:17,200
+Ah, não.
+
+519
+01:06:18,200 --> 01:06:24,200
+Porém, os olhos da alma, a visão psíquica, percebem minha presença.
+
+520
+01:06:25,200 --> 01:06:27,200
+Em seguida, Emmanuel, eu pego e falo assim,
+
+521
+01:06:28,200 --> 01:06:29,200
+sua filhinha está aqui comigo.
+
+522
+01:06:32,200 --> 01:06:33,200
+Você não está vendo?
+
+523
+01:06:33,200 --> 01:06:34,200
+Você não está vendo?
+
+524
+01:06:36,200 --> 01:06:37,200
+É uma pergunta retórica.
+
+525
+01:06:37,200 --> 01:06:38,200
+É claro que ele não estava vendo.
+
+526
+01:06:40,200 --> 01:06:44,200
+Mas é uma maneira do Emmanuel reforçar, ajudar ele a reconhecer.
+
+527
+01:06:44,200 --> 01:06:50,200
+Olha, o que está doendo em você, o corpo estranho no seu coração,
+
+528
+01:06:51,200 --> 01:06:54,200
+não é o que você sente pela sua filha.
+
+529
+01:06:54,200 --> 01:06:57,200
+É o fato de você não ver a sua filha.
+
+530
+01:07:00,200 --> 01:07:01,200
+É isso que dói.
+
+531
+01:07:03,200 --> 01:07:05,200
+Gente, é muito terapêutico isso.
+
+532
+01:07:07,200 --> 01:07:10,200
+Que gênio da terapia espiritual que é Emmanuel.
+
+533
+01:07:12,200 --> 01:07:16,200
+Ele fala pra ela, pra ele, fala pro pau de Deus, fala...
+
+534
+01:07:17,200 --> 01:07:18,200
+Você está vendo ela?
+
+535
+01:07:18,200 --> 01:07:19,200
+Não, né?
+
+536
+01:07:20,200 --> 01:07:21,200
+É isso que dói.
+
+537
+01:07:23,200 --> 01:07:25,200
+Né sentir amor pela sua filha?
+
+538
+01:07:26,200 --> 01:07:28,200
+Isso você já sentia antes, não doia?
+
+539
+01:07:29,200 --> 01:07:33,200
+É o fato de não ver a sua filha.
+
+540
+01:07:39,200 --> 01:07:42,200
+Todo pai que perdeu um filho sabe disso que eu estou falando.
+
+541
+01:07:43,200 --> 01:07:46,200
+Não poder tocar, não poder ver.
+
+542
+01:07:47,200 --> 01:07:50,200
+Então, gente, tem uma consolação espírita
+
+543
+01:07:52,200 --> 01:07:55,200
+do movimento espírita que é muito cretina.
+
+544
+01:07:59,200 --> 01:08:01,200
+Que é chegar.
+
+545
+01:08:03,200 --> 01:08:04,200
+Sabe?
+
+546
+01:08:04,200 --> 01:08:06,200
+Pra um pai que perdeu uma filha, ele fala assim,
+
+547
+01:08:06,200 --> 01:08:09,200
+calma o meu irmãozinho, ela está viva no plano espiritual.
+
+548
+01:08:09,200 --> 01:08:11,200
+Não fala um negócio desse, não.
+
+549
+01:08:12,200 --> 01:08:16,200
+Faz o que o Emmanuel vai estar fazendo aqui, primeiro reconhece.
+
+550
+01:08:16,200 --> 01:08:22,200
+O Xenia falou assim, você não precisa chorar, você não deve chorar, sua filha está viva.
+
+551
+01:08:22,200 --> 01:08:24,200
+Isso é de uma cretinice.
+
+552
+01:08:28,199 --> 01:08:30,199
+Luiz, então o que tem que falar?
+
+553
+01:08:30,199 --> 01:08:35,199
+Meu, deve estar doendo a beça, porque você não vê ela.
+
+554
+01:08:38,199 --> 01:08:43,199
+Ah, mas o outro vai desabar, chorar, mas deixa chorar da seu ombro.
+
+555
+01:08:44,199 --> 01:08:46,199
+Vem cá, me abraça aqui.
+
+556
+01:08:47,199 --> 01:08:49,199
+Você deve estar sofrendo demais.
+
+557
+01:08:49,199 --> 01:08:53,199
+Porque dói muito não ver alguém que se ama.
+
+558
+01:08:54,199 --> 01:08:57,199
+Levanta a mão aí quem o filho mora em outra cidade.
+
+559
+01:09:00,199 --> 01:09:02,199
+Dói, não dói?
+
+560
+01:09:06,199 --> 01:09:08,199
+Pode imaginar outro plano.
+
+561
+01:09:13,199 --> 01:09:18,199
+O Emmanuel está levando o Paulo de Deus a reconhecer a própria dor.
+
+562
+01:09:18,199 --> 01:09:24,199
+Porque ele sentia a dor, não entendia a dor, é diferente.
+
+563
+01:09:24,199 --> 01:09:30,199
+Um processo terapêutico, que todo terapeuta de excelência faz nesses casos,
+
+564
+01:09:30,199 --> 01:09:33,199
+é o reconhecimento da dor.
+
+565
+01:09:33,199 --> 01:09:36,199
+Uma coisa é você sentir a dor, outra coisa é você entendê-la.
+
+566
+01:09:36,199 --> 01:09:43,199
+Quando a gente vai no médico, a gente não quer ouvir do médico ou você estar sentindo dor.
+
+567
+01:09:43,199 --> 01:09:45,199
+Eu sei, por isso que eu estou aqui.
+
+568
+01:09:45,199 --> 01:09:49,199
+O que você quer que o médico te ajude a fazer?
+
+569
+01:09:50,199 --> 01:09:52,199
+Entender sua dor.
+
+570
+01:09:55,199 --> 01:09:58,199
+Por que que dói? Como que dói?
+
+571
+01:10:00,199 --> 01:10:04,199
+A primeira coisa, continue Emmanuel.
+
+572
+01:10:05,199 --> 01:10:09,199
+A primeira coisa, continue Emmanuel.
+
+573
+01:10:11,199 --> 01:10:17,199
+Tua filhinha é feliz, profundamente venturosa.
+
+574
+01:10:17,199 --> 01:10:21,199
+E eu a trouxe aqui comigo, como irmãzinha bem amada.
+
+575
+01:10:21,199 --> 01:10:23,199
+Ele vira para o Paulo de Deus e fala assim.
+
+576
+01:10:23,199 --> 01:10:27,199
+Olha, eu já te disse que eu sei que você sofre.
+
+577
+01:10:27,199 --> 01:10:30,199
+E já te disse porque que você sofre.
+
+578
+01:10:31,199 --> 01:10:37,199
+Eu sei que você sente dor e sei que você sente dor porque não vê ela.
+
+579
+01:10:37,199 --> 01:10:39,199
+Agora eu vou te dizer outra coisa.
+
+580
+01:10:40,199 --> 01:10:42,199
+Ela não sofre.
+
+581
+01:10:46,199 --> 01:10:49,199
+Isso é uma confrontação.
+
+582
+01:10:49,199 --> 01:10:51,199
+Uma confrontação.
+
+583
+01:10:56,199 --> 01:11:02,199
+Porque uma parte do pesar do pai é não saber se a filha está bem.
+
+584
+01:11:02,199 --> 01:11:04,199
+Não é assim?
+
+585
+01:11:06,199 --> 01:11:12,199
+Quando o pai é altruísta e fica sabendo que a filha está bem,
+
+586
+01:11:12,199 --> 01:11:16,199
+a dor já começa a perder a sua potência.
+
+587
+01:11:19,199 --> 01:11:21,199
+Ela está bem.
+
+588
+01:11:21,199 --> 01:11:22,199
+Ela está feliz.
+
+589
+01:11:22,199 --> 01:11:25,199
+O irmão não valeu. O irmão não falou para ela. Ela está feliz, viu?
+
+590
+01:11:25,199 --> 01:11:28,199
+Você está sofrendo, mas ela está feliz.
+
+591
+01:11:28,199 --> 01:11:36,199
+Se o pai é altruísta, ali o sentimento começa.
+
+592
+01:11:36,199 --> 01:11:42,199
+Aquela chama queimando por dentro começa a perder potência.
+
+593
+01:11:42,199 --> 01:11:45,199
+Agora, e se o pai é egoísta?
+
+594
+01:11:50,199 --> 01:11:55,199
+É aquele negócio do pai que liga para o filho, que estuda fora,
+
+595
+01:11:55,199 --> 01:11:56,199
+e o filho está ótimo.
+
+596
+01:11:56,199 --> 01:11:59,199
+Oi, mãe! Oi, pai! Eu estou aqui tão ótimo!
+
+597
+01:11:59,199 --> 01:12:01,199
+E o pai desliga, meio chateado.
+
+598
+01:12:01,199 --> 01:12:03,199
+É, parece que está tudo bem lá.
+
+599
+01:12:04,199 --> 01:12:08,199
+Ou então o pai que vai levar o filho pela primeira vez na escola,
+
+600
+01:12:08,199 --> 01:12:12,199
+e o filho larga na mão dele, e depois quando ele vai buscar o filho fala,
+
+601
+01:12:12,199 --> 01:12:14,199
+nossa, pai, foi tão legal a escola!
+
+602
+01:12:14,199 --> 01:12:18,199
+Aí o pai fala assim, mas você não sentiu nem um pouquinho de saudade do papai?
+
+603
+01:12:19,199 --> 01:12:20,199
+Não tem isso?
+
+604
+01:12:26,199 --> 01:12:29,199
+Então Emmanuel ali já começa a confrontar ele.
+
+605
+01:12:29,199 --> 01:12:33,199
+Ele fala assim, ó, o que você sente ao saber que sua filha está feliz?
+
+606
+01:12:37,199 --> 01:12:40,199
+Que cirurgia que o Emmanuel está fazendo, hein?
+
+607
+01:12:41,199 --> 01:12:43,199
+Que cirurgia?
+
+608
+01:12:44,199 --> 01:12:45,199
+Continua, Emmanuel.
+
+609
+01:12:45,199 --> 01:12:46,199
+Emmanuel,
+
+610
+01:12:49,199 --> 01:12:52,199
+não te lembras da sua privilegiada inteligência,
+
+611
+01:12:52,199 --> 01:12:54,199
+dos seus sentimentos elevados,
+
+612
+01:12:54,199 --> 01:12:58,199
+que então terros anos manifestavam a sua evolução espiritual?
+
+613
+01:12:58,199 --> 01:13:02,199
+Ele pergunta para o pai, você não está lembrado quanto sua filha era evoluída?
+
+614
+01:13:04,199 --> 01:13:05,199
+Aí,
+
+615
+01:13:06,199 --> 01:13:08,199
+o Emmanuel pega, sabe,
+
+616
+01:13:08,199 --> 01:13:11,199
+e dá um imposto de judô no pai e fala assim,
+
+617
+01:13:11,199 --> 01:13:16,199
+sabe por que você sofre e sua filha não?
+
+618
+01:13:19,199 --> 01:13:22,199
+Porque ela é mais evoluída
+
+619
+01:13:23,199 --> 01:13:24,199
+que você.
+
+620
+01:13:25,199 --> 01:13:30,199
+Porque aquilo que ela tem no peito, no coração é pérola,
+
+621
+01:13:31,199 --> 01:13:35,199
+e aquilo que você tem no peito, no coração é
+
+622
+01:13:36,199 --> 01:13:37,199
+grão de areia.
+
+623
+01:13:38,199 --> 01:13:42,199
+Gente, eu sei da responsabilidade do que eu estou falando agora.
+
+624
+01:13:43,199 --> 01:13:48,199
+Eu sei quantos milhares de pais que perderam seus filhos são que estão me ouvindo.
+
+625
+01:13:50,199 --> 01:13:55,199
+Mas isso que eu estou dizendo aqui, o que o Emmanuel disse para um pai na mesma situação.
+
+626
+01:14:00,199 --> 01:14:05,199
+E eu abri esse estudo hoje dizendo que transformar grão de areia em pérola
+
+627
+01:14:05,199 --> 01:14:07,199
+não era um processo fácil.
+
+628
+01:14:07,199 --> 01:14:10,199
+Eu avisei e falei que é um processo doloroso,
+
+629
+01:14:10,199 --> 01:14:13,199
+porque a porta perulada,
+
+630
+01:14:13,199 --> 01:14:17,199
+a porta de pérolas do Apocalipse que eu falei hoje,
+
+631
+01:14:17,199 --> 01:14:19,199
+ela é estreita.
+
+632
+01:14:26,199 --> 01:14:27,199
+Ela é estreita.
+
+633
+01:14:31,199 --> 01:14:34,199
+Sabe como é que o Emmanuel fecha a questão?
+
+634
+01:14:35,199 --> 01:14:37,199
+Ele pega e diz assim,
+
+635
+01:14:37,199 --> 01:14:41,199
+a tua filhinha, meu amigo, era de Deus primeiramente.
+
+636
+01:14:42,199 --> 01:14:46,199
+Os pais da Terra são zeradores, sem ser criadores.
+
+637
+01:14:51,199 --> 01:14:53,199
+E sabe porque a sua filha
+
+638
+01:14:54,199 --> 01:14:56,199
+é mais evoluída que você?
+
+639
+01:14:56,199 --> 01:15:01,199
+Porque o sentimento dela por você é mais nobre do que o sentimento que você tem por ela?
+
+640
+01:15:02,199 --> 01:15:05,199
+Porque ela reconhece que não te ama sozinha.
+
+641
+01:15:07,199 --> 01:15:09,199
+Que ela te ama com Deus.
+
+642
+01:15:12,199 --> 01:15:18,199
+E você acha que é o único que ama ela.
+
+643
+01:15:32,199 --> 01:15:36,199
+Eita, esse, mano, não é brincadeira, não, gente.
+
+644
+01:15:38,199 --> 01:15:41,199
+Quer dizer, ia vir a carta da filha?
+
+645
+01:15:41,199 --> 01:15:45,199
+Ia. Qual que era o intuito da carta da filha?
+
+646
+01:15:46,199 --> 01:15:51,199
+Confortar, consolar, porque vamos e venhamos.
+
+647
+01:15:52,199 --> 01:15:55,199
+Ainda mais através da mediunidade abençoada de Chico Xavier.
+
+648
+01:15:56,199 --> 01:16:03,199
+Depois de um desencarne, você lê a letrinha da sua filha dizendo papai.
+
+649
+01:16:04,199 --> 01:16:07,199
+Isso conforta demais, né?
+
+650
+01:16:07,199 --> 01:16:09,199
+A filha está viva.
+
+651
+01:16:09,199 --> 01:16:13,199
+Mas antes do conforto, veio o Emmanuel e educou.
+
+652
+01:16:15,199 --> 01:16:20,199
+Libertou, despertou, orientou, escareceu.
+
+653
+01:16:20,199 --> 01:16:22,199
+Porque a função da doutrina espírita.
+
+654
+01:16:23,199 --> 01:16:26,199
+Amai-vos e instruí-vos.
+
+655
+01:16:29,199 --> 01:16:31,199
+Acrescenta o Emmanuel.
+
+656
+01:16:32,199 --> 01:16:35,199
+Deus te confiou uma pérola.
+
+657
+01:16:35,199 --> 01:16:42,199
+Que ao fim de certo tempo, teria de ser devolvida ao seu cofre.
+
+658
+01:16:45,199 --> 01:16:46,199
+Vamos lá?
+
+659
+01:16:47,199 --> 01:16:56,199
+Suponhamos que eu já consegui fazer um processo de aperfeiçoamento do sentimento.
+
+660
+01:16:56,199 --> 01:16:59,199
+E o que era grão de areia, virou pérola.
+
+661
+01:17:04,199 --> 01:17:10,199
+O sentimento pelo meu filho ou para minha filha, já é no meu coração pérola.
+
+662
+01:17:10,199 --> 01:17:14,199
+Vamos supor, uma situação hipotética.
+
+663
+01:17:15,199 --> 01:17:16,199
+Certo?
+
+664
+01:17:16,199 --> 01:17:22,199
+Quando eu estou convivendo com o meu filho ou com a minha filha, eu estou vendo a pérola.
+
+665
+01:17:25,199 --> 01:17:27,199
+Eu estou abraçando a pérola.
+
+666
+01:17:27,199 --> 01:17:29,199
+Eu estou beijando a pérola.
+
+667
+01:17:29,199 --> 01:17:31,199
+Está entendendo?
+
+668
+01:17:31,199 --> 01:17:34,199
+O sentimento está no meu coração.
+
+669
+01:17:34,199 --> 01:17:41,199
+Mas se o meu filho passa, o corpo dele passa e me abraça, me dá um beijo no rosto,
+
+670
+01:17:41,199 --> 01:17:48,199
+me entrega uma rosa, eu vi a pérola, eu beijei a pérola, eu toquei a pérola.
+
+671
+01:17:48,199 --> 01:17:53,199
+Bem complexo isso que eu estou tentando explicar para vocês.
+
+672
+01:17:53,199 --> 01:17:56,199
+Mas aí meu filho desencarnou.
+
+673
+01:17:58,199 --> 01:18:03,199
+Eu não vejo, eu não toco, eu não beijo, eu não abraço.
+
+674
+01:18:05,199 --> 01:18:08,199
+Qual que é a impressão de que eu vou ter agora?
+
+675
+01:18:09,199 --> 01:18:14,199
+De que a pérola desapareceu.
+
+676
+01:18:14,199 --> 01:18:15,199
+É?
+
+677
+01:18:16,199 --> 01:18:18,199
+Não, a irmã não está dizendo.
+
+678
+01:18:18,199 --> 01:18:21,199
+A pérola está onde?
+
+679
+01:18:22,199 --> 01:18:24,199
+No estojo.
+
+680
+01:18:28,199 --> 01:18:30,199
+É a tomada de consciência.
+
+681
+01:18:31,199 --> 01:18:44,199
+Se o meu sentimento é nobre por ele, só, só me restará tomar a consciência, despertar,
+
+682
+01:18:44,199 --> 01:18:48,199
+para o fato de que o corpo não está mais aqui.
+
+683
+01:18:48,199 --> 01:18:55,199
+Eu não vejo, não escuto, não beijo mais o meu amor.
+
+684
+01:18:55,199 --> 01:18:58,199
+Mas ele não deixou de existir.
+
+685
+01:19:00,199 --> 01:19:03,199
+O sentimento está aqui.
+
+686
+01:19:05,199 --> 01:19:11,199
+Isso vai além da questão da imortalidade da alma, vai além disso.
+
+687
+01:19:12,199 --> 01:19:14,199
+Sabe por que que tem que esclarecer isso?
+
+688
+01:19:14,199 --> 01:19:22,199
+Porque tem pais espiritas, existe o pai espírita, que acredita na imortalidade da alma,
+
+689
+01:19:22,199 --> 01:19:29,199
+que acredita na reencarnação, que sabe que o filho que desencarnou está vivo, mas é inconsolável.
+
+690
+01:19:30,199 --> 01:19:32,199
+Não para de sofrer.
+
+691
+01:19:38,199 --> 01:19:40,199
+Sabe o que está acontecendo ali?
+
+692
+01:19:41,199 --> 01:19:52,199
+Ele está se esquecendo que o filho está fora, encarnado ou desencarnado, mas o sentimento está dentro.
+
+693
+01:19:53,199 --> 01:19:57,199
+Isso é a melhor das hipóteses, quando o sentimento já é perolado.
+
+694
+01:19:58,199 --> 01:20:04,199
+E tem aquela outra situação, que o Emmanuel sugere que talvez seja o caso desse pai,
+
+695
+01:20:04,199 --> 01:20:08,199
+ou falou para muitos que estavam ali, porque tem esse detalhe.
+
+696
+01:20:09,199 --> 01:20:12,199
+O Paulo de Deus, o que me parece também, é meio bode expiatório,
+
+697
+01:20:12,199 --> 01:20:16,199
+porque o Emmanuel, ele espingarda a velha, atira para todo lado.
+
+698
+01:20:16,199 --> 01:20:22,199
+Ele sabe que a carta que ele está ditando, que vai ser lida, não vai ser lida só para o Paulo de Deus,
+
+699
+01:20:23,199 --> 01:20:28,199
+e é ser lido por uma assembleia inteira de pais e mães que perderam seus filhos.
+
+700
+01:20:30,199 --> 01:20:35,199
+Por isso que é tão importante o pai que vai no trabalho de psicografia buscar uma mensagem do filho,
+
+701
+01:20:35,199 --> 01:20:39,199
+se a mensagem do filho não vier, a noite não foi perdida,
+
+702
+01:20:39,199 --> 01:20:45,199
+ele aprende ouvindo a mensagem que outros filhos entregaram para outros pais.
+
+703
+01:20:47,199 --> 01:20:50,199
+E aí o Emmanuel está dizendo ao Paulo de Deus,
+
+704
+01:20:51,199 --> 01:20:53,199
+guarda sua pele no peito.
+
+705
+01:20:55,199 --> 01:20:57,199
+Como é que é isso?
+
+706
+01:20:57,199 --> 01:21:10,199
+Eu fecho os olhos, lembro e sinto, e fico contente por lembrar, por sentir.
+
+707
+01:21:11,199 --> 01:21:13,199
+Está entendendo?
+
+708
+01:21:14,199 --> 01:21:22,199
+Fechar os olhos, estou materializando a coisa, mas quando a gente quer ficar introspectivo é o que a gente faz.
+
+709
+01:21:22,199 --> 01:21:28,199
+Eu pego uma música que o meu filho gostava, ponho no ouvido e ouço.
+
+710
+01:21:30,199 --> 01:21:32,199
+E sinto. E choro.
+
+711
+01:21:34,199 --> 01:21:36,199
+Choro.
+
+712
+01:21:37,199 --> 01:21:41,199
+E me sinto contente, porque sinto.
+
+713
+01:21:44,199 --> 01:21:47,199
+Preste atenção no que eu vou dizer.
+
+714
+01:21:48,199 --> 01:21:58,199
+Vamos dirigir ao pai, a mãe, o esposo, a esposa, o filho que chora a despedida de um ente amado.
+
+715
+01:21:59,199 --> 01:22:07,199
+A saudade é o preço alto que a gente paga por amar.
+
+716
+01:22:07,199 --> 01:22:23,199
+Amar alguém, sentir algo por alguém, é um negócio tão espetacular, tão grandioso, tão magnânimo que não pode ser de graça.
+
+717
+01:22:24,199 --> 01:22:36,199
+Você paga o preço, você banca isso, e o preço é a saudade.
+
+718
+01:22:37,199 --> 01:22:49,199
+E aí você se contenta, você fala assim, nossa, se eu pagar o preço, se eu sinto a saudade, é porque eu também sinto amor.
+
+719
+01:22:50,199 --> 01:23:00,199
+E sentir amor por alguém é algo muito precioso, e se ainda não é amor, se ainda não é pérola, eu tenho que aperfeiçoar,
+
+720
+01:23:00,199 --> 01:23:08,199
+porque pode ser, de repente, apego, posse, revolta, rebeldia.
+
+721
+01:23:16,199 --> 01:23:18,199
+Encerro, Emmanuel.
+
+722
+01:23:19,199 --> 01:23:29,199
+A nossa irmãzinha te abraça e pede a tua bênção, enviando também um beijo para sua mãezinha Madalena.
+
+723
+01:23:30,199 --> 01:23:35,199
+Antes, porém, de regressarmos, quero ajudá-la a escrever umas linhas.
+
+724
+01:23:36,199 --> 01:23:43,199
+Ora, meu irmão, estuda e sobretudo confia.
+
+725
+01:23:46,199 --> 01:23:51,199
+Guarda a tua esperança em Deus, que é o Pai amoroso de todos nós.
+
+726
+01:23:53,199 --> 01:23:57,199
+Ora, meu irmão, estuda e confia.
+
+727
+01:23:58,199 --> 01:24:01,199
+Ora, estuda e confia.
+
+728
+01:24:02,199 --> 01:24:07,199
+Eu queria chamar a atenção para o estuda, não é sair lendo livro, não.
+
+729
+01:24:08,199 --> 01:24:14,199
+Estuda isso que tem dentro da concha do seu coração, é grão de areia ou já foi transformado em pérola?
+
+730
+01:24:17,199 --> 01:24:21,199
+Isso é estudo, avalia.
+
+731
+01:24:22,199 --> 01:24:34,199
+E antes disso, eu sou um homem do mundo, eu sou um negociante do mundo, eu sou um engenheiro, eu sou um médico, eu sou um professor, eu sou um empresário,
+
+732
+01:24:35,199 --> 01:24:47,199
+sou funcionário público, mas eu sou um desses que já está interessado, preocupado com as pérolas, ou não, que estão no meu coração,
+
+733
+01:24:47,199 --> 01:24:59,199
+ou não, que estão no meu coração, eu sou alguém inteiramente, integralmente entregue aos tesouros, às pérolas do mundo.
+
+734
+01:25:00,199 --> 01:25:01,199
+Isso tudo é estudo.
+
+735
+01:25:02,199 --> 01:25:05,199
+Orar, sintonizar-se com o alto.
+
+736
+01:25:06,199 --> 01:25:14,199
+Estudar, autoavaliar-se, autoconhecer-se, confiar.
+
+737
+01:25:15,199 --> 01:25:17,199
+Não fazer isso sozinho.
+
+738
+01:25:18,199 --> 01:25:20,199
+Se eu orei porque eu reconheci um poder maior.
+
+739
+01:25:21,199 --> 01:25:28,199
+E se eu vou estudar, se eu vou fazer essa autoreflexão, vou fazer ela na companhia de Jesus, que é esse poder maior.
+
+740
+01:25:31,199 --> 01:25:38,199
+Passando um pouquinho do horário hoje, peço desculpa pessoal, mas é porque a gente quer lidar com alguma coisa muito delicada, muito nobre,
+
+741
+01:25:39,199 --> 01:25:41,199
+pelo sentimento de um pai e de uma mãe.
+
+742
+01:25:42,199 --> 01:25:49,199
+Tá bom, gente? Fique com Deus, orem, estudem e confiem.
+
+743
+01:25:50,199 --> 01:25:51,199
+Até a semana que vem.
