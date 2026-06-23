@@ -32,7 +32,7 @@ except Exception as e:
     st.stop()
 
 # --- MODELOS ---
-GENERATIVE_MODEL_NAME = 'gemini-2.5-flash'
+GENERATIVE_MODEL_NAME = 'gemini-3.5-flash'
 EMBEDDING_MODEL_NAME = 'jinaai/jina-embeddings-v3' 
 
 # --- ARQUIVOS E CONSTANTES ---
